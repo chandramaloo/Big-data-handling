@@ -45,15 +45,25 @@ class Country:
 
 class Sentence:
 	def __init__(self):
-		self.words = []
+		self.words = None
 		self.code = None
 		self.values = []
 		self.country_name = []
+
+	def __init__(self,code,words,values,country_name):
+		self.words = words
+		self.code = None
+		self.values = []
+		self.values = values
+		self.country_name = []
+		self.country_name = country_name
 
 	def Score(Country,value,Attribute):
 		pass
 # 		for w in words
 # 			compare with country.Attribute[k].keywords 
+# 		and find the score
+#		if > cutoff print in a file all the needed fields
 
 	def doAll(self):
 		for c in country_array[cn[self.country_name]]:
@@ -84,30 +94,32 @@ def main():
 				cc[row[0]]=count
 				count=count+1
 	
-	# with open('text.csv', 'w') as cin:
-	# 	cin=csv.writer(cin, delimiter='\t')
-	# 	for i in country_array:
-	# 		cin.writerow([i.code,i.name_array])
-	# #make attribute array - selected_indicators / target-relations.tsv; p[code]=integer
-		with open('selected_indicators','r') as attrib_cin:
-			attrib_cin=csv.reader(attrib_cin, delimiter='\t')
-			count=0
-			for row in attrib_cin:
-				key=row[0].split('_')
-				if len(row)==3:	ext=""
-				else: ext=row[3]
-				ct=Attribute(key, row[1], row[2], ext)
-				attribute_array_main.append(ct)
-				p[row[2]]=count
-				count=count+1
-		
-		with open('text.csv', 'w') as cin:
-		 	cin=csv.writer(cin, delimiter='\t')
-		 	for i in attribute_array_main:
-		 		cin.writerow([i.code,i.keywords,i.desc,i.units])
-# 	#copy into each country and populate values - kb-facts-train_SI.tsv
+	with open('selected_indicators','r') as attrib_cin:
+		attrib_cin=csv.reader(attrib_cin, delimiter='\t')
+		count=0
+		for row in attrib_cin:
+			key=row[0].split('_')
+			if len(row)==3:	ext=""
+			else: ext=row[3]
+			ct=Attribute(key, row[1], row[2], ext)
+			attribute_array_main.append(ct)
+			p[row[2]]=count
+			count=count+1
+	
+	for i in country_array:
+		i.addAttribute(attribute_array_main)
 
-# 	#create output.csv
-# 	#iterate through sentences
+	with open('kb-facts-train_SI.tsv','r') as fact_cin:
+		fact_cin=csv.reader(fact_cin, delimiter='\t')
+		count=0
+		for row in fact_cin:
+			country_array[cc[row[0]]].attribute_array[p[row[2]]].values.append(row[1])
+	
+	with open('sentences.tsv','r') as sent_cin:
+		sent_cin=csv.reader(sent_cin, delimiter='\t')
+		count=0
+		for row in sent_cin:
+			a= Sentence(row[0],row[1],map(str.strip,row[2].split(',')),map(str.strip,row[3].split(',')))
+			a.doAll()
 
 if __name__ == "__main__": main()
