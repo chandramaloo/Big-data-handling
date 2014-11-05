@@ -6,6 +6,9 @@ cn = dict()
 cc = dict()
 p = dict()
 
+#Constants
+threshold=0
+
 class Attribute:
 	def __init__(self):
 		self.code = None
@@ -23,6 +26,7 @@ class Attribute:
 		self.values = []
 
 attribute_array_main = []
+country_array = []
 
 class Country:
 	
@@ -52,24 +56,36 @@ class Sentence:
 
 	def __init__(self,code,words,values,country_name):
 		self.words = words
-		self.code = None
+		self.code = code
 		self.values = []
 		self.values = values
 		self.country_name = []
 		self.country_name = country_name
 
-	def Score(Country,value,Attribute):
-		pass
+	def Score(self,Country,value,Attribute):
+		score=0
+		if( 1000 < value and value < 2100 ): return 0
+		wordings = self.words.split(' ')
+		for w in wordings:
+			for key in Attribute.keywords:
+				if(key==w): score=score+1
+		return score 
 # 		for w in words
 # 			compare with country.Attribute[k].keywords 
 # 		and find the score
 #		if > cutoff print in a file all the needed fields
 
 	def doAll(self):
-		for c in country_array[cn[self.country_name]]:
-			for v in values:
-				for a in country_array[cn[self.country_name]].attribute_array:
-					self.Score(c,v,a)
+		for c in self.country_name:
+			while ((c not in cn.keys() ) and ( c!="")):
+				c=c[:len(c)-1]
+			if c!="":
+				cntry=country_array[cn[c]]
+				for v in self.values:
+					for a in cntry.attribute_array:
+						score = self.Score(cntry,v,a)
+						if score > threshold:
+							print(self.code,c,a.code,v,score)
 
 def main():
 	#reading countries_id_map
