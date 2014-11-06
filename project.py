@@ -27,7 +27,6 @@ class Attribute:
 		self.expect = 0
 
 attribute_array_main = []
-country_array = []
 
 class Country:
 	def __init__(self,code,name):
@@ -39,12 +38,9 @@ class Country:
 	def addCountry(self,name):
 		self.name_array.append(name)
 
-	def addAttribute(self,attribute = []):
-		for i in range(len(attribute)):
-			self.attribute_array.append(attribute[i])
-
-	def setValue(self,code,value):
-		self.attribute_array[p[code]].values.append(value)
+	def addAttribute(self):
+		for i in range(len(attribute_array_main)):
+			self.attribute_array.append(attribute_array_main[i])
 
 class Sentence:
 	def __init__(self):
@@ -79,8 +75,8 @@ class Sentence:
 				for v in self.values:
 					for a in cntry.attribute_array:
 						score = self.Score(cntry,v,a)
-						if score > threshold:
-							print (self.code , c , a.code , v , score)
+						if score > threshold: pass
+						#	print (self.code , c , a.code , v , score)
 
 def main():
 	with open('countries_id_map.txt','r') as country_cin:
@@ -117,7 +113,11 @@ def main():
 			count=count+1
 	
 	for i in country_array:
-		i.addAttribute(attribute_array_main)
+		i.addAttribute()
+
+	country_array[0].attribute_array[2].expect=10
+	print country_array[0].attribute_array[2].expect
+	print country_array[1].attribute_array[2].expect
 
 	with open('kb-facts-train_SI.tsv','r') as fact_cin:
 		fact_cin=csv.reader(fact_cin, delimiter='\t')
@@ -136,7 +136,9 @@ def main():
 					print "Expect: "+str((exp/count))
 					Expect=(exp/count)
 					print (country_array[cc[prevc]].name_array[0],country_array[cc[prevc]].attribute_array[p[prevp]].code)
+					print (cc[prevc],p[prevp])
 					country_array[cc[prevc]].attribute_array[p[prevp]].expect=Expect
+					print country_array[cc[prevc]].attribute_array[p[prevp]].expect
 					prevp=row[2]; prevc=row[0];
 					exp=float(row[1])
 					count=1
@@ -146,7 +148,8 @@ def main():
 					
 	for c in country_array:
 	 	for a in c.attribute_array:
-			print (c.name_array[0],a.code,a.expect)	
+			print (c.name_array[0],a.code,a.expect)
+
 
 	with open('sentences.tsv','r') as sent_cin:
 		sent_cin=csv.reader(sent_cin, delimiter='\t')
