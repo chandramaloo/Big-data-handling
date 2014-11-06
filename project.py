@@ -4,12 +4,12 @@ from copy import deepcopy
 
 country_array = []
 attribute_array_main = []
-
+e = 2.718
 cn = dict()
 cc = dict()
 p = dict()
 
-threshold=0
+threshold=50
 
 class Attribute:
 	def __init__(self):
@@ -59,15 +59,15 @@ class Sentence:
 		self.country_name = country_name
 
 	def Score(self,Country,value,Attribute):
-		score=0
-		if ( float(value) <  0.1 * float(Country.attribute_array[p[Attribute.code]].expect) ) : return 0
+		if ( float(value) <  0.2 * float(Country.attribute_array[p[Attribute.code]].expect) ) : return 0
+		if ( float(value) >  5 * float(Country.attribute_array[p[Attribute.code]].expect) ) : return 0
 		wordings = self.words.split(' ')
 		for w in wordings:
 			for key in Attribute.keywords:
-				if(key==w): score=score+1
-		return score
+				if(key==w): return (pow(e,-pow(float(Country.attribute_array[p[Attribute.code]].expect)-float(value),2))*100)
 
 	def doAll(self):
+		out = open("output.csv","ab")
 		for c in self.country_name:
 			while ((c not in cn.keys() ) and ( c!="")):
 				c=c[:len(c)-1]
@@ -78,7 +78,7 @@ class Sentence:
 						for a in cntry.attribute_array:
 							score = self.Score(cntry,v,a)
 							if score > threshold:
-								print (self.code , c , a.code , v , score)
+								out.write(str(self.code)+","+str(c)+","+str(a.code)+","+str(v)+","+str(score)+"\n")
 
 def main():
 	with open('countries_id_map.txt','r') as country_cin:
