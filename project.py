@@ -1,6 +1,9 @@
 import csv
+import ast
+from copy import deepcopy
 
 country_array = []
+attribute_array_main = []
 
 cn = dict()
 cc = dict()
@@ -26,8 +29,6 @@ class Attribute:
 		self.values = []
 		self.expect = 0
 
-attribute_array_main = []
-
 class Country:
 	def __init__(self,code,name):
 		self.attribute_array = []
@@ -40,7 +41,7 @@ class Country:
 
 	def addAttribute(self):
 		for i in range(len(attribute_array_main)):
-			self.attribute_array.append(attribute_array_main[i])
+			self.attribute_array.append(deepcopy(attribute_array_main[i]))
 
 class Sentence:
 	def __init__(self):
@@ -53,13 +54,13 @@ class Sentence:
 		self.words = words
 		self.code = code
 		self.values = []
-		self.values = values
+		self.values = deepcopy(values)
 		self.country_name = []
 		self.country_name = country_name
 
 	def Score(self,Country,value,Attribute):
 		score=0
-		if ( value < 0.1 * Country.attribute_array[p[Attribute.code]].expect ) : return 0
+		if ( float(value) <  0.1 * float(Country.attribute_array[p[Attribute.code]].expect) ) : return 0
 		wordings = self.words.split(' ')
 		for w in wordings:
 			for key in Attribute.keywords:
@@ -73,10 +74,11 @@ class Sentence:
 			if c!="":
 				cntry=country_array[cn[c]]
 				for v in self.values:
-					for a in cntry.attribute_array:
-						score = self.Score(cntry,v,a)
-						if score > threshold: pass
-						#	print (self.code , c , a.code , v , score)
+					if v!="":
+						for a in cntry.attribute_array:
+							score = self.Score(cntry,v,a)
+							if score > threshold:
+								print (self.code , c , a.code , v , score)
 
 def main():
 	with open('countries_id_map.txt','r') as country_cin:
@@ -116,8 +118,6 @@ def main():
 		i.addAttribute()
 
 	country_array[0].attribute_array[2].expect=10
-	print country_array[0].attribute_array[2].expect
-	print country_array[1].attribute_array[2].expect
 
 	with open('kb-facts-train_SI.tsv','r') as fact_cin:
 		fact_cin=csv.reader(fact_cin, delimiter='\t')
@@ -133,12 +133,8 @@ def main():
 					exp=exp+float(row[1])
 					count=count+1
 				else :
-					print "Expect: "+str((exp/count))
 					Expect=(exp/count)
-					print (country_array[cc[prevc]].name_array[0],country_array[cc[prevc]].attribute_array[p[prevp]].code)
-					print (cc[prevc],p[prevp])
 					country_array[cc[prevc]].attribute_array[p[prevp]].expect=Expect
-					print country_array[cc[prevc]].attribute_array[p[prevp]].expect
 					prevp=row[2]; prevc=row[0];
 					exp=float(row[1])
 					count=1
@@ -146,11 +142,6 @@ def main():
 		Expect=(exp/count)
 		country_array[cc[prevc]].attribute_array[p[prevp]].expect=Expect
 					
-	for c in country_array:
-	 	for a in c.attribute_array:
-			print (c.name_array[0],a.code,a.expect)
-
-
 	with open('sentences.tsv','r') as sent_cin:
 		sent_cin=csv.reader(sent_cin, delimiter='\t')
 		count=0
@@ -158,4 +149,4 @@ def main():
 			a= Sentence(row[0].strip(),row[1],map(str.strip,row[2].split(',')),map(str.strip,row[3].split(',')))
 			a.doAll()
 
-if __name__ == "__main__": main()
+main()
