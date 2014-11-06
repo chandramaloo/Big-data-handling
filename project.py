@@ -30,7 +30,6 @@ attribute_array_main = []
 country_array = []
 
 class Country:
-	
 	def __init__(self,code,name):
 		self.attribute_array = []
 		self.code=code
@@ -46,7 +45,6 @@ class Country:
 
 	def setValue(self,code,value):
 		self.attribute_array[p[code]].values.append(value)
-
 
 class Sentence:
 	def __init__(self):
@@ -130,17 +128,21 @@ def main():
 				count=count+1
 				prevc=row[0]
 				prevp=row[2]
-			else : 
-				if prevc==row[0] and prevp==row[2]:
+			else :
+				if ( prevc==row[0] and prevp==row[2] ):
 					exp=exp+float(row[1])
 					count=count+1
 				else :
-					country_array[cc[prevc]].attribute_array[p[prevp]].expect=(exp/count)
+					print "Expect: "+str((exp/count))
+					Expect=(exp/count)
+					print (country_array[cc[prevc]].name_array[0],country_array[cc[prevc]].attribute_array[p[prevp]].code)
+					country_array[cc[prevc]].attribute_array[p[prevp]].expect=Expect
 					prevp=row[2]; prevc=row[0];
 					exp=float(row[1])
 					count=1
 			country_array[cc[row[0]]].attribute_array[p[row[2]]].values.append(row[1])
-		country_array[cc[prevc]].attribute_array[p[prevp]].expect=(exp/count)
+		Expect=(exp/count)
+		country_array[cc[prevc]].attribute_array[p[prevp]].expect=Expect
 					
 	for c in country_array:
 	 	for a in c.attribute_array:

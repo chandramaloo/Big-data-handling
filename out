@@ -1,3 +1,3525 @@
+Expect: 1998687421.58
+('Aruba', 'NY.GDP.MKTP.CD')
+Expect: 969142831.55
+('Andorra', 'NY.GDP.MKTP.CD')
+Expect: 3750828900.86
+('Afghanistan', 'NY.GDP.MKTP.CD')
+Expect: 8202195985.52
+('Angola', 'NY.GDP.MKTP.CD')
+Expect: 4573450593.67
+('Albania', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('United Arab Emirates', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Argentina', 'NY.GDP.MKTP.CD')
+Expect: 4120823516.67
+('Armenia', 'NY.GDP.MKTP.CD')
+Expect: 569855439.73
+('Antigua and Barbuda', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Australia', 'NY.GDP.MKTP.CD')
+Expect: 9736879207.41
+('Austria', 'NY.GDP.MKTP.CD')
+Expect: 6890543394.58
+('Azerbaijan', 'NY.GDP.MKTP.CD')
+Expect: 833521600.481
+('Burundi', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Belgium', 'NY.GDP.MKTP.CD')
+Expect: 2005378616.67
+('Benin', 'NY.GDP.MKTP.CD')
+Expect: 2610187864.81
+('Burkina Faso', 'NY.GDP.MKTP.CD')
+Expect: 9008880934.07
+('Bangladesh', 'NY.GDP.MKTP.CD')
+Expect: 9926044461.76
+('Bulgaria', 'NY.GDP.MKTP.CD')
+Expect: 6520121808.53
+('Bahrain', 'NY.GDP.MKTP.CD')
+Expect: 6795734545.0
+('Bosnia and Herzegovina', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Belarus', 'NY.GDP.MKTP.CD')
+Expect: 443591536.34
+('Belize', 'NY.GDP.MKTP.CD')
+Expect: 1897048486.67
+('Bermuda', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Brazil', 'NY.GDP.MKTP.CD')
+Expect: 1696289621.59
+('Barbados', 'NY.GDP.MKTP.CD')
+Expect: 4127518508.0
+('Brunei', 'NY.GDP.MKTP.CD')
+Expect: 546672296.235
+('Bhutan', 'NY.GDP.MKTP.CD')
+Expect: 3297959159.52
+('Botswana', 'NY.GDP.MKTP.CD')
+Expect: 854599441.037
+('Central African Republic', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Canada', 'NY.GDP.MKTP.CD')
+Expect: 9982323940.74
+('Switzerland', 'NY.GDP.MKTP.CD')
+Expect: 9096469940.0
+('Chile', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('China', 'NY.GDP.MKTP.CD')
+Expect: 6430969715.74
+('Cameroon', 'NY.GDP.MKTP.CD')
+Expect: 8915160347.04
+('Colombia', 'NY.GDP.MKTP.CD')
+Expect: 273695414.882
+('Comoros', 'NY.GDP.MKTP.CD')
+Expect: 5528409868.07
+('Costa Rica', 'NY.GDP.MKTP.CD')
+Expect: 9684268139.53
+('Cuba', 'NY.GDP.MKTP.CD')
+Expect: 1012444030.0
+('Cayman Islands', 'NY.GDP.MKTP.CD')
+Expect: 6194031303.44
+('Cyprus', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Czech Republic', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Germany', 'NY.GDP.MKTP.CD')
+Expect: 525390298.435
+('Djibouti', 'NY.GDP.MKTP.CD')
+Expect: 231954319.243
+('Dominica', 'NY.GDP.MKTP.CD')
+Expect: 9723482861.11
+('Denmark', 'NY.GDP.MKTP.CD')
+Expect: 6280455669.26
+('Dominican Republic', 'NY.GDP.MKTP.CD')
+Expect: 8293475693.7
+('Algeria', 'NY.GDP.MKTP.CD')
+Expect: 7690422231.67
+('Ecuador', 'NY.GDP.MKTP.CD')
+Expect: 1099339172.27
+('Eritrea', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Spain', 'NY.GDP.MKTP.CD')
+Expect: 7441404932.38
+('Estonia', 'NY.GDP.MKTP.CD')
+Expect: 8916227075.76
+('Ethiopia', 'NY.GDP.MKTP.CD')
+Expect: 9506534688.89
+('Finland', 'NY.GDP.MKTP.CD')
+Expect: 1366445251.7
+('Fiji', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('France', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('UK', 'NY.GDP.MKTP.CD')
+Expect: 5590436277.92
+('Georgia', 'NY.GDP.MKTP.CD')
+Expect: 5041186399.07
+('Ghana', 'NY.GDP.MKTP.CD')
+Expect: 3395436489.29
+('Guinea', 'NY.GDP.MKTP.CD')
+Expect: 303530024.682
+('Guinea-Bissau', 'NY.GDP.MKTP.CD')
+Expect: 2126377003.64
+('Equatorial Guinea', 'NY.GDP.MKTP.CD')
+Expect: 9388416598.15
+('Greece', 'NY.GDP.MKTP.CD')
+Expect: 359995516.649
+('Grenada', 'NY.GDP.MKTP.CD')
+Expect: 820180621.61
+('Greenland', 'NY.GDP.MKTP.CD')
+Expect: 6733821602.22
+('Guatemala', 'NY.GDP.MKTP.CD')
+Expect: 663990444.889
+('Guyana', 'NY.GDP.MKTP.CD')
+Expect: 3893834028.48
+('Honduras', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Croatia', 'NY.GDP.MKTP.CD')
+Expect: 4115742189.57
+('Haiti', 'NY.GDP.MKTP.CD')
+Expect: 9382371686.96
+('Hungary', 'NY.GDP.MKTP.CD')
+Expect: 9739018280.85
+('Indonesia', 'NY.GDP.MKTP.CD')
+Expect: 1965085708.57
+('Isle of Man', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('India', 'NY.GDP.MKTP.CD')
+Expect: 8131686146.48
+('Ireland', 'NY.GDP.MKTP.CD')
+Expect: 6764810350.67
+('Iraq', 'NY.GDP.MKTP.CD')
+Expect: 4738991945.3
+('Iceland', 'NY.GDP.MKTP.CD')
+Expect: 8433661947.59
+('Israel', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Italy', 'NY.GDP.MKTP.CD')
+Expect: 4655904721.48
+('Jamaica', 'NY.GDP.MKTP.CD')
+Expect: 5309026167.76
+('Jordan', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Japan', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Kazakhstan', 'NY.GDP.MKTP.CD')
+Expect: 6160950150.37
+('Kenya', 'NY.GDP.MKTP.CD')
+Expect: 3575200512.06
+('Cambodia', 'NY.GDP.MKTP.CD')
+Expect: 61956184.4091
+('Kiribati', 'NY.GDP.MKTP.CD')
+Expect: 8203931664.04
+('Kuwait', 'NY.GDP.MKTP.CD')
+Expect: 8412301156.92
+('Lebanon', 'NY.GDP.MKTP.CD')
+Expect: 555530109.593
+('Liberia', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Libya', 'NY.GDP.MKTP.CD')
+Expect: 1621898742.49
+('Liechtenstein', 'NY.GDP.MKTP.CD')
+Expect: 6160297198.89
+('Sri Lanka', 'NY.GDP.MKTP.CD')
+Expect: 601696296.222
+('Lesotho', 'NY.GDP.MKTP.CD')
+Expect: 9426486637.5
+('Lithuania', 'NY.GDP.MKTP.CD')
+Expect: 6181802288.52
+('Luxembourg', 'NY.GDP.MKTP.CD')
+Expect: 7763041359.26
+('Latvia', 'NY.GDP.MKTP.CD')
+Expect: 8066512139.26
+('Morocco', 'NY.GDP.MKTP.CD')
+Expect: 2415451118.37
+('Monaco', 'NY.GDP.MKTP.CD')
+Expect: 3352833378.15
+('Madagascar', 'NY.GDP.MKTP.CD')
+Expect: 691993202.882
+('Maldives', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Mexico', 'NY.GDP.MKTP.CD')
+Expect: 101930829.818
+('Marshall Islands', 'NY.GDP.MKTP.CD')
+Expect: 2841259821.66
+('Mali', 'NY.GDP.MKTP.CD')
+Expect: 3132342475.23
+('Malta', 'NY.GDP.MKTP.CD')
+Expect: 2748805740.71
+('Montenegro', 'NY.GDP.MKTP.CD')
+Expect: 2793405333.94
+('Mongolia', 'NY.GDP.MKTP.CD')
+Expect: 4670466060.88
+('Mozambique', 'NY.GDP.MKTP.CD')
+Expect: 1152747295.22
+('Mauritania', 'NY.GDP.MKTP.CD')
+Expect: 3955433619.74
+('Mauritius', 'NY.GDP.MKTP.CD')
+Expect: 1580307551.48
+('Malawi', 'NY.GDP.MKTP.CD')
+Expect: 8249062143.52
+('Malaysia', 'NY.GDP.MKTP.CD')
+Expect: 4271636302.94
+('Namibia', 'NY.GDP.MKTP.CD')
+Expect: 1461302500.32
+('New Caledonia', 'NY.GDP.MKTP.CD')
+Expect: 2048490501.74
+('Niger', 'NY.GDP.MKTP.CD')
+Expect: 9017569631.11
+('Nigeria', 'NY.GDP.MKTP.CD')
+Expect: 3139529177.37
+('Nicaragua', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Netherlands', 'NY.GDP.MKTP.CD')
+Expect: 9480834474.07
+('Norway', 'NY.GDP.MKTP.CD')
+Expect: 3663002910.07
+('Nepal', 'NY.GDP.MKTP.CD')
+Expect: 9048571020.37
+('New Zealand', 'NY.GDP.MKTP.CD')
+Expect: 6080509290.04
+('Oman', 'NY.GDP.MKTP.CD')
+Expect: 9004776422.78
+('Pakistan', 'NY.GDP.MKTP.CD')
+Expect: 5258061109.22
+('Panama', 'NY.GDP.MKTP.CD')
+Expect: 8738237529.81
+('Peru', 'NY.GDP.MKTP.CD')
+Expect: 9073439088.89
+('Philippines', 'NY.GDP.MKTP.CD')
+Expect: 148377261.0
+('Palau', 'NY.GDP.MKTP.CD')
+Expect: 3122283647.44
+('Papua New Guinea', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Poland', 'NY.GDP.MKTP.CD')
+Expect: 8130744424.63
+('Puerto Rico', 'NY.GDP.MKTP.CD')
+Expect: 8844051646.67
+('Portugal', 'NY.GDP.MKTP.CD')
+Expect: 5228201191.84
+('Paraguay', 'NY.GDP.MKTP.CD')
+Expect: 1774556890.11
+('French Polynesia', 'NY.GDP.MKTP.CD')
+Expect: 6905745150.05
+('Qatar', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Romania', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Russia', 'NY.GDP.MKTP.CD')
+Expect: 1659266382.07
+('Rwanda', 'NY.GDP.MKTP.CD')
+Expect: 9432683195.22
+('Saudi Arabia', 'NY.GDP.MKTP.CD')
+Expect: 7114872505.19
+('Sudan', 'NY.GDP.MKTP.CD')
+Expect: 4186609237.96
+('Senegal', 'NY.GDP.MKTP.CD')
+Expect: 7298653731.67
+('Singapore', 'NY.GDP.MKTP.CD')
+Expect: 321277050.609
+('Solomon Islands', 'NY.GDP.MKTP.CD')
+Expect: 991862333.963
+('Sierra Leone', 'NY.GDP.MKTP.CD')
+Expect: 5600370891.43
+('El Salvador', 'NY.GDP.MKTP.CD')
+Expect: 1178967867.27
+('San Marino', 'NY.GDP.MKTP.CD')
+Expect: 538627737.688
+('Somalia', 'NY.GDP.MKTP.CD')
+Expect: 9539151929.41
+('Serbia', 'NY.GDP.MKTP.CD')
+Expect: 1029144813.07
+('Suriname', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Slovenia', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Sweden', 'NY.GDP.MKTP.CD')
+Expect: 1068299747.93
+('Swaziland', 'NY.GDP.MKTP.CD')
+Expect: 352002205.796
+('Seychelles', 'NY.GDP.MKTP.CD')
+Expect: 7185882414.9
+('Syria', 'NY.GDP.MKTP.CD')
+Expect: 2274770705.44
+('Chad', 'NY.GDP.MKTP.CD')
+Expect: 1182636512.78
+('Togo', 'NY.GDP.MKTP.CD')
+Expect: 8704006920.74
+('Thailand', 'NY.GDP.MKTP.CD')
+Expect: 2588519567.5
+('Tajikistan', 'NY.GDP.MKTP.CD')
+Expect: 5197618543.7
+('Turkmenistan', 'NY.GDP.MKTP.CD')
+Expect: 630364290.0
+('Timor-Leste', 'NY.GDP.MKTP.CD')
+Expect: 165352157.333
+('Tonga', 'NY.GDP.MKTP.CD')
+Expect: 5063068167.44
+('Trinidad and Tobago', 'NY.GDP.MKTP.CD')
+Expect: 6944625338.68
+('Tunisia', 'NY.GDP.MKTP.CD')
+Expect: 9906555583.33
+('Turkey', 'NY.GDP.MKTP.CD')
+Expect: 18421573.875
+('Tuvalu', 'NY.GDP.MKTP.CD')
+Expect: 4148212502.48
+('Uganda', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('Ukraine', 'NY.GDP.MKTP.CD')
+Expect: 6663276217.22
+('Uruguay', 'NY.GDP.MKTP.CD')
+Expect: 10000000000.0
+('US', 'NY.GDP.MKTP.CD')
+Expect: 9973995950.0
+('Uzbekistan', 'NY.GDP.MKTP.CD')
+Expect: 285096181.086
+('Vanuatu', 'NY.GDP.MKTP.CD')
+Expect: 263489361.312
+('Samoa', 'NY.GDP.MKTP.CD')
+Expect: 9813225461.11
+('South Africa', 'NY.GDP.MKTP.CD')
+Expect: 3679922455.56
+('Zambia', 'NY.GDP.MKTP.CD')
+Expect: 5224855033.52
+('Zimbabwe', 'NY.GDP.MKTP.CD')
+Expect: 2264736340.62
+('Aruba', 'SP.DYN.LE00.IN')
+Expect: 1441719259.56
+('Afghanistan', 'SP.DYN.LE00.IN')
+Expect: 1303606950.96
+('Angola', 'SP.DYN.LE00.IN')
+Expect: 2235384373.74
+('Albania', 'SP.DYN.LE00.IN')
+Expect: 2151598904.25
+('United Arab Emirates', 'SP.DYN.LE00.IN')
+Expect: 2223899465.6
+('Argentina', 'SP.DYN.LE00.IN')
+Expect: 2211381070.02
+('Armenia', 'SP.DYN.LE00.IN')
+Expect: 2194991524.68
+('Antigua and Barbuda', 'SP.DYN.LE00.IN')
+Expect: 2390186023.71
+('Australia', 'SP.DYN.LE00.IN')
+Expect: 2346054556.29
+('Austria', 'SP.DYN.LE00.IN')
+Expect: 2066435165.35
+('Azerbaijan', 'SP.DYN.LE00.IN')
+Expect: 1477598163.86
+('Burundi', 'SP.DYN.LE00.IN')
+Expect: 2359392412.16
+('Belgium', 'SP.DYN.LE00.IN')
+Expect: 1558919011.09
+('Benin', 'SP.DYN.LE00.IN')
+Expect: 1453681669.25
+('Burkina Faso', 'SP.DYN.LE00.IN')
+Expect: 1815787007.01
+('Bangladesh', 'SP.DYN.LE00.IN')
+Expect: 2254792786.3
+('Bulgaria', 'SP.DYN.LE00.IN')
+Expect: 2178245781.7
+('Bahrain', 'SP.DYN.LE00.IN')
+Expect: 2191031199.58
+('Bosnia and Herzegovina', 'SP.DYN.LE00.IN')
+Expect: 2198806631.06
+('Belarus', 'SP.DYN.LE00.IN')
+Expect: 2168631948.21
+('Belize', 'SP.DYN.LE00.IN')
+Expect: 2416077468.9
+('Bermuda', 'SP.DYN.LE00.IN')
+Expect: 2039291862.3
+('Brazil', 'SP.DYN.LE00.IN')
+Expect: 2179505490.38
+('Barbados', 'SP.DYN.LE00.IN')
+Expect: 2263851722.65
+('Brunei', 'SP.DYN.LE00.IN')
+Expect: 1554681470.59
+('Bhutan', 'SP.DYN.LE00.IN')
+Expect: 1731168674.01
+('Botswana', 'SP.DYN.LE00.IN')
+Expect: 1403190166.7
+('Central African Republic', 'SP.DYN.LE00.IN')
+Expect: 2402568905.7
+('Canada', 'SP.DYN.LE00.IN')
+Expect: 2420564272.37
+('Switzerland', 'SP.DYN.LE00.IN')
+Expect: 2208284824.73
+('Chile', 'SP.DYN.LE00.IN')
+Expect: 2077291875.05
+('China', 'SP.DYN.LE00.IN')
+Expect: 1579074477.37
+('Cameroon', 'SP.DYN.LE00.IN')
+Expect: 2091317254.73
+('Colombia', 'SP.DYN.LE00.IN')
+Expect: 1675742527.67
+('Comoros', 'SP.DYN.LE00.IN')
+Expect: 2294945727.48
+('Costa Rica', 'SP.DYN.LE00.IN')
+Expect: 2314284937.73
+('Cuba', 'SP.DYN.LE00.IN')
+Expect: 2376621959.45
+('Cyprus', 'SP.DYN.LE00.IN')
+Expect: 2283313788.97
+('Czech Republic', 'SP.DYN.LE00.IN')
+Expect: 2347235694.15
+('Germany', 'SP.DYN.LE00.IN')
+Expect: 1696710861.61
+('Djibouti', 'SP.DYN.LE00.IN')
+Expect: 2321536237.79
+('Dominica', 'SP.DYN.LE00.IN')
+Expect: 2367921520.37
+('Denmark', 'SP.DYN.LE00.IN')
+Expect: 2039241960.39
+('Dominican Republic', 'SP.DYN.LE00.IN')
+Expect: 1913605041.96
+('Algeria', 'SP.DYN.LE00.IN')
+Expect: 2072215148.42
+('Ecuador', 'SP.DYN.LE00.IN')
+Expect: 1508807809.77
+('Eritrea', 'SP.DYN.LE00.IN')
+Expect: 2392940407.27
+('Spain', 'SP.DYN.LE00.IN')
+Expect: 2213785232.01
+('Estonia', 'SP.DYN.LE00.IN')
+Expect: 1502420166.99
+('Ethiopia', 'SP.DYN.LE00.IN')
+Expect: 2342591337.61
+('Finland', 'SP.DYN.LE00.IN')
+Expect: 2014807045.12
+('Fiji', 'SP.DYN.LE00.IN')
+Expect: 2384893640.62
+('France', 'SP.DYN.LE00.IN')
+Expect: 2370863047.51
+('UK', 'SP.DYN.LE00.IN')
+Expect: 2190977998.14
+('Georgia', 'SP.DYN.LE00.IN')
+Expect: 1699886093.24
+('Ghana', 'SP.DYN.LE00.IN')
+Expect: 1421614663.55
+('Guinea', 'SP.DYN.LE00.IN')
+Expect: 1508070530.73
+('Guinea-Bissau', 'SP.DYN.LE00.IN')
+Expect: 1399131681.1
+('Equatorial Guinea', 'SP.DYN.LE00.IN')
+Expect: 2362545308.02
+('Greece', 'SP.DYN.LE00.IN')
+Expect: 2116184216.92
+('Grenada', 'SP.DYN.LE00.IN')
+Expect: 2084560602.06
+('Greenland', 'SP.DYN.LE00.IN')
+Expect: 1883904685.03
+('Guatemala', 'SP.DYN.LE00.IN')
+Expect: 2226869829.96
+('Guam', 'SP.DYN.LE00.IN')
+Expect: 1945709639.2
+('Guyana', 'SP.DYN.LE00.IN')
+Expect: 1954325649.43
+('Honduras', 'SP.DYN.LE00.IN')
+Expect: 2240691524.62
+('Croatia', 'SP.DYN.LE00.IN')
+Expect: 1658487510.47
+('Haiti', 'SP.DYN.LE00.IN')
+Expect: 2217707790.85
+('Hungary', 'SP.DYN.LE00.IN')
+Expect: 1893376681.14
+('Indonesia', 'SP.DYN.LE00.IN')
+Expect: 2437747599.45
+('Isle of Man', 'SP.DYN.LE00.IN')
+Expect: 1762146774.2
+('India', 'SP.DYN.LE00.IN')
+Expect: 2342415005.43
+('Ireland', 'SP.DYN.LE00.IN')
+Expect: 1995128753.14
+('Iraq', 'SP.DYN.LE00.IN')
+Expect: 2442966133.67
+('Iceland', 'SP.DYN.LE00.IN')
+Expect: 2398898237.92
+('Israel', 'SP.DYN.LE00.IN')
+Expect: 2388867707.31
+('Italy', 'SP.DYN.LE00.IN')
+Expect: 2200337087.58
+('Jamaica', 'SP.DYN.LE00.IN')
+Expect: 2092209246.07
+('Jordan', 'SP.DYN.LE00.IN')
+Expect: 2427801719.82
+('Japan', 'SP.DYN.LE00.IN')
+Expect: 2047865907.94
+('Kazakhstan', 'SP.DYN.LE00.IN')
+Expect: 1734721854.06
+('Kenya', 'SP.DYN.LE00.IN')
+Expect: 1550988635.3
+('Cambodia', 'SP.DYN.LE00.IN')
+Expect: 1835231235.69
+('Kiribati', 'SP.DYN.LE00.IN')
+Expect: 2202463751.33
+('Kuwait', 'SP.DYN.LE00.IN')
+Expect: 2216786726.19
+('Lebanon', 'SP.DYN.LE00.IN')
+Expect: 1473322193.8
+('Liberia', 'SP.DYN.LE00.IN')
+Expect: 2022526820.1
+('Libya', 'SP.DYN.LE00.IN')
+Expect: 2512269761.03
+('Liechtenstein', 'SP.DYN.LE00.IN')
+Expect: 2149168674.52
+('Sri Lanka', 'SP.DYN.LE00.IN')
+Expect: 1604648963.87
+('Lesotho', 'SP.DYN.LE00.IN')
+Expect: 2242068696.53
+('Lithuania', 'SP.DYN.LE00.IN')
+Expect: 2337352016.29
+('Luxembourg', 'SP.DYN.LE00.IN')
+Expect: 2206276066.03
+('Latvia', 'SP.DYN.LE00.IN')
+Expect: 1912173785.0
+('Morocco', 'SP.DYN.LE00.IN')
+Expect: 1618480846.37
+('Madagascar', 'SP.DYN.LE00.IN')
+Expect: 1797940284.23
+('Maldives', 'SP.DYN.LE00.IN')
+Expect: 2150535636.37
+('Mexico', 'SP.DYN.LE00.IN')
+Expect: 2131119275.68
+('Marshall Islands', 'SP.DYN.LE00.IN')
+Expect: 1320988313.68
+('Mali', 'SP.DYN.LE00.IN')
+Expect: 2345543374.6
+('Malta', 'SP.DYN.LE00.IN')
+Expect: 1771688793.71
+('Myanmar', 'SP.DYN.LE00.IN')
+Expect: 2271821409.86
+('Montenegro', 'SP.DYN.LE00.IN')
+Expect: 1857128088.9
+('Mongolia', 'SP.DYN.LE00.IN')
+Expect: 1360845183.2
+('Mozambique', 'SP.DYN.LE00.IN')
+Expect: 1729471722.51
+('Mauritania', 'SP.DYN.LE00.IN')
+Expect: 2130789653.34
+('Mauritius', 'SP.DYN.LE00.IN')
+Expect: 1417866718.76
+('Malawi', 'SP.DYN.LE00.IN')
+Expect: 2168476472.09
+('Malaysia', 'SP.DYN.LE00.IN')
+Expect: 1775970037.98
+('Namibia', 'SP.DYN.LE00.IN')
+Expect: 2164506502.64
+('New Caledonia', 'SP.DYN.LE00.IN')
+Expect: 1379015997.86
+('Niger', 'SP.DYN.LE00.IN')
+Expect: 1415896736.75
+('Nigeria', 'SP.DYN.LE00.IN')
+Expect: 1941194785.11
+('Nicaragua', 'SP.DYN.LE00.IN')
+Expect: 2410880921.57
+('Netherlands', 'SP.DYN.LE00.IN')
+Expect: 2417145395.03
+('Norway', 'SP.DYN.LE00.IN')
+Expect: 1651417441.61
+('Nepal', 'SP.DYN.LE00.IN')
+Expect: 2367380174.28
+('New Zealand', 'SP.DYN.LE00.IN')
+Expect: 1957293457.62
+('Oman', 'SP.DYN.LE00.IN')
+Expect: 1853306392.24
+('Pakistan', 'SP.DYN.LE00.IN')
+Expect: 2230104995.9
+('Panama', 'SP.DYN.LE00.IN')
+Expect: 1965325928.09
+('Peru', 'SP.DYN.LE00.IN')
+Expect: 2009794047.89
+('Philippines', 'SP.DYN.LE00.IN')
+Expect: 2206545892.27
+('Palau', 'SP.DYN.LE00.IN')
+Expect: 1667333892.36
+('Papua New Guinea', 'SP.DYN.LE00.IN')
+Expect: 2259462861.7
+('Poland', 'SP.DYN.LE00.IN')
+Expect: 2334229579.95
+('Puerto Rico', 'SP.DYN.LE00.IN')
+Expect: 2273811679.9
+('Portugal', 'SP.DYN.LE00.IN')
+Expect: 2138657240.02
+('Paraguay', 'SP.DYN.LE00.IN')
+Expect: 2103050821.57
+('French Polynesia', 'SP.DYN.LE00.IN')
+Expect: 2293527161.35
+('Qatar', 'SP.DYN.LE00.IN')
+Expect: 2198405229.49
+('Romania', 'SP.DYN.LE00.IN')
+Expect: 2124421963.15
+('Russia', 'SP.DYN.LE00.IN')
+Expect: 1431417162.4
+('Rwanda', 'SP.DYN.LE00.IN')
+Expect: 2009637625.05
+('Saudi Arabia', 'SP.DYN.LE00.IN')
+Expect: 1739406864.39
+('Sudan', 'SP.DYN.LE00.IN')
+Expect: 1608221536.65
+('Senegal', 'SP.DYN.LE00.IN')
+Expect: 2326972278.09
+('Singapore', 'SP.DYN.LE00.IN')
+Expect: 1843896002.42
+('Solomon Islands', 'SP.DYN.LE00.IN')
+Expect: 1193004678.62
+('Sierra Leone', 'SP.DYN.LE00.IN')
+Expect: 1965490406.3
+('El Salvador', 'SP.DYN.LE00.IN')
+Expect: 2567369401.91
+('San Marino', 'SP.DYN.LE00.IN')
+Expect: 1441395833.9
+('Somalia', 'SP.DYN.LE00.IN')
+Expect: 2301518858.3
+('Serbia', 'SP.DYN.LE00.IN')
+Expect: 2082504645.9
+('Suriname', 'SP.DYN.LE00.IN')
+Expect: 2292475063.1
+('Slovenia', 'SP.DYN.LE00.IN')
+Expect: 2432473786.26
+('Sweden', 'SP.DYN.LE00.IN')
+Expect: 1608183211.11
+('Swaziland', 'SP.DYN.LE00.IN')
+Expect: 2264575800.02
+('Seychelles', 'SP.DYN.LE00.IN')
+Expect: 2101543433.65
+('Syria', 'SP.DYN.LE00.IN')
+Expect: 1408428351.36
+('Chad', 'SP.DYN.LE00.IN')
+Expect: 1614997339.66
+('Togo', 'SP.DYN.LE00.IN')
+Expect: 2084517958.84
+('Thailand', 'SP.DYN.LE00.IN')
+Expect: 1963111052.68
+('Tajikistan', 'SP.DYN.LE00.IN')
+Expect: 1929744089.5
+('Turkmenistan', 'SP.DYN.LE00.IN')
+Expect: 1480235955.53
+('Timor-Leste', 'SP.DYN.LE00.IN')
+Expect: 2144906675.7
+('Tonga', 'SP.DYN.LE00.IN')
+Expect: 2116998020.8
+('Trinidad and Tobago', 'SP.DYN.LE00.IN')
+Expect: 1978904594.17
+('Tunisia', 'SP.DYN.LE00.IN')
+Expect: 1933288757.18
+('Turkey', 'SP.DYN.LE00.IN')
+Expect: 1551215584.71
+('Uganda', 'SP.DYN.LE00.IN')
+Expect: 2180740111.35
+('Ukraine', 'SP.DYN.LE00.IN')
+Expect: 2266950274.56
+('Uruguay', 'SP.DYN.LE00.IN')
+Expect: 2341215333.91
+('US', 'SP.DYN.LE00.IN')
+Expect: 2051891031.32
+('Uzbekistan', 'SP.DYN.LE00.IN')
+Expect: 1901996959.83
+('Vanuatu', 'SP.DYN.LE00.IN')
+Expect: 1966566878.12
+('Samoa', 'SP.DYN.LE00.IN')
+Expect: 1753452033.6
+('South Africa', 'SP.DYN.LE00.IN')
+Expect: 1490789953.05
+('Zambia', 'SP.DYN.LE00.IN')
+Expect: 1687599631.99
+('Zimbabwe', 'SP.DYN.LE00.IN')
+Expect: -49415462.8889
+('Aruba', 'BN.KLT.DINV.CD')
+Expect: -129251208.0
+('Afghanistan', 'BN.KLT.DINV.CD')
+Expect: 2152552041.33
+('Angola', 'BN.KLT.DINV.CD')
+Expect: -785194472.444
+('Albania', 'BN.KLT.DINV.CD')
+Expect: -6641652434.44
+('Argentina', 'BN.KLT.DINV.CD')
+Expect: -604646067.778
+('Armenia', 'BN.KLT.DINV.CD')
+Expect: -194326524.889
+('Antigua and Barbuda', 'BN.KLT.DINV.CD')
+Expect: -9179730600.0
+('Australia', 'BN.KLT.DINV.CD')
+Expect: 5877350704.44
+('Austria', 'BN.KLT.DINV.CD')
+Expect: 361084668.0
+('Azerbaijan', 'BN.KLT.DINV.CD')
+Expect: -1419678.21856
+('Burundi', 'BN.KLT.DINV.CD')
+Expect: -5241677358.89
+('Belgium', 'BN.KLT.DINV.CD')
+Expect: -150514692.0
+('Benin', 'BN.KLT.DINV.CD')
+Expect: -136539763.429
+('Burkina Faso', 'BN.KLT.DINV.CD')
+Expect: -921158747.778
+('Bangladesh', 'BN.KLT.DINV.CD')
+Expect: -5419381196.67
+('Bulgaria', 'BN.KLT.DINV.CD')
+Expect: -653738035.778
+('Bahrain', 'BN.KLT.DINV.CD')
+Expect: -803755258.667
+('Bosnia and Herzegovina', 'BN.KLT.DINV.CD')
+Expect: -1865166685.56
+('Belarus', 'BN.KLT.DINV.CD')
+Expect: -136173044.444
+('Belize', 'BN.KLT.DINV.CD')
+Expect: -145546766.0
+('Bermuda', 'BN.KLT.DINV.CD')
+Expect: -7842191588.89
+('Brazil', 'BN.KLT.DINV.CD')
+Expect: -359189030.857
+('Barbados', 'BN.KLT.DINV.CD')
+Expect: -229407474.667
+('Brunei', 'BN.KLT.DINV.CD')
+Expect: -27257389.025
+('Bhutan', 'BN.KLT.DINV.CD')
+Expect: -354897377.778
+('Botswana', 'BN.KLT.DINV.CD')
+Expect: 2038711068.89
+('Canada', 'BN.KLT.DINV.CD')
+Expect: 7121232326.67
+('Switzerland', 'BN.KLT.DINV.CD')
+Expect: -6701727433.33
+('Chile', 'BN.KLT.DINV.CD')
+Expect: -10000000000.0
+('China', 'BN.KLT.DINV.CD')
+Expect: -385672515.556
+('Cameroon', 'BN.KLT.DINV.CD')
+Expect: -6237539872.0
+('Colombia', 'BN.KLT.DINV.CD')
+Expect: -1646205832.22
+('Costa Rica', 'BN.KLT.DINV.CD')
+Expect: -1034463282.44
+('Cyprus', 'BN.KLT.DINV.CD')
+Expect: -5996700278.89
+('Czech Republic', 'BN.KLT.DINV.CD')
+Expect: 8391502677.78
+('Germany', 'BN.KLT.DINV.CD')
+Expect: -122612283.333
+('Djibouti', 'BN.KLT.DINV.CD')
+Expect: -33258839.0
+('Dominica', 'BN.KLT.DINV.CD')
+Expect: 4768374318.89
+('Denmark', 'BN.KLT.DINV.CD')
+Expect: -2294455608.89
+('Dominican Republic', 'BN.KLT.DINV.CD')
+Expect: -1910567523.33
+('Algeria', 'BN.KLT.DINV.CD')
+Expect: -521292025.556
+('Ecuador', 'BN.KLT.DINV.CD')
+Expect: 1685691846.67
+('Spain', 'BN.KLT.DINV.CD')
+Expect: -1218436508.67
+('Estonia', 'BN.KLT.DINV.CD')
+Expect: -353580001.556
+('Ethiopia', 'BN.KLT.DINV.CD')
+Expect: 1114839454.0
+('Finland', 'BN.KLT.DINV.CD')
+Expect: -316231516.444
+('Fiji', 'BN.KLT.DINV.CD')
+Expect: 10000000000.0
+('France', 'BN.KLT.DINV.CD')
+Expect: -1111111111.11
+('UK', 'BN.KLT.DINV.CD')
+Expect: -1040632833.33
+('Georgia', 'BN.KLT.DINV.CD')
+Expect: -2172868268.89
+('Ghana', 'BN.KLT.DINV.CD')
+Expect: -410036662.222
+('Guinea', 'BN.KLT.DINV.CD')
+Expect: -17530395.1429
+('Guinea-Bissau', 'BN.KLT.DINV.CD')
+Expect: -169593034.667
+('Greece', 'BN.KLT.DINV.CD')
+Expect: -93749255.1111
+('Grenada', 'BN.KLT.DINV.CD')
+Expect: -814650644.444
+('Guatemala', 'BN.KLT.DINV.CD')
+Expect: -185627555.556
+('Guyana', 'BN.KLT.DINV.CD')
+Expect: -842722069.333
+('Honduras', 'BN.KLT.DINV.CD')
+Expect: -2679041242.22
+('Croatia', 'BN.KLT.DINV.CD')
+Expect: -113288888.889
+('Haiti', 'BN.KLT.DINV.CD')
+Expect: -2854746581.11
+('Hungary', 'BN.KLT.DINV.CD')
+Expect: -6195556267.78
+('Indonesia', 'BN.KLT.DINV.CD')
+Expect: -8758062988.89
+('India', 'BN.KLT.DINV.CD')
+Expect: -1496549000.0
+('Ireland', 'BN.KLT.DINV.CD')
+Expect: -1513811136.67
+('Iraq', 'BN.KLT.DINV.CD')
+Expect: -764286586.667
+('Iceland', 'BN.KLT.DINV.CD')
+Expect: -2713722251.11
+('Israel', 'BN.KLT.DINV.CD')
+Expect: 7519299015.56
+('Italy', 'BN.KLT.DINV.CD')
+Expect: -655225080.0
+('Jamaica', 'BN.KLT.DINV.CD')
+Expect: -2385688248.89
+('Jordan', 'BN.KLT.DINV.CD')
+Expect: 10000000000.0
+('Japan', 'BN.KLT.DINV.CD')
+Expect: -7742647555.56
+('Kazakhstan', 'BN.KLT.DINV.CD')
+Expect: -254578531.111
+('Kenya', 'BN.KLT.DINV.CD')
+Expect: -857613144.667
+('Cambodia', 'BN.KLT.DINV.CD')
+Expect: 6125934497.78
+('Kuwait', 'BN.KLT.DINV.CD')
+Expect: -2965620893.33
+('Lebanon', 'BN.KLT.DINV.CD')
+Expect: -501559387.0
+('Liberia', 'BN.KLT.DINV.CD')
+Expect: 33611107.7778
+('Libya', 'BN.KLT.DINV.CD')
+Expect: -594076949.778
+('Sri Lanka', 'BN.KLT.DINV.CD')
+Expect: -151278070.667
+('Lesotho', 'BN.KLT.DINV.CD')
+Expect: -983019637.111
+('Lithuania', 'BN.KLT.DINV.CD')
+Expect: -1308858766.67
+('Luxembourg', 'BN.KLT.DINV.CD')
+Expect: -1096699970.0
+('Latvia', 'BN.KLT.DINV.CD')
+Expect: -1926740813.33
+('Morocco', 'BN.KLT.DINV.CD')
+Expect: -85444104.0
+('Madagascar', 'BN.KLT.DINV.CD')
+Expect: -181039393.333
+('Maldives', 'BN.KLT.DINV.CD')
+Expect: -7437088944.44
+('Mexico', 'BN.KLT.DINV.CD')
+Expect: -348205489.714
+('Mali', 'BN.KLT.DINV.CD')
+Expect: -755736373.167
+('Malta', 'BN.KLT.DINV.CD')
+Expect: -768019315.5
+('Myanmar', 'BN.KLT.DINV.CD')
+Expect: -930035410.0
+('Montenegro', 'BN.KLT.DINV.CD')
+Expect: -1952723014.89
+('Mongolia', 'BN.KLT.DINV.CD')
+Expect: -1802171922.22
+('Mozambique', 'BN.KLT.DINV.CD')
+Expect: -2137473908.61
+('Mauritius', 'BN.KLT.DINV.CD')
+Expect: -99435828.6667
+('Malawi', 'BN.KLT.DINV.CD')
+Expect: 3306463247.78
+('Malaysia', 'BN.KLT.DINV.CD')
+Expect: -680044385.5
+('Namibia', 'BN.KLT.DINV.CD')
+Expect: -1146956652.75
+('New Caledonia', 'BN.KLT.DINV.CD')
+Expect: -464182285.714
+('Niger', 'BN.KLT.DINV.CD')
+Expect: -6176967833.33
+('Nigeria', 'BN.KLT.DINV.CD')
+Expect: -568577787.778
+('Nicaragua', 'BN.KLT.DINV.CD')
+Expect: 1808871433.33
+('Netherlands', 'BN.KLT.DINV.CD')
+Expect: 6531545398.89
+('Norway', 'BN.KLT.DINV.CD')
+Expect: -45395253.6378
+('Nepal', 'BN.KLT.DINV.CD')
+Expect: -2268792686.22
+('New Zealand', 'BN.KLT.DINV.CD')
+Expect: -1513480686.89
+('Oman', 'BN.KLT.DINV.CD')
+Expect: -3216161078.89
+('Pakistan', 'BN.KLT.DINV.CD')
+Expect: -2207088910.0
+('Panama', 'BN.KLT.DINV.CD')
+Expect: -6665162962.22
+('Peru', 'BN.KLT.DINV.CD')
+Expect: -1386777728.89
+('Philippines', 'BN.KLT.DINV.CD')
+Expect: -139131051.571
+('Papua New Guinea', 'BN.KLT.DINV.CD')
+Expect: -8616777844.44
+('Poland', 'BN.KLT.DINV.CD')
+Expect: -3511497288.89
+('Portugal', 'BN.KLT.DINV.CD')
+Expect: -185596296.889
+('Paraguay', 'BN.KLT.DINV.CD')
+Expect: -34459846.375
+('French Polynesia', 'BN.KLT.DINV.CD')
+Expect: 3813700680.0
+('Qatar', 'BN.KLT.DINV.CD')
+Expect: -6608253304.44
+('Romania', 'BN.KLT.DINV.CD')
+Expect: -1205471113.33
+('Russia', 'BN.KLT.DINV.CD')
+Expect: -90119445.1111
+('Rwanda', 'BN.KLT.DINV.CD')
+Expect: -9753425011.11
+('Saudi Arabia', 'BN.KLT.DINV.CD')
+Expect: -1959987244.44
+('Sudan', 'BN.KLT.DINV.CD')
+Expect: -236893033.5
+('Senegal', 'BN.KLT.DINV.CD')
+Expect: -8086360718.89
+('Singapore', 'BN.KLT.DINV.CD')
+Expect: -109374730.0
+('Solomon Islands', 'BN.KLT.DINV.CD')
+Expect: -344710004.222
+('Sierra Leone', 'BN.KLT.DINV.CD')
+Expect: -644893361.556
+('El Salvador', 'BN.KLT.DINV.CD')
+Expect: -1967211917.14
+('Serbia', 'BN.KLT.DINV.CD')
+Expect: 82180199.1111
+('Suriname', 'BN.KLT.DINV.CD')
+Expect: -160525754.444
+('Slovenia', 'BN.KLT.DINV.CD')
+Expect: 4919686813.33
+('Sweden', 'BN.KLT.DINV.CD')
+Expect: -82928336.3333
+('Swaziland', 'BN.KLT.DINV.CD')
+Expect: -142903936.0
+('Seychelles', 'BN.KLT.DINV.CD')
+Expect: -1496410852.86
+('Syria', 'BN.KLT.DINV.CD')
+Expect: -60701090.0
+('Togo', 'BN.KLT.DINV.CD')
+Expect: -5053727845.56
+('Thailand', 'BN.KLT.DINV.CD')
+Expect: -196729928.889
+('Tajikistan', 'BN.KLT.DINV.CD')
+Expect: -38013085.0
+('Timor-Leste', 'BN.KLT.DINV.CD')
+Expect: -14140837.5522
+('Tonga', 'BN.KLT.DINV.CD')
+Expect: -944650007.5
+('Trinidad and Tobago', 'BN.KLT.DINV.CD')
+Expect: -1795025645.11
+('Tunisia', 'BN.KLT.DINV.CD')
+Expect: -9176999988.89
+('Turkey', 'BN.KLT.DINV.CD')
+Expect: -918243125.778
+('Uganda', 'BN.KLT.DINV.CD')
+Expect: -7372111033.33
+('Ukraine', 'BN.KLT.DINV.CD')
+Expect: -1944874291.11
+('Uruguay', 'BN.KLT.DINV.CD')
+Expect: 4641333333.33
+('US', 'BN.KLT.DINV.CD')
+Expect: -38871793.0
+('Vanuatu', 'BN.KLT.DINV.CD')
+Expect: -17416048.9378
+('Samoa', 'BN.KLT.DINV.CD')
+Expect: -4455495650.0
+('South Africa', 'BN.KLT.DINV.CD')
+Expect: -846014570.222
+('Zambia', 'BN.KLT.DINV.CD')
+Expect: 1.23
+('Andorra', 'EP.PMP.DESL.CD')
+Expect: 0.705714285714
+('Afghanistan', 'EP.PMP.DESL.CD')
+Expect: 0.276666666667
+('Angola', 'EP.PMP.DESL.CD')
+Expect: 0.927777777778
+('Albania', 'EP.PMP.DESL.CD')
+Expect: 0.404444444444
+('United Arab Emirates', 'EP.PMP.DESL.CD')
+Expect: 0.561818181818
+('Argentina', 'EP.PMP.DESL.CD')
+Expect: 0.631111111111
+('Armenia', 'EP.PMP.DESL.CD')
+Expect: 0.722
+('Antigua and Barbuda', 'EP.PMP.DESL.CD')
+Expect: 0.828888888889
+('Australia', 'EP.PMP.DESL.CD')
+Expect: 1.113
+('Austria', 'EP.PMP.DESL.CD')
+Expect: 0.335555555556
+('Azerbaijan', 'EP.PMP.DESL.CD')
+Expect: 0.87
+('Burundi', 'EP.PMP.DESL.CD')
+Expect: 1.138
+('Belgium', 'EP.PMP.DESL.CD')
+Expect: 0.6375
+('Benin', 'EP.PMP.DESL.CD')
+Expect: 0.858333333333
+('Burkina Faso', 'EP.PMP.DESL.CD')
+Expect: 0.429
+('Bangladesh', 'EP.PMP.DESL.CD')
+Expect: 0.881
+('Bulgaria', 'EP.PMP.DESL.CD')
+Expect: 0.162222222222
+('Bahrain', 'EP.PMP.DESL.CD')
+Expect: 0.99
+('Bosnia and Herzegovina', 'EP.PMP.DESL.CD')
+Expect: 0.532222222222
+('Belarus', 'EP.PMP.DESL.CD')
+Expect: 0.826666666667
+('Belize', 'EP.PMP.DESL.CD')
+Expect: 0.599090909091
+('Brazil', 'EP.PMP.DESL.CD')
+Expect: 0.75125
+('Barbados', 'EP.PMP.DESL.CD')
+Expect: 0.203333333333
+('Brunei', 'EP.PMP.DESL.CD')
+Expect: 0.528333333333
+('Bhutan', 'EP.PMP.DESL.CD')
+Expect: 0.605833333333
+('Botswana', 'EP.PMP.DESL.CD')
+Expect: 1.09090909091
+('Central African Republic', 'EP.PMP.DESL.CD')
+Expect: 0.642727272727
+('Canada', 'EP.PMP.DESL.CD')
+Expect: 1.261
+('Switzerland', 'EP.PMP.DESL.CD')
+Expect: 0.617272727273
+('Chile', 'EP.PMP.DESL.CD')
+Expect: 0.592
+('China', 'EP.PMP.DESL.CD')
+Expect: 0.725
+('Cameroon', 'EP.PMP.DESL.CD')
+Expect: 0.475454545455
+('Colombia', 'EP.PMP.DESL.CD')
+Expect: 0.791428571429
+('Costa Rica', 'EP.PMP.DESL.CD')
+Expect: 0.79
+('Cuba', 'EP.PMP.DESL.CD')
+Expect: 0.855555555556
+('Cyprus', 'EP.PMP.DESL.CD')
+Expect: 1.056
+('Czech Republic', 'EP.PMP.DESL.CD')
+Expect: 1.154
+('Germany', 'EP.PMP.DESL.CD')
+Expect: 1.125
+('Djibouti', 'EP.PMP.DESL.CD')
+Expect: 1.243
+('Denmark', 'EP.PMP.DESL.CD')
+Expect: 0.606
+('Dominican Republic', 'EP.PMP.DESL.CD')
+Expect: 0.1425
+('Algeria', 'EP.PMP.DESL.CD')
+Expect: 0.258181818182
+('Ecuador', 'EP.PMP.DESL.CD')
+Expect: 0.594545454545
+('Eritrea', 'EP.PMP.DESL.CD')
+Expect: 1.012
+('Spain', 'EP.PMP.DESL.CD')
+Expect: 0.892
+('Estonia', 'EP.PMP.DESL.CD')
+Expect: 0.433333333333
+('Ethiopia', 'EP.PMP.DESL.CD')
+Expect: 1.148
+('Finland', 'EP.PMP.DESL.CD')
+Expect: 0.79
+('Fiji', 'EP.PMP.DESL.CD')
+Expect: 1.147
+('France', 'EP.PMP.DESL.CD')
+Expect: 1.446
+('UK', 'EP.PMP.DESL.CD')
+Expect: 0.76625
+('Georgia', 'EP.PMP.DESL.CD')
+Expect: 0.505833333333
+('Ghana', 'EP.PMP.DESL.CD')
+Expect: 0.76
+('Guinea', 'EP.PMP.DESL.CD')
+Expect: 1.047
+('Greece', 'EP.PMP.DESL.CD')
+Expect: 0.737777777778
+('Grenada', 'EP.PMP.DESL.CD')
+Expect: 0.529090909091
+('Guatemala', 'EP.PMP.DESL.CD')
+Expect: 0.5675
+('Guyana', 'EP.PMP.DESL.CD')
+Expect: 0.567272727273
+('Honduras', 'EP.PMP.DESL.CD')
+Expect: 1.01
+('Croatia', 'EP.PMP.DESL.CD')
+Expect: 0.547142857143
+('Haiti', 'EP.PMP.DESL.CD')
+Expect: 1.1
+('Hungary', 'EP.PMP.DESL.CD')
+Expect: 0.248181818182
+('Indonesia', 'EP.PMP.DESL.CD')
+Expect: 0.488181818182
+('India', 'EP.PMP.DESL.CD')
+Expect: 1.208
+('Ireland', 'EP.PMP.DESL.CD')
+Expect: 0.56
+('Iraq', 'EP.PMP.DESL.CD')
+Expect: 1.06777777778
+('Iceland', 'EP.PMP.DESL.CD')
+Expect: 0.995
+('Israel', 'EP.PMP.DESL.CD')
+Expect: 1.261
+('Italy', 'EP.PMP.DESL.CD')
+Expect: 0.657777777778
+('Jamaica', 'EP.PMP.DESL.CD')
+Expect: 0.372
+('Jordan', 'EP.PMP.DESL.CD')
+Expect: 0.965
+('Japan', 'EP.PMP.DESL.CD')
+Expect: 0.421111111111
+('Kazakhstan', 'EP.PMP.DESL.CD')
+Expect: 0.714166666667
+('Kenya', 'EP.PMP.DESL.CD')
+Expect: 0.663333333333
+('Cambodia', 'EP.PMP.DESL.CD')
+Expect: 0.186666666667
+('Kuwait', 'EP.PMP.DESL.CD')
+Expect: 0.502222222222
+('Lebanon', 'EP.PMP.DESL.CD')
+Expect: 0.933333333333
+('Liberia', 'EP.PMP.DESL.CD')
+Expect: 0.106666666667
+('Libya', 'EP.PMP.DESL.CD')
+Expect: 1.28666666667
+('Liechtenstein', 'EP.PMP.DESL.CD')
+Expect: 0.446363636364
+('Sri Lanka', 'EP.PMP.DESL.CD')
+Expect: 0.7625
+('Lesotho', 'EP.PMP.DESL.CD')
+Expect: 0.853
+('Lithuania', 'EP.PMP.DESL.CD')
+Expect: 0.967
+('Luxembourg', 'EP.PMP.DESL.CD')
+Expect: 0.88
+('Latvia', 'EP.PMP.DESL.CD')
+Expect: 0.6275
+('Morocco', 'EP.PMP.DESL.CD')
+Expect: 1.7075
+('Monaco', 'EP.PMP.DESL.CD')
+Expect: 0.688333333333
+('Madagascar', 'EP.PMP.DESL.CD')
+Expect: 0.96
+('Maldives', 'EP.PMP.DESL.CD')
+Expect: 0.46
+('Mexico', 'EP.PMP.DESL.CD')
+Expect: 0.79
+('Mali', 'EP.PMP.DESL.CD')
+Expect: 1.01111111111
+('Malta', 'EP.PMP.DESL.CD')
+Expect: 0.34875
+('Myanmar', 'EP.PMP.DESL.CD')
+Expect: 0.97
+('Montenegro', 'EP.PMP.DESL.CD')
+Expect: 0.712222222222
+('Mongolia', 'EP.PMP.DESL.CD')
+Expect: 0.640833333333
+('Mozambique', 'EP.PMP.DESL.CD')
+Expect: 0.647272727273
+('Mauritania', 'EP.PMP.DESL.CD')
+Expect: 1.305
+('Mauritius', 'EP.PMP.DESL.CD')
+Expect: 0.924166666667
+('Malawi', 'EP.PMP.DESL.CD')
+Expect: 0.314545454545
+('Malaysia', 'EP.PMP.DESL.CD')
+Expect: 0.652727272727
+('Namibia', 'EP.PMP.DESL.CD')
+Expect: 0.771666666667
+('Niger', 'EP.PMP.DESL.CD')
+Expect: 0.395833333333
+('Nigeria', 'EP.PMP.DESL.CD')
+Expect: 0.584545454545
+('Nicaragua', 'EP.PMP.DESL.CD')
+Expect: 1.164
+('Netherlands', 'EP.PMP.DESL.CD')
+Expect: 1.47
+('Norway', 'EP.PMP.DESL.CD')
+Expect: 0.521818181818
+('Nepal', 'EP.PMP.DESL.CD')
+Expect: 0.587
+('New Zealand', 'EP.PMP.DESL.CD')
+Expect: 0.317777777778
+('Oman', 'EP.PMP.DESL.CD')
+Expect: 0.514
+('Pakistan', 'EP.PMP.DESL.CD')
+Expect: 0.518
+('Panama', 'EP.PMP.DESL.CD')
+Expect: 0.685454545455
+('Peru', 'EP.PMP.DESL.CD')
+Expect: 0.470909090909
+('Philippines', 'EP.PMP.DESL.CD')
+Expect: 0.488
+('Papua New Guinea', 'EP.PMP.DESL.CD')
+Expect: 0.963
+('Poland', 'EP.PMP.DESL.CD')
+Expect: 0.485
+('Puerto Rico', 'EP.PMP.DESL.CD')
+Expect: 1.06888888889
+('Portugal', 'EP.PMP.DESL.CD')
+Expect: 0.57
+('Paraguay', 'EP.PMP.DESL.CD')
+Expect: 1.3325
+('French Polynesia', 'EP.PMP.DESL.CD')
+Expect: 0.185
+('Qatar', 'EP.PMP.DESL.CD')
+Expect: 0.826
+('Romania', 'EP.PMP.DESL.CD')
+Expect: 0.487
+('Russia', 'EP.PMP.DESL.CD')
+Expect: 1.05272727273
+('Rwanda', 'EP.PMP.DESL.CD')
+Expect: 0.0851
+('Saudi Arabia', 'EP.PMP.DESL.CD')
+Expect: 0.321666666667
+('Sudan', 'EP.PMP.DESL.CD')
+Expect: 0.864166666667
+('Senegal', 'EP.PMP.DESL.CD')
+Expect: 0.580909090909
+('Singapore', 'EP.PMP.DESL.CD')
+Expect: 0.71
+('Sierra Leone', 'EP.PMP.DESL.CD')
+Expect: 0.62
+('El Salvador', 'EP.PMP.DESL.CD')
+Expect: 0.658
+('Somalia', 'EP.PMP.DESL.CD')
+Expect: 0.954
+('Serbia', 'EP.PMP.DESL.CD')
+Expect: 0.715
+('Suriname', 'EP.PMP.DESL.CD')
+Expect: 0.994
+('Slovenia', 'EP.PMP.DESL.CD')
+Expect: 1.272
+('Sweden', 'EP.PMP.DESL.CD')
+Expect: 0.692
+('Swaziland', 'EP.PMP.DESL.CD')
+Expect: 0.242222222222
+('Syria', 'EP.PMP.DESL.CD')
+Expect: 0.933333333333
+('Chad', 'EP.PMP.DESL.CD')
+Expect: 0.7
+('Togo', 'EP.PMP.DESL.CD')
+Expect: 0.485454545455
+('Thailand', 'EP.PMP.DESL.CD')
+Expect: 0.53625
+('Tajikistan', 'EP.PMP.DESL.CD')
+Expect: 0.0788888888889
+('Turkmenistan', 'EP.PMP.DESL.CD')
+Expect: 0.976666666667
+('Timor-Leste', 'EP.PMP.DESL.CD')
+Expect: 0.215
+('Trinidad and Tobago', 'EP.PMP.DESL.CD')
+Expect: 0.449166666667
+('Tunisia', 'EP.PMP.DESL.CD')
+Expect: 1.138
+('Turkey', 'EP.PMP.DESL.CD')
+Expect: 0.863333333333
+('Uganda', 'EP.PMP.DESL.CD')
+Expect: 0.62
+('Ukraine', 'EP.PMP.DESL.CD')
+Expect: 0.787
+('Uruguay', 'EP.PMP.DESL.CD')
+Expect: 0.540909090909
+('US', 'EP.PMP.DESL.CD')
+Expect: 0.413
+('Uzbekistan', 'EP.PMP.DESL.CD')
+Expect: 1.06
+('Samoa', 'EP.PMP.DESL.CD')
+Expect: 0.71
+('South Africa', 'EP.PMP.DESL.CD')
+Expect: 0.873636363636
+('Zambia', 'EP.PMP.DESL.CD')
+Expect: 0.566363636364
+('Zimbabwe', 'EP.PMP.DESL.CD')
+Expect: 5.52308565943e+15
+('Angola', 'EG.ELC.PROD.KH')
+Expect: 1.38964286151e+16
+('Albania', 'EG.ELC.PROD.KH')
+Expect: 2.82849428829e+16
+('United Arab Emirates', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Argentina', 'EG.ELC.PROD.KH')
+Expect: 2.31589567878e+16
+('Armenia', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Australia', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Austria', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Azerbaijan', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Belgium', 'EG.ELC.PROD.KH')
+Expect: 1.90371428571e+14
+('Benin', 'EG.ELC.PROD.KH')
+Expect: 2.34772285551e+16
+('Bangladesh', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Bulgaria', 'EG.ELC.PROD.KH')
+Expect: 1.57474285671e+16
+('Bahrain', 'EG.ELC.PROD.KH')
+Expect: 3.08357218049e+16
+('Bosnia and Herzegovina', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Belarus', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Brazil', 'EG.ELC.PROD.KH')
+Expect: 5.77714286571e+15
+('Brunei', 'EG.ELC.PROD.KH')
+Expect: 2.7950625e+15
+('Botswana', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Canada', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Switzerland', 'EG.ELC.PROD.KH')
+Expect: 3.53160000586e+16
+('Chile', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('China', 'EG.ELC.PROD.KH')
+Expect: 1.0274400006e+16
+('Cameroon', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Colombia', 'EG.ELC.PROD.KH')
+Expect: 1.6606028538e+16
+('Costa Rica', 'EG.ELC.PROD.KH')
+Expect: 3.31199143886e+16
+('Cuba', 'EG.ELC.PROD.KH')
+Expect: 8.61214288886e+15
+('Cyprus', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Czech Republic', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Germany', 'EG.ELC.PROD.KH')
+Expect: 3.43672666e+16
+('Denmark', 'EG.ELC.PROD.KH')
+Expect: 2.03489143834e+16
+('Dominican Republic', 'EG.ELC.PROD.KH')
+Expect: 3.01576285971e+16
+('Algeria', 'EG.ELC.PROD.KH')
+Expect: 2.29251428983e+16
+('Ecuador', 'EG.ELC.PROD.KH')
+Expect: 8.44971428571e+14
+('Eritrea', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Spain', 'EG.ELC.PROD.KH')
+Expect: 3.3701699775e+16
+('Estonia', 'EG.ELC.PROD.KH')
+Expect: 5.73488568e+15
+('Ethiopia', 'EG.ELC.PROD.KH')
+Expect: 3.581399996e+16
+('Finland', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('France', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('UK', 'EG.ELC.PROD.KH')
+Expect: 2.97987652643e+16
+('Georgia', 'EG.ELC.PROD.KH')
+Expect: 2.01282856251e+16
+('Ghana', 'EG.ELC.PROD.KH')
+Expect: 3.2095999984e+16
+('Greece', 'EG.ELC.PROD.KH')
+Expect: 1.31793428494e+16
+('Guatemala', 'EG.ELC.PROD.KH')
+Expect: 9.70045714629e+15
+('Honduras', 'EG.ELC.PROD.KH')
+Expect: 3.450130452e+16
+('Croatia', 'EG.ELC.PROD.KH')
+Expect: 1.55528571429e+15
+('Haiti', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Hungary', 'EG.ELC.PROD.KH')
+Expect: 2.96885142746e+16
+('Indonesia', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('India', 'EG.ELC.PROD.KH')
+Expect: 2.977573331e+16
+('Ireland', 'EG.ELC.PROD.KH')
+Expect: 3.16975714731e+16
+('Iraq', 'EG.ELC.PROD.KH')
+Expect: 1.60843999513e+16
+('Iceland', 'EG.ELC.PROD.KH')
+Expect: 3.52754790614e+16
+('Israel', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Italy', 'EG.ELC.PROD.KH')
+Expect: 1.3785171516e+16
+('Jamaica', 'EG.ELC.PROD.KH')
+Expect: 1.63890856509e+16
+('Jordan', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Japan', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Kazakhstan', 'EG.ELC.PROD.KH')
+Expect: 1.25342571411e+16
+('Kenya', 'EG.ELC.PROD.KH')
+Expect: 2.6842e+15
+('Cambodia', 'EG.ELC.PROD.KH')
+Expect: 3.14300570811e+16
+('Kuwait', 'EG.ELC.PROD.KH')
+Expect: 1.99629428126e+16
+('Lebanon', 'EG.ELC.PROD.KH')
+Expect: 2.61000857631e+16
+('Libya', 'EG.ELC.PROD.KH')
+Expect: 1.58088000343e+16
+('Sri Lanka', 'EG.ELC.PROD.KH')
+Expect: 3.33768521677e+16
+('Lithuania', 'EG.ELC.PROD.KH')
+Expect: 4.88573335467e+15
+('Luxembourg', 'EG.ELC.PROD.KH')
+Expect: 1.6954591295e+16
+('Latvia', 'EG.ELC.PROD.KH')
+Expect: 2.77319142737e+16
+('Morocco', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Mexico', 'EG.ELC.PROD.KH')
+Expect: 4.54414284086e+15
+('Malta', 'EG.ELC.PROD.KH')
+Expect: 1.1859085752e+16
+('Myanmar', 'EG.ELC.PROD.KH')
+Expect: 1.00665000585e+16
+('Montenegro', 'EG.ELC.PROD.KH')
+Expect: 1.1948271363e+16
+('Mongolia', 'EG.ELC.PROD.KH')
+Expect: 1.27339714371e+16
+('Mozambique', 'EG.ELC.PROD.KH')
+Expect: 3.25030287017e+16
+('Malaysia', 'EG.ELC.PROD.KH')
+Expect: 4.57985452582e+15
+('Namibia', 'EG.ELC.PROD.KH')
+Expect: 2.9591742834e+16
+('Nigeria', 'EG.ELC.PROD.KH')
+Expect: 6.42977143371e+15
+('Nicaragua', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Netherlands', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Norway', 'EG.ELC.PROD.KH')
+Expect: 4.06542857571e+15
+('Nepal', 'EG.ELC.PROD.KH')
+Expect: 3.52457999667e+16
+('New Zealand', 'EG.ELC.PROD.KH')
+Expect: 1.78298571231e+16
+('Oman', 'EG.ELC.PROD.KH')
+Expect: 3.51512570314e+16
+('Pakistan', 'EG.ELC.PROD.KH')
+Expect: 1.23672856843e+16
+('Panama', 'EG.ELC.PROD.KH')
+Expect: 3.37868572629e+16
+('Peru', 'EG.ELC.PROD.KH')
+Expect: 3.58534285543e+16
+('Philippines', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Poland', 'EG.ELC.PROD.KH')
+Expect: 3.1766533326e+16
+('Portugal', 'EG.ELC.PROD.KH')
+Expect: 2.33945999897e+16
+('Paraguay', 'EG.ELC.PROD.KH')
+Expect: 1.9344942828e+16
+('Qatar', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Romania', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Russia', 'EG.ELC.PROD.KH')
+Expect: 3.18779143003e+16
+('Saudi Arabia', 'EG.ELC.PROD.KH')
+Expect: 8.04934285457e+15
+('Sudan', 'EG.ELC.PROD.KH')
+Expect: 4.56068572971e+15
+('Senegal', 'EG.ELC.PROD.KH')
+Expect: 3.0235114212e+16
+('Singapore', 'EG.ELC.PROD.KH')
+Expect: 1.01219142069e+16
+('El Salvador', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Serbia', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Slovenia', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Sweden', 'EG.ELC.PROD.KH')
+Expect: 2.67840000454e+16
+('Syria', 'EG.ELC.PROD.KH')
+Expect: 5.69485714286e+14
+('Togo', 'EG.ELC.PROD.KH')
+Expect: 3.41805427886e+16
+('Thailand', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Tajikistan', 'EG.ELC.PROD.KH')
+Expect: 3.541758264e+16
+('Turkmenistan', 'EG.ELC.PROD.KH')
+Expect: 1.45483715469e+16
+('Trinidad and Tobago', 'EG.ELC.PROD.KH')
+Expect: 2.14920856697e+16
+('Tunisia', 'EG.ELC.PROD.KH')
+Expect: 3.20351999827e+16
+('Turkey', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Ukraine', 'EG.ELC.PROD.KH')
+Expect: 2.29696285294e+16
+('Uruguay', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('US', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('Uzbekistan', 'EG.ELC.PROD.KH')
+Expect: 3.6e+16
+('South Africa', 'EG.ELC.PROD.KH')
+Expect: 2.86417714029e+16
+('Zambia', 'EG.ELC.PROD.KH')
+Expect: 2.45389712374e+16
+('Zimbabwe', 'EG.ELC.PROD.KH')
+Expect: 1728567384.62
+('Aruba', 'EN.ATM.CO2E.KT')
+Expect: 506477411.765
+('Andorra', 'EN.ATM.CO2E.KT')
+Expect: 1848732153.85
+('Afghanistan', 'EN.ATM.CO2E.KT')
+Expect: 7438791596.15
+('Angola', 'EN.ATM.CO2E.KT')
+Expect: 4331855307.69
+('Albania', 'EN.ATM.CO2E.KT')
+Expect: 53509357269.2
+('United Arab Emirates', 'EN.ATM.CO2E.KT')
+Expect: 1.09645838654e+11
+('Argentina', 'EN.ATM.CO2E.KT')
+Expect: 3671400400.0
+('Armenia', 'EN.ATM.CO2E.KT')
+Expect: 348012403.846
+('Antigua and Barbuda', 'EN.ATM.CO2E.KT')
+Expect: 2.39585065192e+11
+('Australia', 'EN.ATM.CO2E.KT')
+Expect: 55669784711.5
+('Austria', 'EN.ATM.CO2E.KT')
+Expect: 36647264600.0
+('Azerbaijan', 'EN.ATM.CO2E.KT')
+Expect: 181223140.0
+('Burundi', 'EN.ATM.CO2E.KT')
+Expect: 1.13422002115e+11
+('Belgium', 'EN.ATM.CO2E.KT')
+Expect: 1106517250.0
+('Benin', 'EN.ATM.CO2E.KT')
+Expect: 580514307.692
+('Burkina Faso', 'EN.ATM.CO2E.KT')
+Expect: 20269342500.0
+('Bangladesh', 'EN.ATM.CO2E.KT')
+Expect: 60159673461.5
+('Bulgaria', 'EN.ATM.CO2E.KT')
+Expect: 10279165153.8
+('Bahrain', 'EN.ATM.CO2E.KT')
+Expect: 18116446600.0
+('Bosnia and Herzegovina', 'EN.ATM.CO2E.KT')
+Expect: 60608726500.0
+('Belarus', 'EN.ATM.CO2E.KT')
+Expect: 258311942.308
+('Belize', 'EN.ATM.CO2E.KT')
+Expect: 407953750.0
+('Bermuda', 'EN.ATM.CO2E.KT')
+Expect: 2.00852449885e+11
+('Brazil', 'EN.ATM.CO2E.KT')
+Expect: 797360942.308
+('Barbados', 'EN.ATM.CO2E.KT')
+Expect: 4877956230.77
+('Brunei', 'EN.ATM.CO2E.KT')
+Expect: 181778428.571
+('Bhutan', 'EN.ATM.CO2E.KT')
+Expect: 2457623400.0
+('Botswana', 'EN.ATM.CO2E.KT')
+Expect: 177214826.923
+('Central African Republic', 'EN.ATM.CO2E.KT')
+Expect: 4.09604817308e+11
+('Canada', 'EN.ATM.CO2E.KT')
+Expect: 38106265211.5
+('Switzerland', 'EN.ATM.CO2E.KT')
+Expect: 34868868384.6
+('Chile', 'EN.ATM.CO2E.KT')
+Expect: 2.47485582115e+12
+('China', 'EN.ATM.CO2E.KT')
+Expect: 2843758500.0
+('Cameroon', 'EN.ATM.CO2E.KT')
+Expect: 45848853673.1
+('Colombia', 'EN.ATM.CO2E.KT')
+Expect: 56767980.7692
+('Comoros', 'EN.ATM.CO2E.KT')
+Expect: 3400225750.0
+('Costa Rica', 'EN.ATM.CO2E.KT')
+Expect: 25620130192.3
+('Cuba', 'EN.ATM.CO2E.KT')
+Expect: 233207096.154
+('Cayman Islands', 'EN.ATM.CO2E.KT')
+Expect: 4045194634.62
+('Cyprus', 'EN.ATM.CO2E.KT')
+Expect: 1.2204527725e+11
+('Czech Republic', 'EN.ATM.CO2E.KT')
+Expect: 8.29691050952e+11
+('Germany', 'EN.ATM.CO2E.KT')
+Expect: 304995673.077
+('Djibouti', 'EN.ATM.CO2E.KT')
+Expect: 55851230.7692
+('Dominica', 'EN.ATM.CO2E.KT')
+Expect: 52328724634.6
+('Denmark', 'EN.ATM.CO2E.KT')
+Expect: 10052163711.5
+('Dominican Republic', 'EN.ATM.CO2E.KT')
+Expect: 60119407326.9
+('Algeria', 'EN.ATM.CO2E.KT')
+Expect: 15027224980.8
+('Ecuador', 'EN.ATM.CO2E.KT')
+Expect: 524381000.0
+('Eritrea', 'EN.ATM.CO2E.KT')
+Expect: 2.00518118058e+11
+('Spain', 'EN.ATM.CO2E.KT')
+Expect: 16949424050.0
+('Estonia', 'EN.ATM.CO2E.KT')
+Expect: 2692494750.0
+('Ethiopia', 'EN.ATM.CO2E.KT')
+Expect: 47035551192.3
+('Finland', 'EN.ATM.CO2E.KT')
+Expect: 697646750.0
+('Fiji', 'EN.ATM.CO2E.KT')
+Expect: 3.99682195577e+11
+('France', 'EN.ATM.CO2E.KT')
+Expect: 5.74020897885e+11
+('UK', 'EN.ATM.CO2E.KT')
+Expect: 5476114450.0
+('Georgia', 'EN.ATM.CO2E.KT')
+Expect: 4110213365.38
+('Ghana', 'EN.ATM.CO2E.KT')
+Expect: 986775596.154
+('Guinea', 'EN.ATM.CO2E.KT')
+Expect: 152462576.923
+('Guinea-Bissau', 'EN.ATM.CO2E.KT')
+Expect: 988256500.0
+('Equatorial Guinea', 'EN.ATM.CO2E.KT')
+Expect: 57285027653.8
+('Greece', 'EN.ATM.CO2E.KT')
+Expect: 104086384.615
+('Grenada', 'EN.ATM.CO2E.KT')
+Expect: 479601288.462
+('Greenland', 'EN.ATM.CO2E.KT')
+Expect: 5454944576.92
+('Guatemala', 'EN.ATM.CO2E.KT')
+Expect: 1385702884.62
+('Guyana', 'EN.ATM.CO2E.KT')
+Expect: 3103762903.85
+('Honduras', 'EN.ATM.CO2E.KT')
+Expect: 20407038300.0
+('Croatia', 'EN.ATM.CO2E.KT')
+Expect: 947284826.923
+('Haiti', 'EN.ATM.CO2E.KT')
+Expect: 66399497365.4
+('Hungary', 'EN.ATM.CO2E.KT')
+Expect: 1.55500121942e+11
+('Indonesia', 'EN.ATM.CO2E.KT')
+Expect: 6.68535422885e+11
+('India', 'EN.ATM.CO2E.KT')
+Expect: 28339633846.2
+('Ireland', 'EN.ATM.CO2E.KT')
+Expect: 52041641576.9
+('Iraq', 'EN.ATM.CO2E.KT')
+Expect: 1784207057.69
+('Iceland', 'EN.ATM.CO2E.KT')
+Expect: 34201333500.0
+('Israel', 'EN.ATM.CO2E.KT')
+Expect: 3.55277647115e+11
+('Italy', 'EN.ATM.CO2E.KT')
+Expect: 7182031057.69
+('Jamaica', 'EN.ATM.CO2E.KT')
+Expect: 8819981250.0
+('Jordan', 'EN.ATM.CO2E.KT')
+Expect: 9.09642440962e+11
+('Japan', 'EN.ATM.CO2E.KT')
+Expect: 1.756799195e+11
+('Kazakhstan', 'EN.ATM.CO2E.KT')
+Expect: 5825734692.31
+('Kenya', 'EN.ATM.CO2E.KT')
+Expect: 1044953961.54
+('Cambodia', 'EN.ATM.CO2E.KT')
+Expect: 28473176.4706
+('Kiribati', 'EN.ATM.CO2E.KT')
+Expect: 36724017730.8
+('Kuwait', 'EN.ATM.CO2E.KT')
+Expect: 9297607980.77
+('Lebanon', 'EN.ATM.CO2E.KT')
+Expect: 788687076.923
+('Liberia', 'EN.ATM.CO2E.KT')
+Expect: 31074722173.1
+('Libya', 'EN.ATM.CO2E.KT')
+Expect: 5532727288.46
+('Sri Lanka', 'EN.ATM.CO2E.KT')
+Expect: 15401400.0
+('Lesotho', 'EN.ATM.CO2E.KT')
+Expect: 14781127000.0
+('Lithuania', 'EN.ATM.CO2E.KT')
+Expect: 10599040384.6
+('Luxembourg', 'EN.ATM.CO2E.KT')
+Expect: 8214446700.0
+('Latvia', 'EN.ATM.CO2E.KT')
+Expect: 21500819826.9
+('Morocco', 'EN.ATM.CO2E.KT')
+Expect: 1183524250.0
+('Madagascar', 'EN.ATM.CO2E.KT')
+Expect: 301677829.268
+('Maldives', 'EN.ATM.CO2E.KT')
+Expect: 2.61480442192e+11
+('Mexico', 'EN.ATM.CO2E.KT')
+Expect: 75340181.8182
+('Marshall Islands', 'EN.ATM.CO2E.KT')
+Expect: 384541365.385
+('Mali', 'EN.ATM.CO2E.KT')
+Expect: 1493526788.46
+('Malta', 'EN.ATM.CO2E.KT')
+Expect: 6064442288.46
+('Myanmar', 'EN.ATM.CO2E.KT')
+Expect: 2238441571.43
+('Montenegro', 'EN.ATM.CO2E.KT')
+Expect: 6511181615.38
+('Mongolia', 'EN.ATM.CO2E.KT')
+Expect: 1993367096.15
+('Mozambique', 'EN.ATM.CO2E.KT')
+Expect: 1257569442.31
+('Mauritania', 'EN.ATM.CO2E.KT')
+Expect: 1413699019.23
+('Mauritius', 'EN.ATM.CO2E.KT')
+Expect: 674804395.833
+('Malawi', 'EN.ATM.CO2E.KT')
+Expect: 82891138904.8
+('Malaysia', 'EN.ATM.CO2E.KT')
+Expect: 1802330500.0
+('Namibia', 'EN.ATM.CO2E.KT')
+Expect: 1871932980.77
+('New Caledonia', 'EN.ATM.CO2E.KT')
+Expect: 626563365.385
+('Niger', 'EN.ATM.CO2E.KT')
+Expect: 51218117173.1
+('Nigeria', 'EN.ATM.CO2E.KT')
+Expect: 2397371769.23
+('Nicaragua', 'EN.ATM.CO2E.KT')
+Expect: 1.48530000923e+11
+('Netherlands', 'EN.ATM.CO2E.KT')
+Expect: 31617649730.8
+('Norway', 'EN.ATM.CO2E.KT')
+Expect: 1247485192.31
+('Nepal', 'EN.ATM.CO2E.KT')
+Expect: 22468414250.0
+('New Zealand', 'EN.ATM.CO2E.KT')
+Expect: 13740249020.8
+('Oman', 'EN.ATM.CO2E.KT')
+Expect: 62254306038.5
+('Pakistan', 'EN.ATM.CO2E.KT')
+Expect: 3802185365.38
+('Panama', 'EN.ATM.CO2E.KT')
+Expect: 23222617423.1
+('Peru', 'EN.ATM.CO2E.KT')
+Expect: 42139965192.3
+('Philippines', 'EN.ATM.CO2E.KT')
+Expect: 142237288.462
+('Palau', 'EN.ATM.CO2E.KT')
+Expect: 1966640307.69
+('Papua New Guinea', 'EN.ATM.CO2E.KT')
+Expect: 3.37905238077e+11
+('Poland', 'EN.ATM.CO2E.KT')
+Expect: 34779943500.0
+('Portugal', 'EN.ATM.CO2E.KT')
+Expect: 2153586788.46
+('Paraguay', 'EN.ATM.CO2E.KT')
+Expect: 443495442.308
+('French Polynesia', 'EN.ATM.CO2E.KT')
+Expect: 21407382000.0
+('Qatar', 'EN.ATM.CO2E.KT')
+Expect: 1.28243874538e+11
+('Romania', 'EN.ATM.CO2E.KT')
+Expect: 1.656880965e+12
+('Russia', 'EN.ATM.CO2E.KT')
+Expect: 419166307.692
+('Rwanda', 'EN.ATM.CO2E.KT')
+Expect: 1.84048210269e+11
+('Saudi Arabia', 'EN.ATM.CO2E.KT')
+Expect: 5229142000.0
+('Sudan', 'EN.ATM.CO2E.KT')
+Expect: 2970989019.61
+('Senegal', 'EN.ATM.CO2E.KT')
+Expect: 28972967038.5
+('Singapore', 'EN.ATM.CO2E.KT')
+Expect: 114452711.538
+('Solomon Islands', 'EN.ATM.CO2E.KT')
+Expect: 511546500.0
+('Sierra Leone', 'EN.ATM.CO2E.KT')
+Expect: 3203829692.31
+('El Salvador', 'EN.ATM.CO2E.KT')
+Expect: 416128104.167
+('Somalia', 'EN.ATM.CO2E.KT')
+Expect: 49324817000.0
+('Serbia', 'EN.ATM.CO2E.KT')
+Expect: 1796618442.31
+('Suriname', 'EN.ATM.CO2E.KT')
+Expect: 14967043850.0
+('Slovenia', 'EN.ATM.CO2E.KT')
+Expect: 62205859442.3
+('Sweden', 'EN.ATM.CO2E.KT')
+Expect: 537508860.0
+('Swaziland', 'EN.ATM.CO2E.KT')
+Expect: 243967755.102
+('Seychelles', 'EN.ATM.CO2E.KT')
+Expect: 29175921423.1
+('Syria', 'EN.ATM.CO2E.KT')
+Expect: 77007000.0
+('Turks and Caicos Islands', 'EN.ATM.CO2E.KT')
+Expect: 182785846.154
+('Chad', 'EN.ATM.CO2E.KT')
+Expect: 727476384.615
+('Togo', 'EN.ATM.CO2E.KT')
+Expect: 97244537769.2
+('Thailand', 'EN.ATM.CO2E.KT')
+Expect: 2861176750.0
+('Tajikistan', 'EN.ATM.CO2E.KT')
+Expect: 38766974050.0
+('Turkmenistan', 'EN.ATM.CO2E.KT')
+Expect: 175649300.0
+('Timor-Leste', 'EN.ATM.CO2E.KT')
+Expect: 71224423.0769
+('Tonga', 'EN.ATM.CO2E.KT')
+Expect: 17670638326.9
+('Trinidad and Tobago', 'EN.ATM.CO2E.KT')
+Expect: 11753581250.0
+('Tunisia', 'EN.ATM.CO2E.KT')
+Expect: 1.23088849635e+11
+('Turkey', 'EN.ATM.CO2E.KT')
+Expect: 1180280365.38
+('Uganda', 'EN.ATM.CO2E.KT')
+Expect: 3.645894555e+11
+('Ukraine', 'EN.ATM.CO2E.KT')
+Expect: 5178368153.85
+('Uruguay', 'EN.ATM.CO2E.KT')
+Expect: 4.65962485769e+12
+('US', 'EN.ATM.CO2E.KT')
+Expect: 1.141329912e+11
+('Uzbekistan', 'EN.ATM.CO2E.KT')
+Expect: 66372700.0
+('Vanuatu', 'EN.ATM.CO2E.KT')
+Expect: 94566288.4615
+('Samoa', 'EN.ATM.CO2E.KT')
+Expect: 2.75026058365e+11
+('South Africa', 'EN.ATM.CO2E.KT')
+Expect: 2942691104.17
+('Zambia', 'EN.ATM.CO2E.KT')
+Expect: 10871127083.3
+('Zimbabwe', 'EN.ATM.CO2E.KT')
+Expect: 3205081120.89
+('Aruba', 'BX.GSR.MRCH.CD')
+Expect: 479937268.667
+('Afghanistan', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Angola', 'BX.GSR.MRCH.CD')
+Expect: 527024917.556
+('Albania', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Argentina', 'BX.GSR.MRCH.CD')
+Expect: 1110587888.89
+('Armenia', 'BX.GSR.MRCH.CD')
+Expect: 59592253.7778
+('Antigua and Barbuda', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Australia', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Austria', 'BX.GSR.MRCH.CD')
+Expect: 9421792022.22
+('Azerbaijan', 'BX.GSR.MRCH.CD')
+Expect: 81663340.4444
+('Burundi', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Belgium', 'BX.GSR.MRCH.CD')
+Expect: 997191383.75
+('Benin', 'BX.GSR.MRCH.CD')
+Expect: 796060442.857
+('Burkina Faso', 'BX.GSR.MRCH.CD')
+Expect: 9789899311.11
+('Bangladesh', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Bulgaria', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Bahrain', 'BX.GSR.MRCH.CD')
+Expect: 2731892395.56
+('Bosnia and Herzegovina', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Belarus', 'BX.GSR.MRCH.CD')
+Expect: 445863729.556
+('Belize', 'BX.GSR.MRCH.CD')
+Expect: 19176418.625
+('Bermuda', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Brazil', 'BX.GSR.MRCH.CD')
+Expect: 436966203.429
+('Barbados', 'BX.GSR.MRCH.CD')
+Expect: 7495388350.0
+('Brunei', 'BX.GSR.MRCH.CD')
+Expect: 512426115.25
+('Bhutan', 'BX.GSR.MRCH.CD')
+Expect: 4743361857.78
+('Botswana', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Canada', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Switzerland', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Chile', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('China', 'BX.GSR.MRCH.CD')
+Expect: 4528771636.67
+('Cameroon', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Colombia', 'BX.GSR.MRCH.CD')
+Expect: 4056740547.78
+('Costa Rica', 'BX.GSR.MRCH.CD')
+Expect: 2204662500.0
+('Cyprus', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Czech Republic', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Germany', 'BX.GSR.MRCH.CD')
+Expect: 66421213.3333
+('Djibouti', 'BX.GSR.MRCH.CD')
+Expect: 38586774.6667
+('Dominica', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Denmark', 'BX.GSR.MRCH.CD')
+Expect: 2416100011.11
+('Dominican Republic', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Algeria', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Ecuador', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Spain', 'BX.GSR.MRCH.CD')
+Expect: 8923418800.0
+('Estonia', 'BX.GSR.MRCH.CD')
+Expect: 1824532900.0
+('Ethiopia', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Finland', 'BX.GSR.MRCH.CD')
+Expect: 810907576.667
+('Fiji', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('France', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('UK', 'BX.GSR.MRCH.CD')
+Expect: 2198490168.89
+('Georgia', 'BX.GSR.MRCH.CD')
+Expect: 5841412841.11
+('Ghana', 'BX.GSR.MRCH.CD')
+Expect: 1237804436.67
+('Guinea', 'BX.GSR.MRCH.CD')
+Expect: 103043089.143
+('Guinea-Bissau', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Greece', 'BX.GSR.MRCH.CD')
+Expect: 35479610.4444
+('Grenada', 'BX.GSR.MRCH.CD')
+Expect: 7517922233.33
+('Guatemala', 'BX.GSR.MRCH.CD')
+Expect: 813983196.667
+('Guyana', 'BX.GSR.MRCH.CD')
+Expect: 2765965712.22
+('Honduras', 'BX.GSR.MRCH.CD')
+Expect: 9748576600.0
+('Croatia', 'BX.GSR.MRCH.CD')
+Expect: 566015547.778
+('Haiti', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Hungary', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Indonesia', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('India', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Ireland', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Iraq', 'BX.GSR.MRCH.CD')
+Expect: 4326920962.22
+('Iceland', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Israel', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Italy', 'BX.GSR.MRCH.CD')
+Expect: 1827293568.89
+('Jamaica', 'BX.GSR.MRCH.CD')
+Expect: 6308013677.78
+('Jordan', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Japan', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Kazakhstan', 'BX.GSR.MRCH.CD')
+Expect: 4582131538.89
+('Kenya', 'BX.GSR.MRCH.CD')
+Expect: 3818268158.89
+('Cambodia', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Kuwait', 'BX.GSR.MRCH.CD')
+Expect: 3937818645.56
+('Lebanon', 'BX.GSR.MRCH.CD')
+Expect: 241395696.0
+('Liberia', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Libya', 'BX.GSR.MRCH.CD')
+Expect: 7867822533.33
+('Sri Lanka', 'BX.GSR.MRCH.CD')
+Expect: 828830884.444
+('Lesotho', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Lithuania', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Luxembourg', 'BX.GSR.MRCH.CD')
+Expect: 7507111088.89
+('Latvia', 'BX.GSR.MRCH.CD')
+Expect: 9082805533.33
+('Morocco', 'BX.GSR.MRCH.CD')
+Expect: 351904192.0
+('Madagascar', 'BX.GSR.MRCH.CD')
+Expect: 238836860.444
+('Maldives', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Mexico', 'BX.GSR.MRCH.CD')
+Expect: 1604023202.86
+('Mali', 'BX.GSR.MRCH.CD')
+Expect: 3312826540.0
+('Malta', 'BX.GSR.MRCH.CD')
+Expect: 5433927928.75
+('Myanmar', 'BX.GSR.MRCH.CD')
+Expect: 519995570.571
+('Montenegro', 'BX.GSR.MRCH.CD')
+Expect: 2458707432.22
+('Mongolia', 'BX.GSR.MRCH.CD')
+Expect: 2487915206.67
+('Mozambique', 'BX.GSR.MRCH.CD')
+Expect: 2273937976.67
+('Mauritius', 'BX.GSR.MRCH.CD')
+Expect: 976523242.222
+('Malawi', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Malaysia', 'BX.GSR.MRCH.CD')
+Expect: 3049254431.25
+('Namibia', 'BX.GSR.MRCH.CD')
+Expect: 1360081887.5
+('New Caledonia', 'BX.GSR.MRCH.CD')
+Expect: 740801028.286
+('Niger', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Nigeria', 'BX.GSR.MRCH.CD')
+Expect: 2203773342.22
+('Nicaragua', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Netherlands', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Norway', 'BX.GSR.MRCH.CD')
+Expect: 915885404.444
+('Nepal', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('New Zealand', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Oman', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Pakistan', 'BX.GSR.MRCH.CD')
+Expect: 9177866588.89
+('Panama', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Peru', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Philippines', 'BX.GSR.MRCH.CD')
+Expect: 4504211014.29
+('Papua New Guinea', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Poland', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Portugal', 'BX.GSR.MRCH.CD')
+Expect: 7805187188.89
+('Paraguay', 'BX.GSR.MRCH.CD')
+Expect: 180063078.0
+('French Polynesia', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Qatar', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Romania', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Russia', 'BX.GSR.MRCH.CD')
+Expect: 269573295.778
+('Rwanda', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Saudi Arabia', 'BX.GSR.MRCH.CD')
+Expect: 7112021335.56
+('Sudan', 'BX.GSR.MRCH.CD')
+Expect: 1944712496.25
+('Senegal', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Singapore', 'BX.GSR.MRCH.CD')
+Expect: 222028771.556
+('Solomon Islands', 'BX.GSR.MRCH.CD')
+Expect: 373318478.444
+('Sierra Leone', 'BX.GSR.MRCH.CD')
+Expect: 2991893247.78
+('El Salvador', 'BX.GSR.MRCH.CD')
+Expect: 9320864928.57
+('Serbia', 'BX.GSR.MRCH.CD')
+Expect: 1686577792.22
+('Suriname', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Slovenia', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Sweden', 'BX.GSR.MRCH.CD')
+Expect: 1663108153.33
+('Swaziland', 'BX.GSR.MRCH.CD')
+Expect: 417863619.556
+('Seychelles', 'BX.GSR.MRCH.CD')
+Expect: 9600571542.86
+('Syria', 'BX.GSR.MRCH.CD')
+Expect: 757638362.857
+('Togo', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Thailand', 'BX.GSR.MRCH.CD')
+Expect: 1014189034.44
+('Tajikistan', 'BX.GSR.MRCH.CD')
+Expect: 17285873.125
+('Timor-Leste', 'BX.GSR.MRCH.CD')
+Expect: 12367245.8889
+('Tonga', 'BX.GSR.MRCH.CD')
+Expect: 9798712450.0
+('Trinidad and Tobago', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Tunisia', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Turkey', 'BX.GSR.MRCH.CD')
+Expect: 1891475770.0
+('Uganda', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('Ukraine', 'BX.GSR.MRCH.CD')
+Expect: 6416272102.22
+('Uruguay', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('US', 'BX.GSR.MRCH.CD')
+Expect: 45933801.3333
+('Vanuatu', 'BX.GSR.MRCH.CD')
+Expect: 16486065.4444
+('Samoa', 'BX.GSR.MRCH.CD')
+Expect: 10000000000.0
+('South Africa', 'BX.GSR.MRCH.CD')
+Expect: 5301622676.67
+('Zambia', 'BX.GSR.MRCH.CD')
+Expect: 29.5127873412
+('Aruba', 'IT.NET.USER.P2')
+Expect: 35.3166322778
+('Andorra', 'IT.NET.USER.P2')
+Expect: 1.80562866739
+('Afghanistan', 'IT.NET.USER.P2')
+Expect: 3.15831708519
+('Angola', 'IT.NET.USER.P2')
+Expect: 12.4433323483
+('Albania', 'IT.NET.USER.P2')
+Expect: 33.7223857255
+('United Arab Emirates', 'IT.NET.USER.P2')
+Expect: 14.7330035117
+('Argentina', 'IT.NET.USER.P2')
+Expect: 7.1576426241
+('Armenia', 'IT.NET.USER.P2')
+Expect: 0.0
+('American Samoa', 'IT.NET.USER.P2')
+Expect: 20.864442875
+('Antigua and Barbuda', 'IT.NET.USER.P2')
+Expect: 37.3290041381
+('Australia', 'IT.NET.USER.P2')
+Expect: 34.993161275
+('Austria', 'IT.NET.USER.P2')
+Expect: 12.3614385393
+('Azerbaijan', 'IT.NET.USER.P2')
+Expect: 0.18703279591
+('Burundi', 'IT.NET.USER.P2')
+Expect: 33.0597770249
+('Belgium', 'IT.NET.USER.P2')
+Expect: 1.19848399364
+('Benin', 'IT.NET.USER.P2')
+Expect: 0.756002554137
+('Burkina Faso', 'IT.NET.USER.P2')
+Expect: 1.35477362703
+('Bangladesh', 'IT.NET.USER.P2')
+Expect: 17.1282288
+('Bulgaria', 'IT.NET.USER.P2')
+Expect: 25.0219359115
+('Bahrain', 'IT.NET.USER.P2')
+Expect: 18.3633441577
+('Bosnia and Herzegovina', 'IT.NET.USER.P2')
+Expect: 12.2443593738
+('Belarus', 'IT.NET.USER.P2')
+Expect: 7.61326191556
+('Belize', 'IT.NET.USER.P2')
+Expect: 50.91889462
+('Bermuda', 'IT.NET.USER.P2')
+Expect: 14.2665420714
+('Brazil', 'IT.NET.USER.P2')
+Expect: 32.2029366519
+('Barbados', 'IT.NET.USER.P2')
+Expect: 24.863380935
+('Brunei', 'IT.NET.USER.P2')
+Expect: 6.04453856875
+('Bhutan', 'IT.NET.USER.P2')
+Expect: 1.77837325087
+('Botswana', 'IT.NET.USER.P2')
+Expect: 0.614710686526
+('Central African Republic', 'IT.NET.USER.P2')
+Expect: 42.5177791408
+('Canada', 'IT.NET.USER.P2')
+Expect: 42.72133485
+('Switzerland', 'IT.NET.USER.P2')
+Expect: 19.9415499465
+('Chile', 'IT.NET.USER.P2')
+Expect: 10.2221040953
+('China', 'IT.NET.USER.P2')
+Expect: 1.7335099753
+('Cameroon', 'IT.NET.USER.P2')
+Expect: 12.3715390286
+('Colombia', 'IT.NET.USER.P2')
+Expect: 1.85591808611
+('Comoros', 'IT.NET.USER.P2')
+Expect: 15.4140334787
+('Costa Rica', 'IT.NET.USER.P2')
+Expect: 7.215589595
+('Cuba', 'IT.NET.USER.P2')
+Expect: 36.4289090154
+('Cayman Islands', 'IT.NET.USER.P2')
+Expect: 22.8446213381
+('Cyprus', 'IT.NET.USER.P2')
+Expect: 28.0184817364
+('Czech Republic', 'IT.NET.USER.P2')
+Expect: 37.4165947413
+('Germany', 'IT.NET.USER.P2')
+Expect: 1.7316868963
+('Djibouti', 'IT.NET.USER.P2')
+Expect: 24.0701885547
+('Dominica', 'IT.NET.USER.P2')
+Expect: 44.9354814587
+('Denmark', 'IT.NET.USER.P2')
+Expect: 11.8911724657
+('Dominican Republic', 'IT.NET.USER.P2')
+Expect: 4.5524923199
+('Algeria', 'IT.NET.USER.P2')
+Expect: 7.90835091188
+('Ecuador', 'IT.NET.USER.P2')
+Expect: 0.227494686222
+('Eritrea', 'IT.NET.USER.P2')
+Expect: 26.3901092751
+('Spain', 'IT.NET.USER.P2')
+Expect: 34.904681703
+('Estonia', 'IT.NET.USER.P2')
+Expect: 0.28189649949
+('Ethiopia', 'IT.NET.USER.P2')
+Expect: 44.6746066517
+('Finland', 'IT.NET.USER.P2')
+Expect: 7.55577026998
+('Fiji', 'IT.NET.USER.P2')
+Expect: 29.5829631279
+('France', 'IT.NET.USER.P2')
+Expect: 38.8526172843
+('UK', 'IT.NET.USER.P2')
+Expect: 8.55257220518
+('Georgia', 'IT.NET.USER.P2')
+Expect: 3.06982418248
+('Ghana', 'IT.NET.USER.P2')
+Expect: 0.443631261267
+('Guinea', 'IT.NET.USER.P2')
+Expect: 1.31734339017
+('Guinea-Bissau', 'IT.NET.USER.P2')
+Expect: 2.31088100278
+('Equatorial Guinea', 'IT.NET.USER.P2')
+Expect: 17.2855794019
+('Greece', 'IT.NET.USER.P2')
+Expect: 6.96422960881
+('Grenada', 'IT.NET.USER.P2')
+Expect: 36.3718118648
+('Greenland', 'IT.NET.USER.P2')
+Expect: 4.62841940652
+('Guatemala', 'IT.NET.USER.P2')
+Expect: 26.7222825876
+('Guam', 'IT.NET.USER.P2')
+Expect: 12.4319001986
+('Guyana', 'IT.NET.USER.P2')
+Expect: 5.24763580845
+('Honduras', 'IT.NET.USER.P2')
+Expect: 22.1518267314
+('Croatia', 'IT.NET.USER.P2')
+Expect: 3.99213892472
+('Haiti', 'IT.NET.USER.P2')
+Expect: 23.7903591963
+('Hungary', 'IT.NET.USER.P2')
+Expect: 3.74260178383
+('Indonesia', 'IT.NET.USER.P2')
+Expect: 2.4234259896
+('India', 'IT.NET.USER.P2')
+Expect: 28.4003903177
+('Ireland', 'IT.NET.USER.P2')
+Expect: 1.53873887429
+('Iraq', 'IT.NET.USER.P2')
+Expect: 50.7541854583
+('Iceland', 'IT.NET.USER.P2')
+Expect: 23.5342924954
+('Israel', 'IT.NET.USER.P2')
+Expect: 22.4787221915
+('Italy', 'IT.NET.USER.P2')
+Expect: 11.7432600778
+('Jamaica', 'IT.NET.USER.P2')
+Expect: 11.8439800235
+('Jordan', 'IT.NET.USER.P2')
+Expect: 36.5367281805
+('Japan', 'IT.NET.USER.P2')
+Expect: 8.74617320495
+('Kazakhstan', 'IT.NET.USER.P2')
+Expect: 5.98553205685
+('Kenya', 'IT.NET.USER.P2')
+Expect: 0.698980486644
+('Cambodia', 'IT.NET.USER.P2')
+Expect: 4.42574151765
+('Kiribati', 'IT.NET.USER.P2')
+Expect: 21.7835308148
+('Kuwait', 'IT.NET.USER.P2')
+Expect: 15.0883888015
+('Lebanon', 'IT.NET.USER.P2')
+Expect: 0.678281408
+('Liberia', 'IT.NET.USER.P2')
+Expect: 4.66798705333
+('Libya', 'IT.NET.USER.P2')
+Expect: 57.0662246
+('Liechtenstein', 'IT.NET.USER.P2')
+Expect: 3.54006439908
+('Sri Lanka', 'IT.NET.USER.P2')
+Expect: 1.80620599972
+('Lesotho', 'IT.NET.USER.P2')
+Expect: 28.1451255926
+('Lithuania', 'IT.NET.USER.P2')
+Expect: 40.3552782317
+('Luxembourg', 'IT.NET.USER.P2')
+Expect: 32.3556450789
+('Latvia', 'IT.NET.USER.P2')
+Expect: 15.5252168125
+('Morocco', 'IT.NET.USER.P2')
+Expect: 53.3218690667
+('Monaco', 'IT.NET.USER.P2')
+Expect: 0.669295011726
+('Madagascar', 'IT.NET.USER.P2')
+Expect: 4.94347012167
+('Maldives', 'IT.NET.USER.P2')
+Expect: 11.0494892159
+('Mexico', 'IT.NET.USER.P2')
+Expect: 2.71060369
+('Marshall Islands', 'IT.NET.USER.P2')
+Expect: 0.677742533737
+('Mali', 'IT.NET.USER.P2')
+Expect: 29.266963345
+('Malta', 'IT.NET.USER.P2')
+Expect: 0.216852310553
+('Myanmar', 'IT.NET.USER.P2')
+Expect: 33.9838921
+('Montenegro', 'IT.NET.USER.P2')
+Expect: 4.60265372594
+('Mongolia', 'IT.NET.USER.P2')
+Expect: 0.0
+('Northern Mariana Islands', 'IT.NET.USER.P2')
+Expect: 1.1518930853
+('Mozambique', 'IT.NET.USER.P2')
+Expect: 1.27709763339
+('Mauritania', 'IT.NET.USER.P2')
+Expect: 13.7449988858
+('Mauritius', 'IT.NET.USER.P2')
+Expect: 0.818239611833
+('Malawi', 'IT.NET.USER.P2')
+Expect: 27.4303505572
+('Malaysia', 'IT.NET.USER.P2')
+Expect: 3.80859120368
+('Namibia', 'IT.NET.USER.P2')
+Expect: 21.9784628856
+('New Caledonia', 'IT.NET.USER.P2')
+Expect: 0.344831220179
+('Niger', 'IT.NET.USER.P2')
+Expect: 7.33905213874
+('Nigeria', 'IT.NET.USER.P2')
+Expect: 3.11676096476
+('Nicaragua', 'IT.NET.USER.P2')
+Expect: 45.4358192242
+('Netherlands', 'IT.NET.USER.P2')
+Expect: 49.19859685
+('Norway', 'IT.NET.USER.P2')
+Expect: 1.47944058572
+('Nepal', 'IT.NET.USER.P2')
+Expect: 43.4337777843
+('New Zealand', 'IT.NET.USER.P2')
+Expect: 13.4953440368
+('Oman', 'IT.NET.USER.P2')
+Expect: 4.01723444344
+('Pakistan', 'IT.NET.USER.P2')
+Expect: 14.4239701382
+('Panama', 'IT.NET.USER.P2')
+Expect: 13.4807904696
+('Peru', 'IT.NET.USER.P2')
+Expect: 6.86978389741
+('Philippines', 'IT.NET.USER.P2')
+Expect: 13.7631598
+('Palau', 'IT.NET.USER.P2')
+Expect: 1.08164466751
+('Papua New Guinea', 'IT.NET.USER.P2')
+Expect: 22.7574020471
+('Poland', 'IT.NET.USER.P2')
+Expect: 18.8609347368
+('Puerto Rico', 'IT.NET.USER.P2')
+Expect: 22.2270136508
+('Portugal', 'IT.NET.USER.P2')
+Expect: 7.41721867953
+('Paraguay', 'IT.NET.USER.P2')
+Expect: 19.0776263216
+('French Polynesia', 'IT.NET.USER.P2')
+Expect: 25.8505471195
+('Qatar', 'IT.NET.USER.P2')
+Expect: 14.6258926889
+('Romania', 'IT.NET.USER.P2')
+Expect: 12.696234944
+('Russia', 'IT.NET.USER.P2')
+Expect: 2.18671071587
+('Rwanda', 'IT.NET.USER.P2')
+Expect: 15.543097988
+('Saudi Arabia', 'IT.NET.USER.P2')
+Expect: 3.81124185411
+('Sudan', 'IT.NET.USER.P2')
+Expect: 5.26069700346
+('Senegal', 'IT.NET.USER.P2')
+Expect: 35.6505302646
+('Singapore', 'IT.NET.USER.P2')
+Expect: 1.6916709935
+('Solomon Islands', 'IT.NET.USER.P2')
+Expect: 0.222344729327
+('Sierra Leone', 'IT.NET.USER.P2')
+Expect: 5.79954894737
+('El Salvador', 'IT.NET.USER.P2')
+Expect: 34.6848458579
+('San Marino', 'IT.NET.USER.P2')
+Expect: 0.521032477232
+('Somalia', 'IT.NET.USER.P2')
+Expect: 33.855
+('Serbia', 'IT.NET.USER.P2')
+Expect: 10.306919901
+('Suriname', 'IT.NET.USER.P2')
+Expect: 30.6413606591
+('Slovenia', 'IT.NET.USER.P2')
+Expect: 48.5987139783
+('Sweden', 'IT.NET.USER.P2')
+Expect: 4.3815910328
+('Swaziland', 'IT.NET.USER.P2')
+Expect: 19.5941364722
+('Seychelles', 'IT.NET.USER.P2')
+Expect: 3.19879698067
+('Syria', 'IT.NET.USER.P2')
+Expect: 0.620206440444
+('Chad', 'IT.NET.USER.P2')
+Expect: 0.667095614
+('Togo', 'IT.NET.USER.P2')
+Expect: 4.85691762391
+('Thailand', 'IT.NET.USER.P2')
+Expect: 4.3461807825
+('Tajikistan', 'IT.NET.USER.P2')
+Expect: 1.52836697563
+('Turkmenistan', 'IT.NET.USER.P2')
+Expect: 0.248222466727
+('Timor-Leste', 'IT.NET.USER.P2')
+Expect: 6.4799756455
+('Tonga', 'IT.NET.USER.P2')
+Expect: 22.0980446065
+('Trinidad and Tobago', 'IT.NET.USER.P2')
+Expect: 11.8002205336
+('Tunisia', 'IT.NET.USER.P2')
+Expect: 14.189023983
+('Turkey', 'IT.NET.USER.P2')
+Expect: 15.5824044
+('Tuvalu', 'IT.NET.USER.P2')
+Expect: 3.39929462251
+('Uganda', 'IT.NET.USER.P2')
+Expect: 6.40645234547
+('Ukraine', 'IT.NET.USER.P2')
+Expect: 19.3393400407
+('Uruguay', 'IT.NET.USER.P2')
+Expect: 41.3330962083
+('US', 'IT.NET.USER.P2')
+Expect: 6.84100172424
+('Uzbekistan', 'IT.NET.USER.P2')
+Expect: 4.12672221868
+('Vanuatu', 'IT.NET.USER.P2')
+Expect: 3.64402121389
+('Samoa', 'IT.NET.USER.P2')
+Expect: 7.70772339446
+('South Africa', 'IT.NET.USER.P2')
+Expect: 2.99128992733
+('Zambia', 'IT.NET.USER.P2')
+Expect: 5.43646211059
+('Zimbabwe', 'IT.NET.USER.P2')
+Expect: 3.34232492069
+('Aruba', 'FP.CPI.TOTL.ZG')
+Expect: 6.74725484889
+('Afghanistan', 'FP.CPI.TOTL.ZG')
+Expect: 476.257284696
+('Angola', 'FP.CPI.TOTL.ZG')
+Expect: 20.1996641245
+('Albania', 'FP.CPI.TOTL.ZG')
+Expect: 3.288566418
+('United Arab Emirates', 'FP.CPI.TOTL.ZG')
+Expect: 185.506918226
+('Argentina', 'FP.CPI.TOTL.ZG')
+Expect: 235.938688158
+('Armenia', 'FP.CPI.TOTL.ZG')
+Expect: 1.96445750667
+('Antigua and Barbuda', 'FP.CPI.TOTL.ZG')
+Expect: 5.05084574358
+('Australia', 'FP.CPI.TOTL.ZG')
+Expect: 3.45146507245
+('Austria', 'FP.CPI.TOTL.ZG')
+Expect: 151.839121829
+('Azerbaijan', 'FP.CPI.TOTL.ZG')
+Expect: 10.0544821246
+('Burundi', 'FP.CPI.TOTL.ZG')
+Expect: 3.7313770117
+('Belgium', 'FP.CPI.TOTL.ZG')
+Expect: 5.40683234286
+('Benin', 'FP.CPI.TOTL.ZG')
+Expect: 4.49750267377
+('Burkina Faso', 'FP.CPI.TOTL.ZG')
+Expect: 6.12498124815
+('Bangladesh', 'FP.CPI.TOTL.ZG')
+Expect: 70.6969864286
+('Bulgaria', 'FP.CPI.TOTL.ZG')
+Expect: 3.81052456938
+('Bahrain', 'FP.CPI.TOTL.ZG')
+Expect: 2.773773565
+('Bosnia and Herzegovina', 'FP.CPI.TOTL.ZG')
+Expect: 243.01841581
+('Belarus', 'FP.CPI.TOTL.ZG')
+Expect: 2.62008216273
+('Belize', 'FP.CPI.TOTL.ZG')
+Expect: 354.929343848
+('Brazil', 'FP.CPI.TOTL.ZG')
+Expect: 6.57954010957
+('Barbados', 'FP.CPI.TOTL.ZG')
+Expect: 1.67060652303
+('Brunei', 'FP.CPI.TOTL.ZG')
+Expect: 7.81755520606
+('Bhutan', 'FP.CPI.TOTL.ZG')
+Expect: 10.0121349282
+('Botswana', 'FP.CPI.TOTL.ZG')
+Expect: 3.27925226812
+('Central African Republic', 'FP.CPI.TOTL.ZG')
+Expect: 4.00834373
+('Canada', 'FP.CPI.TOTL.ZG')
+Expect: 2.73219571143
+('Switzerland', 'FP.CPI.TOTL.ZG')
+Expect: 2.291691975
+('Chile', 'FP.CPI.TOTL.ZG')
+Expect: 5.56467732037
+('China', 'FP.CPI.TOTL.ZG')
+Expect: 6.18356790364
+('Cameroon', 'FP.CPI.TOTL.ZG')
+Expect: 15.6650376321
+('Colombia', 'FP.CPI.TOTL.ZG')
+Expect: 3.29803886154
+('Comoros', 'FP.CPI.TOTL.ZG')
+Expect: 12.8216873723
+('Costa Rica', 'FP.CPI.TOTL.ZG')
+Expect: 3.93746517302
+('Cyprus', 'FP.CPI.TOTL.ZG')
+Expect: 4.201496749
+('Czech Republic', 'FP.CPI.TOTL.ZG')
+Expect: 1.82964324773
+('Germany', 'FP.CPI.TOTL.ZG')
+Expect: 4.07300679286
+('Djibouti', 'FP.CPI.TOTL.ZG')
+Expect: 4.86626257256
+('Dominica', 'FP.CPI.TOTL.ZG')
+Expect: 5.00024344528
+('Denmark', 'FP.CPI.TOTL.ZG')
+Expect: 11.6128886936
+('Dominican Republic', 'FP.CPI.TOTL.ZG')
+Expect: 9.27325942182
+('Algeria', 'FP.CPI.TOTL.ZG')
+Expect: 20.4190963434
+('Ecuador', 'FP.CPI.TOTL.ZG')
+Expect: 7.20205104642
+('Spain', 'FP.CPI.TOTL.ZG')
+Expect: 12.6811516962
+('Estonia', 'FP.CPI.TOTL.ZG')
+Expect: 8.15166191813
+('Ethiopia', 'FP.CPI.TOTL.ZG')
+Expect: 5.1114496183
+('Finland', 'FP.CPI.TOTL.ZG')
+Expect: 6.25519750818
+('Fiji', 'FP.CPI.TOTL.ZG')
+Expect: 4.51436076434
+('France', 'FP.CPI.TOTL.ZG')
+Expect: 2.7270025952
+('UK', 'FP.CPI.TOTL.ZG')
+Expect: 16.2522907474
+('Georgia', 'FP.CPI.TOTL.ZG')
+Expect: 28.5419608429
+('Ghana', 'FP.CPI.TOTL.ZG')
+Expect: 18.7447599111
+('Guinea', 'FP.CPI.TOTL.ZG')
+Expect: 21.2780889115
+('Guinea-Bissau', 'FP.CPI.TOTL.ZG')
+Expect: 3.71997301786
+('Equatorial Guinea', 'FP.CPI.TOTL.ZG')
+Expect: 9.2088921683
+('Greece', 'FP.CPI.TOTL.ZG')
+Expect: 5.10760585946
+('Grenada', 'FP.CPI.TOTL.ZG')
+Expect: 8.41606983906
+('Guatemala', 'FP.CPI.TOTL.ZG')
+Expect: 5.69038823158
+('Guyana', 'FP.CPI.TOTL.ZG')
+Expect: 8.64605118679
+('Honduras', 'FP.CPI.TOTL.ZG')
+Expect: 167.354496504
+('Croatia', 'FP.CPI.TOTL.ZG')
+Expect: 10.5754131476
+('Haiti', 'FP.CPI.TOTL.ZG')
+Expect: 10.262046739
+('Hungary', 'FP.CPI.TOTL.ZG')
+Expect: 49.1939833057
+('Indonesia', 'FP.CPI.TOTL.ZG')
+Expect: 7.46870611566
+('India', 'FP.CPI.TOTL.ZG')
+Expect: 5.92383511321
+('Ireland', 'FP.CPI.TOTL.ZG')
+Expect: 40.412730183
+('Iraq', 'FP.CPI.TOTL.ZG')
+Expect: 17.2077158321
+('Iceland', 'FP.CPI.TOTL.ZG')
+Expect: 34.1736257383
+('Israel', 'FP.CPI.TOTL.ZG')
+Expect: 6.45521818868
+('Italy', 'FP.CPI.TOTL.ZG')
+Expect: 14.6752765604
+('Jamaica', 'FP.CPI.TOTL.ZG')
+Expect: 6.39294536318
+('Jordan', 'FP.CPI.TOTL.ZG')
+Expect: 3.26995456239
+('Japan', 'FP.CPI.TOTL.ZG')
+Expect: 112.167121775
+('Kazakhstan', 'FP.CPI.TOTL.ZG')
+Expect: 10.4622856485
+('Kenya', 'FP.CPI.TOTL.ZG')
+Expect: 5.06312893947
+('Cambodia', 'FP.CPI.TOTL.ZG')
+Expect: 4.23120270293
+('Kuwait', 'FP.CPI.TOTL.ZG')
+Expect: 2.5887455
+('Lebanon', 'FP.CPI.TOTL.ZG')
+Expect: 9.687539925
+('Liberia', 'FP.CPI.TOTL.ZG')
+Expect: 5.09672694184
+('Libya', 'FP.CPI.TOTL.ZG')
+Expect: 8.69720679566
+('Sri Lanka', 'FP.CPI.TOTL.ZG')
+Expect: 10.6208054459
+('Lesotho', 'FP.CPI.TOTL.ZG')
+Expect: 28.5215907171
+('Lithuania', 'FP.CPI.TOTL.ZG')
+Expect: 3.53739719906
+('Luxembourg', 'FP.CPI.TOTL.ZG')
+Expect: 23.1351455455
+('Latvia', 'FP.CPI.TOTL.ZG')
+Expect: 4.54793637
+('Morocco', 'FP.CPI.TOTL.ZG')
+Expect: 11.8343358402
+('Madagascar', 'FP.CPI.TOTL.ZG')
+Expect: 7.8898901
+('Maldives', 'FP.CPI.TOTL.ZG')
+Expect: 21.2838085302
+('Mexico', 'FP.CPI.TOTL.ZG')
+Expect: 2.8381065536
+('Mali', 'FP.CPI.TOTL.ZG')
+Expect: 3.12383909434
+('Malta', 'FP.CPI.TOTL.ZG')
+Expect: 13.8768221826
+('Myanmar', 'FP.CPI.TOTL.ZG')
+Expect: 3.42692640571
+('Montenegro', 'FP.CPI.TOTL.ZG')
+Expect: 27.6741329
+('Mongolia', 'FP.CPI.TOTL.ZG')
+Expect: 21.8900745731
+('Mozambique', 'FP.CPI.TOTL.ZG')
+Expect: 6.22920243571
+('Mauritania', 'FP.CPI.TOTL.ZG')
+Expect: 7.7586815248
+('Mauritius', 'FP.CPI.TOTL.ZG')
+Expect: 19.6271566606
+('Malawi', 'FP.CPI.TOTL.ZG')
+Expect: 3.08890159858
+('Malaysia', 'FP.CPI.TOTL.ZG')
+Expect: 5.70824983636
+('Namibia', 'FP.CPI.TOTL.ZG')
+Expect: 4.6087024848
+('Niger', 'FP.CPI.TOTL.ZG')
+Expect: 16.1929081758
+('Nigeria', 'FP.CPI.TOTL.ZG')
+Expect: 7.74116508571
+('Nicaragua', 'FP.CPI.TOTL.ZG')
+Expect: 3.57306302057
+('Netherlands', 'FP.CPI.TOTL.ZG')
+Expect: 4.75074957962
+('Norway', 'FP.CPI.TOTL.ZG')
+Expect: 8.03654476735
+('Nepal', 'FP.CPI.TOTL.ZG')
+Expect: 6.04702602151
+('New Zealand', 'FP.CPI.TOTL.ZG')
+Expect: 2.78878873923
+('Oman', 'FP.CPI.TOTL.ZG')
+Expect: 8.14687954642
+('Pakistan', 'FP.CPI.TOTL.ZG')
+Expect: 2.85671397811
+('Panama', 'FP.CPI.TOTL.ZG')
+Expect: 250.5811478
+('Peru', 'FP.CPI.TOTL.ZG')
+Expect: 9.11265913585
+('Philippines', 'FP.CPI.TOTL.ZG')
+Expect: 7.53721480238
+('Papua New Guinea', 'FP.CPI.TOTL.ZG')
+Expect: 33.5763982472
+('Poland', 'FP.CPI.TOTL.ZG')
+Expect: 9.00555742679
+('Portugal', 'FP.CPI.TOTL.ZG')
+Expect: 11.4980329785
+('Paraguay', 'FP.CPI.TOTL.ZG')
+Expect: 3.54111174265
+('Qatar', 'FP.CPI.TOTL.ZG')
+Expect: 58.5524942391
+('Romania', 'FP.CPI.TOTL.ZG')
+Expect: 81.9418641143
+('Russia', 'FP.CPI.TOTL.ZG')
+Expect: 7.53725706956
+('Rwanda', 'FP.CPI.TOTL.ZG')
+Expect: 3.62671714856
+('Saudi Arabia', 'FP.CPI.TOTL.ZG')
+Expect: 28.3200581113
+('Sudan', 'FP.CPI.TOTL.ZG')
+Expect: 5.18232635833
+('Senegal', 'FP.CPI.TOTL.ZG')
+Expect: 2.69101139555
+('Singapore', 'FP.CPI.TOTL.ZG')
+Expect: 9.74933414878
+('Solomon Islands', 'FP.CPI.TOTL.ZG')
+Expect: 12.9551450714
+('Sierra Leone', 'FP.CPI.TOTL.ZG')
+Expect: 8.09650693849
+('El Salvador', 'FP.CPI.TOTL.ZG')
+Expect: 2.30547933
+('San Marino', 'FP.CPI.TOTL.ZG')
+Expect: 29.8009834842
+('Serbia', 'FP.CPI.TOTL.ZG')
+Expect: 27.1082176958
+('Suriname', 'FP.CPI.TOTL.ZG')
+Expect: 7.41121798952
+('Slovenia', 'FP.CPI.TOTL.ZG')
+Expect: 4.73188079057
+('Sweden', 'FP.CPI.TOTL.ZG')
+Expect: 9.56061636042
+('Swaziland', 'FP.CPI.TOTL.ZG')
+Expect: 7.22915157907
+('Seychelles', 'FP.CPI.TOTL.ZG')
+Expect: 9.5067909866
+('Syria', 'FP.CPI.TOTL.ZG')
+Expect: 3.49748057133
+('Chad', 'FP.CPI.TOTL.ZG')
+Expect: 5.43854920638
+('Togo', 'FP.CPI.TOTL.ZG')
+Expect: 4.6141726917
+('Thailand', 'FP.CPI.TOTL.ZG')
+Expect: 12.4593428692
+('Tajikistan', 'FP.CPI.TOTL.ZG')
+Expect: 6.20192161818
+('Timor-Leste', 'FP.CPI.TOTL.ZG')
+Expect: 7.64819305611
+('Tonga', 'FP.CPI.TOTL.ZG')
+Expect: 7.78232498491
+('Trinidad and Tobago', 'FP.CPI.TOTL.ZG')
+Expect: 4.73617711
+('Tunisia', 'FP.CPI.TOTL.ZG')
+Expect: 34.181007677
+('Turkey', 'FP.CPI.TOTL.ZG')
+Expect: 37.3250463677
+('Uganda', 'FP.CPI.TOTL.ZG')
+Expect: 299.169757407
+('Ukraine', 'FP.CPI.TOTL.ZG')
+Expect: 42.1316812547
+('Uruguay', 'FP.CPI.TOTL.ZG')
+Expect: 3.97192628038
+('US', 'FP.CPI.TOTL.ZG')
+Expect: 4.69510587027
+('Vanuatu', 'FP.CPI.TOTL.ZG')
+Expect: 6.88899773473
+('Samoa', 'FP.CPI.TOTL.ZG')
+Expect: 8.3484787434
+('South Africa', 'FP.CPI.TOTL.ZG')
+Expect: 44.2878136607
+('Zambia', 'FP.CPI.TOTL.ZG')
+Expect: 42.5106900533
+('Zimbabwe', 'FP.CPI.TOTL.ZG')
+Expect: 72152.0740741
+('Aruba', 'SP.POP.TOTL')
+Expect: 47076.7407407
+('Andorra', 'SP.POP.TOTL')
+Expect: 15597155.3704
+('Afghanistan', 'SP.POP.TOTL')
+Expect: 10305140.3889
+('Angola', 'SP.POP.TOTL')
+Expect: 2780176.83333
+('Albania', 'SP.POP.TOTL')
+Expect: 2141176.72222
+('United Arab Emirates', 'SP.POP.TOTL')
+Expect: 30638152.6296
+('Argentina', 'SP.POP.TOTL')
+Expect: 2900829.85185
+('Armenia', 'SP.POP.TOTL')
+Expect: 40816.3148148
+('American Samoa', 'SP.POP.TOTL')
+Expect: 69647.5
+('Antigua and Barbuda', 'SP.POP.TOTL')
+Expect: 16053965.8148
+('Australia', 'SP.POP.TOTL')
+Expect: 7720424.31481
+('Austria', 'SP.POP.TOTL')
+Expect: 6650998.61111
+('Azerbaijan', 'SP.POP.TOTL')
+Expect: 5270353.64815
+('Burundi', 'SP.POP.TOTL')
+Expect: 9974858.59259
+('Belgium', 'SP.POP.TOTL')
+Expect: 5041628.81481
+('Benin', 'SP.POP.TOTL')
+Expect: 8792619.01852
+('Burkina Faso', 'SP.POP.TOTL')
+Expect: 98800122.6667
+('Bangladesh', 'SP.POP.TOTL')
+Expect: 8315967.53704
+('Bulgaria', 'SP.POP.TOTL')
+Expect: 503597.888889
+('Bahrain', 'SP.POP.TOTL')
+Expect: 3877959.22222
+('Bosnia and Herzegovina', 'SP.POP.TOTL')
+Expect: 9513925.92593
+('Belarus', 'SP.POP.TOTL')
+Expect: 181529.351852
+('Belize', 'SP.POP.TOTL')
+Expect: 56916.537037
+('Bermuda', 'SP.POP.TOTL')
+Expect: 136430623.407
+('Brazil', 'SP.POP.TOTL')
+Expect: 254776.5
+('Barbados', 'SP.POP.TOTL')
+Expect: 234196.740741
+('Brunei', 'SP.POP.TOTL')
+Expect: 457028.240741
+('Bhutan', 'SP.POP.TOTL')
+Expect: 1230514.01852
+('Botswana', 'SP.POP.TOTL')
+Expect: 2755626.05556
+('Central African Republic', 'SP.POP.TOTL')
+Expect: 26249763.2222
+('Canada', 'SP.POP.TOTL')
+Expect: 6637203.62963
+('Switzerland', 'SP.POP.TOTL')
+Expect: 12481804.3333
+('Chile', 'SP.POP.TOTL')
+Expect: 1042298796.11
+('China', 'SP.POP.TOTL')
+Expect: 11569059.7593
+('Cameroon', 'SP.POP.TOTL')
+Expect: 30873855.0741
+('Colombia', 'SP.POP.TOTL')
+Expect: 391258.62963
+('Comoros', 'SP.POP.TOTL')
+Expect: 2877750.31481
+('Costa Rica', 'SP.POP.TOTL')
+Expect: 9912167.90741
+('Cuba', 'SP.POP.TOTL')
+Expect: 25394.7777778
+('Cayman Islands', 'SP.POP.TOTL')
+Expect: 777563.296296
+('Cyprus', 'SP.POP.TOTL')
+Expect: 10147743.9259
+('Czech Republic', 'SP.POP.TOTL')
+Expect: 79130982.963
+('Germany', 'SP.POP.TOTL')
+Expect: 457512.962963
+('Djibouti', 'SP.POP.TOTL')
+Expect: 70310.037037
+('Dominica', 'SP.POP.TOTL')
+Expect: 5125201.75926
+('Denmark', 'SP.POP.TOTL')
+Expect: 6658121.75926
+('Dominican Republic', 'SP.POP.TOTL')
+Expect: 23537019.2222
+('Algeria', 'SP.POP.TOTL')
+Expect: 9398185.33333
+('Ecuador', 'SP.POP.TOTL')
+Expect: 3062753.25926
+('Eritrea', 'SP.POP.TOTL')
+Expect: 38013616.7037
+('Spain', 'SP.POP.TOTL')
+Expect: 1401574.16667
+('Estonia', 'SP.POP.TOTL')
+Expect: 47663631.9259
+('Ethiopia', 'SP.POP.TOTL')
+Expect: 4909491.74074
+('Finland', 'SP.POP.TOTL')
+Expect: 669243.537037
+('Fiji', 'SP.POP.TOTL')
+Expect: 56719673.6296
+('France', 'SP.POP.TOTL')
+Expect: 57270897.4074
+('UK', 'SP.POP.TOTL')
+Expect: 4365281.48148
+('Georgia', 'SP.POP.TOTL')
+Expect: 13984555.3333
+('Ghana', 'SP.POP.TOTL')
+Expect: 6295860.05556
+('Guinea', 'SP.POP.TOTL')
+Expect: 1000666.98148
+('Guinea-Bissau', 'SP.POP.TOTL')
+Expect: 385676.925926
+('Equatorial Guinea', 'SP.POP.TOTL')
+Expect: 9884937.18519
+('Greece', 'SP.POP.TOTL')
+Expect: 97082.0185185
+('Grenada', 'SP.POP.TOTL')
+Expect: 50504.7222222
+('Greenland', 'SP.POP.TOTL')
+Expect: 8500019.35185
+('Guatemala', 'SP.POP.TOTL')
+Expect: 118182.888889
+('Guam', 'SP.POP.TOTL')
+Expect: 725819.444444
+('Guyana', 'SP.POP.TOTL')
+Expect: 4531176.7963
+('Honduras', 'SP.POP.TOTL')
+Expect: 4478608.59259
+('Croatia', 'SP.POP.TOTL')
+Expect: 6671530.55556
+('Haiti', 'SP.POP.TOTL')
+Expect: 10317805.8333
+('Hungary', 'SP.POP.TOTL')
+Expect: 163963728.444
+('Indonesia', 'SP.POP.TOTL')
+Expect: 66695.037037
+('Isle of Man', 'SP.POP.TOTL')
+Expect: 807606782.926
+('India', 'SP.POP.TOTL')
+Expect: 3511726.94444
+('Ireland', 'SP.POP.TOTL')
+Expect: 17155623.6667
+('Iraq', 'SP.POP.TOTL')
+Expect: 245199.222222
+('Iceland', 'SP.POP.TOTL')
+Expect: 4624184.07407
+('Israel', 'SP.POP.TOTL')
+Expect: 55914942.8889
+('Italy', 'SP.POP.TOTL')
+Expect: 2240224.74074
+('Jamaica', 'SP.POP.TOTL')
+Expect: 3123641.5
+('Jordan', 'SP.POP.TOTL')
+Expect: 116499057.926
+('Japan', 'SP.POP.TOTL')
+Expect: 14492216.2222
+('Kazakhstan', 'SP.POP.TOTL')
+Expect: 21836758.4259
+('Kenya', 'SP.POP.TOTL')
+Expect: 9257444.74074
+('Cambodia', 'SP.POP.TOTL')
+Expect: 64098.5555556
+('Kiribati', 'SP.POP.TOTL')
+Expect: 1510771.62745
+('Kuwait', 'SP.POP.TOTL')
+Expect: 2869761.09259
+('Lebanon', 'SP.POP.TOTL')
+Expect: 2186969.88889
+('Liberia', 'SP.POP.TOTL')
+Expect: 3715245.2037
+('Libya', 'SP.POP.TOTL')
+Expect: 27167.462963
+('Liechtenstein', 'SP.POP.TOTL')
+Expect: 15738555.5556
+('Sri Lanka', 'SP.POP.TOTL')
+Expect: 1455908.83333
+('Lesotho', 'SP.POP.TOTL')
+Expect: 3320527.53704
+('Lithuania', 'SP.POP.TOTL')
+Expect: 390123.925926
+('Luxembourg', 'SP.POP.TOTL')
+Expect: 2381042.72222
+('Latvia', 'SP.POP.TOTL')
+Expect: 22395116.3889
+('Morocco', 'SP.POP.TOTL')
+Expect: 28574.0
+('Monaco', 'SP.POP.TOTL')
+Expect: 11390400.7963
+('Madagascar', 'SP.POP.TOTL')
+Expect: 196085.888889
+('Maldives', 'SP.POP.TOTL')
+Expect: 79069406.1481
+('Mexico', 'SP.POP.TOTL')
+Expect: 36945.6111111
+('Marshall Islands', 'SP.POP.TOTL')
+Expect: 8217717.14815
+('Mali', 'SP.POP.TOTL')
+Expect: 348419.925926
+('Malta', 'SP.POP.TOTL')
+Expect: 37994692.6667
+('Myanmar', 'SP.POP.TOTL')
+Expect: 576764.388889
+('Montenegro', 'SP.POP.TOTL')
+Expect: 1886960.37037
+('Mongolia', 'SP.POP.TOTL')
+Expect: 35509.1481481
+('Northern Mariana Islands', 'SP.POP.TOTL')
+Expect: 14179163.5
+('Mozambique', 'SP.POP.TOTL')
+Expect: 1973027.87037
+('Mauritania', 'SP.POP.TOTL')
+Expect: 1007856.74074
+('Mauritius', 'SP.POP.TOTL')
+Expect: 8233184.75926
+('Malawi', 'SP.POP.TOTL')
+Expect: 17184613.7778
+('Malaysia', 'SP.POP.TOTL')
+Expect: 1314925.92593
+('Namibia', 'SP.POP.TOTL')
+Expect: 162145.462963
+('New Caledonia', 'SP.POP.TOTL')
+Expect: 7934055.92593
+('Niger', 'SP.POP.TOTL')
+Expect: 91781692.0
+('Nigeria', 'SP.POP.TOTL')
+Expect: 3783008.2037
+('Nicaragua', 'SP.POP.TOTL')
+Expect: 14460036.963
+('Netherlands', 'SP.POP.TOTL')
+Expect: 4198188.88889
+('Norway', 'SP.POP.TOTL')
+Expect: 17332429.1667
+('Nepal', 'SP.POP.TOTL')
+Expect: 3353772.22222
+('New Zealand', 'SP.POP.TOTL')
+Expect: 1563588.27778
+('Oman', 'SP.POP.TOTL')
+Expect: 102229042.741
+('Pakistan', 'SP.POP.TOTL')
+Expect: 2323998.01852
+('Panama', 'SP.POP.TOTL')
+Expect: 19769887.7407
+('Peru', 'SP.POP.TOTL')
+Expect: 57399992.0741
+('Philippines', 'SP.POP.TOTL')
+Expect: 14831.8518519
+('Palau', 'SP.POP.TOTL')
+Expect: 3993002.07407
+('Papua New Guinea', 'SP.POP.TOTL')
+Expect: 35771368.037
+('Poland', 'SP.POP.TOTL')
+Expect: 3273353.09259
+('Puerto Rico', 'SP.POP.TOTL')
+Expect: 9717063.35185
+('Portugal', 'SP.POP.TOTL')
+Expect: 3954150.61111
+('Paraguay', 'SP.POP.TOTL')
+Expect: 175862.388889
+('French Polynesia', 'SP.POP.TOTL')
+Expect: 476538.407407
+('Qatar', 'SP.POP.TOTL')
+Expect: 21293780.3333
+('Romania', 'SP.POP.TOTL')
+Expect: 138755592.296
+('Russia', 'SP.POP.TOTL')
+Expect: 6164629.38889
+('Rwanda', 'SP.POP.TOTL')
+Expect: 14019039.2037
+('Saudi Arabia', 'SP.POP.TOTL')
+Expect: 19289520.6111
+('Sudan', 'SP.POP.TOTL')
+Expect: 7198444.40741
+('Senegal', 'SP.POP.TOTL')
+Expect: 3036044.44444
+('Singapore', 'SP.POP.TOTL')
+Expect: 293444.166667
+('Solomon Islands', 'SP.POP.TOTL')
+Expect: 3627929.94444
+('Sierra Leone', 'SP.POP.TOTL')
+Expect: 4859081.59259
+('El Salvador', 'SP.POP.TOTL')
+Expect: 23186.3518519
+('San Marino', 'SP.POP.TOTL')
+Expect: 5833286.88889
+('Somalia', 'SP.POP.TOTL')
+Expect: 7493087.75
+('Serbia', 'SP.POP.TOTL')
+Expect: 405622.296296
+('Suriname', 'SP.POP.TOTL')
+Expect: 1881152.66667
+('Slovenia', 'SP.POP.TOTL')
+Expect: 8451951.96296
+('Sweden', 'SP.POP.TOTL')
+Expect: 753478.796296
+('Swaziland', 'SP.POP.TOTL')
+Expect: 67064.037037
+('Seychelles', 'SP.POP.TOTL')
+Expect: 11635421.537
+('Syria', 'SP.POP.TOTL')
+Expect: 13220.3888889
+('Turks and Caicos Islands', 'SP.POP.TOTL')
+Expect: 6122053.51852
+('Chad', 'SP.POP.TOTL')
+Expect: 3546159.0
+('Togo', 'SP.POP.TOTL')
+Expect: 50237816.1111
+('Thailand', 'SP.POP.TOTL')
+Expect: 4694583.24074
+('Tajikistan', 'SP.POP.TOTL')
+Expect: 3346918.18519
+('Turkmenistan', 'SP.POP.TOTL')
+Expect: 747298.111111
+('Timor-Leste', 'SP.POP.TOTL')
+Expect: 90579.7592593
+('Tonga', 'SP.POP.TOTL')
+Expect: 1128037.16667
+('Trinidad and Tobago', 'SP.POP.TOTL')
+Expect: 7379896.2963
+('Tunisia', 'SP.POP.TOTL')
+Expect: 49640607.8148
+('Turkey', 'SP.POP.TOTL')
+Expect: 8389.7037037
+('Tuvalu', 'SP.POP.TOTL')
+Expect: 17270732.3148
+('Uganda', 'SP.POP.TOTL')
+Expect: 48326092.5926
+('Ukraine', 'SP.POP.TOTL')
+Expect: 3024247.48148
+('Uruguay', 'SP.POP.TOTL')
+Expect: 243508001.185
+('US', 'SP.POP.TOTL')
+Expect: 18538312.2593
+('Uzbekistan', 'SP.POP.TOTL')
+Expect: 139227.425926
+('Vanuatu', 'SP.POP.TOTL')
+Expect: 157349.518519
+('Samoa', 'SP.POP.TOTL')
+Expect: 33026408.963
+('South Africa', 'SP.POP.TOTL')
+Expect: 7360178.75926
+('Zambia', 'SP.POP.TOTL')
+Expect: 8841011.66667
+('Zimbabwe', 'SP.POP.TOTL')
+Expect: 180000000.0
+('Aruba', 'AG.LND.TOTL.K2')
+Expect: 470000000.0
+('Andorra', 'AG.LND.TOTL.K2')
+Expect: 6.5223e+11
+('Afghanistan', 'AG.LND.TOTL.K2')
+Expect: 1.2467e+12
+('Angola', 'AG.LND.TOTL.K2')
+Expect: 27400000000.0
+('Albania', 'AG.LND.TOTL.K2')
+Expect: 83600000000.0
+('United Arab Emirates', 'AG.LND.TOTL.K2')
+Expect: 2.73669e+12
+('Argentina', 'AG.LND.TOTL.K2')
+Expect: 28480000000.0
+('Armenia', 'AG.LND.TOTL.K2')
+Expect: 200000000.0
+('American Samoa', 'AG.LND.TOTL.K2')
+Expect: 440000000.0
+('Antigua and Barbuda', 'AG.LND.TOTL.K2')
+Expect: 7.6823e+12
+('Australia', 'AG.LND.TOTL.K2')
+Expect: 82446132075.5
+('Austria', 'AG.LND.TOTL.K2')
+Expect: 83047377358.5
+('Azerbaijan', 'AG.LND.TOTL.K2')
+Expect: 25680000000.0
+('Burundi', 'AG.LND.TOTL.K2')
+Expect: 30280000000.0
+('Belgium', 'AG.LND.TOTL.K2')
+Expect: 1.1276e+11
+('Benin', 'AG.LND.TOTL.K2')
+Expect: 2.736e+11
+('Burkina Faso', 'AG.LND.TOTL.K2')
+Expect: 1.3017e+11
+('Bangladesh', 'AG.LND.TOTL.K2')
+Expect: 1.10178301887e+11
+('Bulgaria', 'AG.LND.TOTL.K2')
+Expect: 705094339.623
+('Bahrain', 'AG.LND.TOTL.K2')
+Expect: 51000000000.0
+('Bosnia and Herzegovina', 'AG.LND.TOTL.K2')
+Expect: 2.0284509434e+11
+('Belarus', 'AG.LND.TOTL.K2')
+Expect: 22810000000.0
+('Belize', 'AG.LND.TOTL.K2')
+Expect: 50000000.0
+('Bermuda', 'AG.LND.TOTL.K2')
+Expect: 8.45942e+12
+('Brazil', 'AG.LND.TOTL.K2')
+Expect: 430000000.0
+('Barbados', 'AG.LND.TOTL.K2')
+Expect: 5270000000.0
+('Brunei', 'AG.LND.TOTL.K2')
+Expect: 44070000000.0
+('Bhutan', 'AG.LND.TOTL.K2')
+Expect: 5.6673e+11
+('Botswana', 'AG.LND.TOTL.K2')
+Expect: 6.2298e+11
+('Central African Republic', 'AG.LND.TOTL.K2')
+Expect: 9.09351e+12
+('Canada', 'AG.LND.TOTL.K2')
+Expect: 40000000000.0
+('Switzerland', 'AG.LND.TOTL.K2')
+Expect: 7.43532e+11
+('Chile', 'AG.LND.TOTL.K2')
+Expect: 9.3274519434e+12
+('China', 'AG.LND.TOTL.K2')
+Expect: 4.7271e+11
+('Cameroon', 'AG.LND.TOTL.K2')
+Expect: 1.1095e+12
+('Colombia', 'AG.LND.TOTL.K2')
+Expect: 1861000000.0
+('Comoros', 'AG.LND.TOTL.K2')
+Expect: 51060000000.0
+('Costa Rica', 'AG.LND.TOTL.K2')
+Expect: 1.07179245283e+11
+('Cuba', 'AG.LND.TOTL.K2')
+Expect: 240000000.0
+('Cayman Islands', 'AG.LND.TOTL.K2')
+Expect: 9240000000.0
+('Cyprus', 'AG.LND.TOTL.K2')
+Expect: 77265849056.6
+('Czech Republic', 'AG.LND.TOTL.K2')
+Expect: 3.49011132075e+11
+('Germany', 'AG.LND.TOTL.K2')
+Expect: 23180000000.0
+('Djibouti', 'AG.LND.TOTL.K2')
+Expect: 750000000.0
+('Dominica', 'AG.LND.TOTL.K2')
+Expect: 42397169811.3
+('Denmark', 'AG.LND.TOTL.K2')
+Expect: 48320000000.0
+('Dominican Republic', 'AG.LND.TOTL.K2')
+Expect: 2.38174e+12
+('Algeria', 'AG.LND.TOTL.K2')
+Expect: 2.68242264151e+11
+('Ecuador', 'AG.LND.TOTL.K2')
+Expect: 1.01e+11
+('Eritrea', 'AG.LND.TOTL.K2')
+Expect: 4.99400188679e+11
+('Spain', 'AG.LND.TOTL.K2')
+Expect: 42390000000.0
+('Estonia', 'AG.LND.TOTL.K2')
+Expect: 1.06098113208e+12
+('Ethiopia', 'AG.LND.TOTL.K2')
+Expect: 3.04492830189e+11
+('Finland', 'AG.LND.TOTL.K2')
+Expect: 18270000000.0
+('Fiji', 'AG.LND.TOTL.K2')
+Expect: 5.47668301887e+11
+('France', 'AG.LND.TOTL.K2')
+Expect: 2.4193e+11
+('UK', 'AG.LND.TOTL.K2')
+Expect: 69490000000.0
+('Georgia', 'AG.LND.TOTL.K2')
+Expect: 2.2754e+11
+('Ghana', 'AG.LND.TOTL.K2')
+Expect: 2.4572e+11
+('Guinea', 'AG.LND.TOTL.K2')
+Expect: 28120000000.0
+('Guinea-Bissau', 'AG.LND.TOTL.K2')
+Expect: 28050000000.0
+('Equatorial Guinea', 'AG.LND.TOTL.K2')
+Expect: 1.289e+11
+('Greece', 'AG.LND.TOTL.K2')
+Expect: 340000000.0
+('Grenada', 'AG.LND.TOTL.K2')
+Expect: 3.62454716981e+11
+('Greenland', 'AG.LND.TOTL.K2')
+Expect: 1.0716e+11
+('Guatemala', 'AG.LND.TOTL.K2')
+Expect: 540000000.0
+('Guam', 'AG.LND.TOTL.K2')
+Expect: 1.96810377358e+11
+('Guyana', 'AG.LND.TOTL.K2')
+Expect: 1.1189e+11
+('Honduras', 'AG.LND.TOTL.K2')
+Expect: 55921132075.5
+('Croatia', 'AG.LND.TOTL.K2')
+Expect: 27560000000.0
+('Haiti', 'AG.LND.TOTL.K2')
+Expect: 89911698113.2
+('Hungary', 'AG.LND.TOTL.K2')
+Expect: 1.81157e+12
+('Indonesia', 'AG.LND.TOTL.K2')
+Expect: 570000000.0
+('Isle of Man', 'AG.LND.TOTL.K2')
+Expect: 2.97319e+12
+('India', 'AG.LND.TOTL.K2')
+Expect: 68890000000.0
+('Ireland', 'AG.LND.TOTL.K2')
+Expect: 4.37082264151e+11
+('Iraq', 'AG.LND.TOTL.K2')
+Expect: 1.0025e+11
+('Iceland', 'AG.LND.TOTL.K2')
+Expect: 21640000000.0
+('Israel', 'AG.LND.TOTL.K2')
+Expect: 2.94115660377e+11
+('Italy', 'AG.LND.TOTL.K2')
+Expect: 10830000000.0
+('Jamaica', 'AG.LND.TOTL.K2')
+Expect: 88280754717.0
+('Jordan', 'AG.LND.TOTL.K2')
+Expect: 3.65418867925e+11
+('Japan', 'AG.LND.TOTL.K2')
+Expect: 2.6997e+12
+('Kazakhstan', 'AG.LND.TOTL.K2')
+Expect: 5.6914e+11
+('Kenya', 'AG.LND.TOTL.K2')
+Expect: 1.7652e+11
+('Cambodia', 'AG.LND.TOTL.K2')
+Expect: 810000000.0
+('Kiribati', 'AG.LND.TOTL.K2')
+Expect: 17820000000.0
+('Kuwait', 'AG.LND.TOTL.K2')
+Expect: 10230000000.0
+('Lebanon', 'AG.LND.TOTL.K2')
+Expect: 96320000000.0
+('Liberia', 'AG.LND.TOTL.K2')
+Expect: 1.75954e+12
+('Libya', 'AG.LND.TOTL.K2')
+Expect: 160000000.0
+('Liechtenstein', 'AG.LND.TOTL.K2')
+Expect: 62710000000.0
+('Sri Lanka', 'AG.LND.TOTL.K2')
+Expect: 30360000000.0
+('Lesotho', 'AG.LND.TOTL.K2')
+Expect: 62679377358.5
+('Lithuania', 'AG.LND.TOTL.K2')
+Expect: 2590000000.0
+('Luxembourg', 'AG.LND.TOTL.K2')
+Expect: 62192867924.5
+('Latvia', 'AG.LND.TOTL.K2')
+Expect: 4.46309056604e+11
+('Morocco', 'AG.LND.TOTL.K2')
+Expect: 2000000.0
+('Monaco', 'AG.LND.TOTL.K2')
+Expect: 5.8154e+11
+('Madagascar', 'AG.LND.TOTL.K2')
+Expect: 300000000.0
+('Maldives', 'AG.LND.TOTL.K2')
+Expect: 1.94395e+12
+('Mexico', 'AG.LND.TOTL.K2')
+Expect: 180000000.0
+('Marshall Islands', 'AG.LND.TOTL.K2')
+Expect: 1.22019e+12
+('Mali', 'AG.LND.TOTL.K2')
+Expect: 320000000.0
+('Malta', 'AG.LND.TOTL.K2')
+Expect: 6.53503773585e+11
+('Myanmar', 'AG.LND.TOTL.K2')
+Expect: 13450000000.0
+('Montenegro', 'AG.LND.TOTL.K2')
+Expect: 1.55356e+12
+('Mongolia', 'AG.LND.TOTL.K2')
+Expect: 460000000.0
+('Northern Mariana Islands', 'AG.LND.TOTL.K2')
+Expect: 7.8638e+11
+('Mozambique', 'AG.LND.TOTL.K2')
+Expect: 1.0307e+12
+('Mauritania', 'AG.LND.TOTL.K2')
+Expect: 2030000000.0
+('Mauritius', 'AG.LND.TOTL.K2')
+Expect: 94280000000.0
+('Malawi', 'AG.LND.TOTL.K2')
+Expect: 3.2855e+11
+('Malaysia', 'AG.LND.TOTL.K2')
+Expect: 8.2329e+11
+('Namibia', 'AG.LND.TOTL.K2')
+Expect: 18280000000.0
+('New Caledonia', 'AG.LND.TOTL.K2')
+Expect: 1.2667e+12
+('Niger', 'AG.LND.TOTL.K2')
+Expect: 9.1077e+11
+('Nigeria', 'AG.LND.TOTL.K2')
+Expect: 1.2034e+11
+('Nicaragua', 'AG.LND.TOTL.K2')
+Expect: 33757169811.3
+('Netherlands', 'AG.LND.TOTL.K2')
+Expect: 3.04322641509e+11
+('Norway', 'AG.LND.TOTL.K2')
+Expect: 1.43085849057e+11
+('Nepal', 'AG.LND.TOTL.K2')
+Expect: 2.6331e+11
+('New Zealand', 'AG.LND.TOTL.K2')
+Expect: 3.095e+11
+('Oman', 'AG.LND.TOTL.K2')
+Expect: 7.7088e+11
+('Pakistan', 'AG.LND.TOTL.K2')
+Expect: 74340000000.0
+('Panama', 'AG.LND.TOTL.K2')
+Expect: 1.28e+12
+('Peru', 'AG.LND.TOTL.K2')
+Expect: 2.98191886792e+11
+('Philippines', 'AG.LND.TOTL.K2')
+Expect: 460000000.0
+('Palau', 'AG.LND.TOTL.K2')
+Expect: 4.5286e+11
+('Papua New Guinea', 'AG.LND.TOTL.K2')
+Expect: 3.04577169811e+11
+('Poland', 'AG.LND.TOTL.K2')
+Expect: 8870000000.0
+('Puerto Rico', 'AG.LND.TOTL.K2')
+Expect: 91494905660.4
+('Portugal', 'AG.LND.TOTL.K2')
+Expect: 3.973e+11
+('Paraguay', 'AG.LND.TOTL.K2')
+Expect: 3660000000.0
+('French Polynesia', 'AG.LND.TOTL.K2')
+Expect: 11610000000.0
+('Qatar', 'AG.LND.TOTL.K2')
+Expect: 2.30049245283e+11
+('Romania', 'AG.LND.TOTL.K2')
+Expect: 1.6385919434e+13
+('Russia', 'AG.LND.TOTL.K2')
+Expect: 24670000000.0
+('Rwanda', 'AG.LND.TOTL.K2')
+Expect: 2.14969e+12
+('Saudi Arabia', 'AG.LND.TOTL.K2')
+Expect: 2.376e+12
+('Sudan', 'AG.LND.TOTL.K2')
+Expect: 1.9253e+11
+('Senegal', 'AG.LND.TOTL.K2')
+Expect: 674886792.453
+('Singapore', 'AG.LND.TOTL.K2')
+Expect: 27990000000.0
+('Solomon Islands', 'AG.LND.TOTL.K2')
+Expect: 71620000000.0
+('Sierra Leone', 'AG.LND.TOTL.K2')
+Expect: 20756792452.8
+('El Salvador', 'AG.LND.TOTL.K2')
+Expect: 60000000.0
+('San Marino', 'AG.LND.TOTL.K2')
+Expect: 6.2734e+11
+('Somalia', 'AG.LND.TOTL.K2')
+Expect: 87460000000.0
+('Serbia', 'AG.LND.TOTL.K2')
+Expect: 1.56e+11
+('Suriname', 'AG.LND.TOTL.K2')
+Expect: 20140000000.0
+('Slovenia', 'AG.LND.TOTL.K2')
+Expect: 4.1034e+11
+('Sweden', 'AG.LND.TOTL.K2')
+Expect: 17200000000.0
+('Swaziland', 'AG.LND.TOTL.K2')
+Expect: 460000000.0
+('Seychelles', 'AG.LND.TOTL.K2')
+Expect: 1.83745283019e+11
+('Syria', 'AG.LND.TOTL.K2')
+Expect: 950000000.0
+('Turks and Caicos Islands', 'AG.LND.TOTL.K2')
+Expect: 1.25940377358e+12
+('Chad', 'AG.LND.TOTL.K2')
+Expect: 54390000000.0
+('Togo', 'AG.LND.TOTL.K2')
+Expect: 5.1089e+11
+('Thailand', 'AG.LND.TOTL.K2')
+Expect: 1.3996e+11
+('Tajikistan', 'AG.LND.TOTL.K2')
+Expect: 4.6993e+11
+('Turkmenistan', 'AG.LND.TOTL.K2')
+Expect: 14870000000.0
+('Timor-Leste', 'AG.LND.TOTL.K2')
+Expect: 720000000.0
+('Tonga', 'AG.LND.TOTL.K2')
+Expect: 5130000000.0
+('Trinidad and Tobago', 'AG.LND.TOTL.K2')
+Expect: 1.5536e+11
+('Tunisia', 'AG.LND.TOTL.K2')
+Expect: 7.6963e+11
+('Turkey', 'AG.LND.TOTL.K2')
+Expect: 30000000.0
+('Tuvalu', 'AG.LND.TOTL.K2')
+Expect: 1.9981e+11
+('Uganda', 'AG.LND.TOTL.K2')
+Expect: 5.79346415094e+11
+('Ukraine', 'AG.LND.TOTL.K2')
+Expect: 1.7502e+11
+('Uruguay', 'AG.LND.TOTL.K2')
+Expect: 9.15810037736e+12
+('US', 'AG.LND.TOTL.K2')
+Expect: 4.254e+11
+('Uzbekistan', 'AG.LND.TOTL.K2')
+Expect: 12190000000.0
+('Vanuatu', 'AG.LND.TOTL.K2')
+Expect: 2830000000.0
+('Samoa', 'AG.LND.TOTL.K2')
+Expect: 1.21309e+12
+('South Africa', 'AG.LND.TOTL.K2')
+Expect: 7.4339e+11
+('Zambia', 'AG.LND.TOTL.K2')
 ('US', 'AG.LND.TOTL.K2', 386850000000.0)
 ('US', 'BN.KLT.DINV.CD', -846014570.2222222)
 ('US', 'BX.GSR.MRCH.CD', 5301622676.666667)
@@ -2627,3 +6149,376 @@
 ('Yugoslavia', 'NY.GDP.MKTP.CD', 5224855033.518518)
 ('Yugoslavia', 'SP.DYN.LE00.IN', 1687599631.987222)
 ('Yugoslavia', 'SP.POP.TOTL', 8841011.666666666)
+('2040406', 'China', 'EP.PMP.DESL.CD', '65742500.000000', 1)
+('2040406', 'China', 'EP.PMP.DESL.CD', '4.400000', 1)
+('2185244', 'Hungary', 'FP.CPI.TOTL.ZG', '5.500000', 1)
+('2185244', 'Hungary', 'FP.CPI.TOTL.ZG', '0.290000', 1)
+('2185244', 'Hungary', 'FP.CPI.TOTL.ZG', '25.000000', 1)
+('2185244', 'Hungary', 'FP.CPI.TOTL.ZG', '5.500000', 1)
+('2185244', 'Hungary', 'FP.CPI.TOTL.ZG', '3.000000', 1)
+('2195967', 'US', 'SP.DYN.LE00.IN', '1388534400.000000', 2)
+('2195967', 'US', 'SP.DYN.LE00.IN', '1.000000', 2)
+('2195967', 'Afghanistan', 'SP.DYN.LE00.IN', '1388534400.000000', 2)
+('2195967', 'Afghanistan', 'SP.DYN.LE00.IN', '1.000000', 2)
+('2205376', 'Belgium', 'AG.LND.TOTL.K2', '2100.000000', 2)
+('2205376', 'Belgium', 'AG.LND.TOTL.K2', '31000000512.000000', 2)
+('2205376', 'Belgium', 'AG.LND.TOTL.K2', '32115853312.000000', 2)
+('2225954', 'Indonesia', 'FP.CPI.TOTL.ZG', '94672800.000000', 2)
+('2225954', 'Indonesia', 'FP.CPI.TOTL.ZG', '5.000000', 2)
+('2225954', 'Indonesia', 'FP.CPI.TOTL.ZG', '94672800.000000', 2)
+('2225954', 'Indonesia', 'FP.CPI.TOTL.ZG', '5.000000', 2)
+('2233413', 'Togo', 'SP.POP.TOTL', '6500000.000000', 1)
+('2235556', 'Cambodia', 'AG.LND.TOTL.K2', '599999971328.000000', 1)
+('2235556', 'Cambodia', 'SP.DYN.LE00.IN', '599999971328.000000', 1)
+('2235556', 'Laos', 'AG.LND.TOTL.K2', '599999971328.000000', 1)
+('2235556', 'Laos', 'SP.DYN.LE00.IN', '599999971328.000000', 1)
+('2235556', 'Myanmar', 'AG.LND.TOTL.K2', '599999971328.000000', 1)
+('2235556', 'Myanmar', 'SP.DYN.LE00.IN', '599999971328.000000', 1)
+('2235556', 'Thailand', 'AG.LND.TOTL.K2', '599999971328.000000', 1)
+('2235556', 'Thailand', 'SP.DYN.LE00.IN', '599999971328.000000', 1)
+('2235556', 'Vietnam', 'AG.LND.TOTL.K2', '599999971328.000000', 1)
+('2235556', 'Vietnam', 'SP.DYN.LE00.IN', '599999971328.000000', 1)
+('2235556', 'China', 'AG.LND.TOTL.K2', '599999971328.000000', 1)
+('2235556', 'China', 'SP.DYN.LE00.IN', '599999971328.000000', 1)
+('2239574', 'Indonesia', 'SP.POP.TOTL', '230000000.000000', 1)
+('2268301', 'Jamaica', 'SP.DYN.LE00.IN', '1988.000000', 1)
+('2268301', 'Jamaica', 'SP.DYN.LE00.IN', '233.000000', 1)
+('2268301', 'Jamaica', 'SP.DYN.LE00.IN', '64.820801', 1)
+('2268301', 'Jamaica', 'SP.DYN.LE00.IN', '45.000000', 1)
+('2268301', 'Jamaica', 'SP.DYN.LE00.IN', '1000000000.000000', 1)
+('2297334', 'Germany', 'SP.DYN.LE00.IN', '10000000000.000000', 1)
+('2297334', 'Germany', 'SP.DYN.LE00.IN', '12700000256.000000', 1)
+('2306220', 'Germany', 'SP.DYN.LE00.IN', '12400000000.000000', 1)
+('2306220', 'Germany', 'SP.DYN.LE00.IN', '2010.000000', 1)
+('2306220', 'Germany', 'SP.DYN.LE00.IN', '32.000000', 1)
+('2306220', 'Germany', 'SP.DYN.LE00.IN', '52.000000', 1)
+('2306220', 'Germany', 'SP.DYN.LE00.IN', '9800000512.000000', 1)
+('2306220', 'Germany', 'SP.DYN.LE00.IN', '12400000000.000000', 1)
+('2306385', 'Israel', 'SP.POP.TOTL', '20.000000', 1)
+('2306385', 'Israel', 'SP.POP.TOTL', '7600000.000000', 1)
+('2404777', 'Afghanistan', 'SP.POP.TOTL', '560000.000000', 1)
+('2404777', 'Afghanistan', 'SP.POP.TOTL', '28000000.000000', 1)
+('2407806', 'Brazil', 'EG.ELC.PROD.KH', '11000000512.000000', 2)
+('2521472', 'Israel', 'SP.POP.TOTL', '5500000.000000', 1)
+('2521472', 'Israel', 'SP.POP.TOTL', '5500000.000000', 1)
+('2564223', 'India', 'SP.DYN.LE00.IN', '10000000000.000000', 1)
+('2564223', 'India', 'SP.DYN.LE00.IN', '54000.000000', 1)
+('2611509', 'Netherlands', 'SP.DYN.LE00.IN', '5300000256.000000', 1)
+('2611509', 'Iceland', 'SP.DYN.LE00.IN', '5300000256.000000', 1)
+('2619357', 'Sweden', 'SP.POP.TOTL', '9000000.000000', 1)
+('2623971', 'China', 'SP.POP.TOTL', '1300000000.000000', 1)
+('2639408', 'Singapore', 'SP.DYN.LE00.IN', '1.000000', 1)
+('2639408', 'Singapore', 'SP.POP.TOTL', '1.000000', 2)
+('2639408', 'Singapore', 'SP.DYN.LE00.IN', '5080000.000000', 1)
+('2639408', 'Singapore', 'SP.POP.TOTL', '5080000.000000', 2)
+('2639408', 'Singapore', 'SP.DYN.LE00.IN', '0.310000', 1)
+('2639408', 'Singapore', 'SP.POP.TOTL', '0.310000', 2)
+('2639408', 'Singapore', 'SP.DYN.LE00.IN', '5080000.000000', 1)
+('2639408', 'Singapore', 'SP.POP.TOTL', '5080000.000000', 2)
+('2639408', 'Singapore', 'SP.DYN.LE00.IN', '2010.000000', 1)
+('2639408', 'Singapore', 'SP.POP.TOTL', '2010.000000', 2)
+('2639408', 'Singapore', 'SP.DYN.LE00.IN', '1.000000', 1)
+('2639408', 'Singapore', 'SP.POP.TOTL', '1.000000', 2)
+('2639408', 'Singapore', 'SP.DYN.LE00.IN', '5080000.000000', 1)
+('2639408', 'Singapore', 'SP.POP.TOTL', '5080000.000000', 2)
+('2639408', 'Singapore', 'SP.DYN.LE00.IN', '0.310000', 1)
+('2639408', 'Singapore', 'SP.POP.TOTL', '0.310000', 2)
+('2639408', 'Singapore', 'SP.DYN.LE00.IN', '5080000.000000', 1)
+('2639408', 'Singapore', 'SP.POP.TOTL', '5080000.000000', 2)
+('2639408', 'Singapore', 'SP.DYN.LE00.IN', '2010.000000', 1)
+('2639408', 'Singapore', 'SP.POP.TOTL', '2010.000000', 2)
+('2721574', 'Poland', 'FP.CPI.TOTL.ZG', '2011.000000', 1)
+('2721574', 'Poland', 'SP.DYN.LE00.IN', '2011.000000', 1)
+('2721574', 'Poland', 'FP.CPI.TOTL.ZG', '3.500000', 1)
+('2721574', 'Poland', 'SP.DYN.LE00.IN', '3.500000', 1)
+('2721574', 'Poland', 'FP.CPI.TOTL.ZG', '2.300000', 1)
+('2721574', 'Poland', 'SP.DYN.LE00.IN', '2.300000', 1)
+('2863572', 'Brazil', 'FP.CPI.TOTL.ZG', '4.500000', 1)
+('2863572', 'Brazil', 'FP.CPI.TOTL.ZG', '2012.000000', 1)
+('2889786', 'Netherlands', 'SP.DYN.LE00.IN', '5300000256.000000', 1)
+('2889786', 'Iceland', 'SP.DYN.LE00.IN', '5300000256.000000', 1)
+('2939803', 'Malawi', 'SP.POP.TOTL', '13000000.000000', 1)
+('2982919', 'China', 'SP.POP.TOTL', '1000000000.000000', 1)
+('3012226', 'Indonesia', 'SP.POP.TOTL', '230000000.000000', 1)
+('3012226', 'Japan', 'SP.POP.TOTL', '230000000.000000', 1)
+('3017135', 'Russia', 'FP.CPI.TOTL.ZG', '7.400000', 1)
+('3017135', 'Russia', 'SP.DYN.LE00.IN', '7.400000', 1)
+('3017135', 'Russia', 'FP.CPI.TOTL.ZG', '0.600000', 1)
+('3017135', 'Russia', 'SP.DYN.LE00.IN', '0.600000', 1)
+('3046241', 'Iceland', 'IT.NET.USER.P2', '5699999744.000000', 1)
+('3046241', 'Iceland', 'IT.NET.USER.P2', '0.200800', 1)
+('3046241', 'Netherlands', 'IT.NET.USER.P2', '5699999744.000000', 1)
+('3046241', 'Netherlands', 'IT.NET.USER.P2', '0.200800', 1)
+('3066658', 'Slovenia', 'SP.POP.TOTL', '2200000.000000', 1)
+('3111992', 'Niger', 'SP.POP.TOTL', '1.000000', 1)
+('3111992', 'Niger', 'SP.POP.TOTL', '7000000.000000', 1)
+('3111992', 'Niger', 'SP.POP.TOTL', '50.000000', 1)
+('3163088', 'Bangladesh', 'FP.CPI.TOTL.ZG', '6.860000', 2)
+('3163088', 'Bangladesh', 'SP.DYN.LE00.IN', '6.860000', 1)
+('3163088', 'Bangladesh', 'FP.CPI.TOTL.ZG', '8.430000', 2)
+('3163088', 'Bangladesh', 'SP.DYN.LE00.IN', '8.430000', 1)
+('3163088', 'Bangladesh', 'FP.CPI.TOTL.ZG', '6.860000', 2)
+('3163088', 'Bangladesh', 'SP.DYN.LE00.IN', '6.860000', 1)
+('3163088', 'Bangladesh', 'FP.CPI.TOTL.ZG', '8.430000', 2)
+('3163088', 'Bangladesh', 'SP.DYN.LE00.IN', '8.430000', 1)
+('3191187', 'China', 'IT.NET.USER.P2', '60.000000', 1)
+('3191187', 'China', 'IT.NET.USER.P2', '20.000000', 1)
+('3191187', 'US', 'IT.NET.USER.P2', '60.000000', 1)
+('3191187', 'US', 'IT.NET.USER.P2', '20.000000', 1)
+('3217383', 'Hungary', 'EP.PMP.DESL.CD', '5.700000', 1)
+('3217383', 'Hungary', 'EP.PMP.DESL.CD', '2.800000', 1)
+('3217383', 'Latvia', 'EP.PMP.DESL.CD', '5.700000', 1)
+('3217383', 'Latvia', 'EP.PMP.DESL.CD', '2.800000', 1)
+('3240014', 'Australia', 'FP.CPI.TOTL.ZG', '4.500000', 1)
+('3240014', 'Australia', 'SP.DYN.LE00.IN', '4.500000', 2)
+('3240014', 'Australia', 'FP.CPI.TOTL.ZG', '52010.000000', 1)
+('3240014', 'Australia', 'SP.DYN.LE00.IN', '52010.000000', 2)
+('3240014', 'Australia', 'FP.CPI.TOTL.ZG', '4.500000', 1)
+('3240014', 'Australia', 'SP.DYN.LE00.IN', '4.500000', 2)
+('3240014', 'Australia', 'FP.CPI.TOTL.ZG', '4.500000', 1)
+('3240014', 'Australia', 'SP.DYN.LE00.IN', '4.500000', 2)
+('3240014', 'Australia', 'FP.CPI.TOTL.ZG', '52010.000000', 1)
+('3240014', 'Australia', 'SP.DYN.LE00.IN', '52010.000000', 2)
+('3240014', 'Australia', 'FP.CPI.TOTL.ZG', '4.500000', 1)
+('3240014', 'Australia', 'SP.DYN.LE00.IN', '4.500000', 2)
+('3242488', 'Uganda', 'SP.POP.TOTL', '33000000.000000', 1)
+('3242488', 'Uganda', 'SP.POP.TOTL', '55000000.000000', 1)
+('3242488', 'Uganda', 'SP.POP.TOTL', '2025.000000', 1)
+('3291842', 'Macau', 'SP.DYN.LE00.IN', '1080000000.000000', 1)
+('3291842', 'Macau', 'SP.DYN.LE00.IN', '485900000.000000', 1)
+('3291842', 'Singapore', 'SP.DYN.LE00.IN', '1080000000.000000', 1)
+('3291842', 'Singapore', 'SP.DYN.LE00.IN', '485900000.000000', 1)
+('3345202', 'Congo', 'SP.POP.TOTL', '1600000.000000', 1)
+('3350727', 'Brazil', 'SP.POP.TOTL', '190000000.000000', 1)
+('3350727', 'Brazil', 'SP.POP.TOTL', '2300.000000', 1)
+('3350727', 'Brazil', 'SP.POP.TOTL', '93.000000', 1)
+('3463747', 'UK', 'FP.CPI.TOTL.ZG', '2010.000000', 2)
+('3463747', 'UK', 'SP.DYN.LE00.IN', '2010.000000', 1)
+('3463747', 'UK', 'FP.CPI.TOTL.ZG', '48.000000', 2)
+('3463747', 'UK', 'SP.DYN.LE00.IN', '48.000000', 1)
+('3463747', 'UK', 'FP.CPI.TOTL.ZG', '22.000000', 2)
+('3463747', 'UK', 'SP.DYN.LE00.IN', '22.000000', 1)
+('3463747', 'UK', 'FP.CPI.TOTL.ZG', '3.100000', 2)
+('3463747', 'UK', 'SP.DYN.LE00.IN', '3.100000', 1)
+('3463747', 'UK', 'FP.CPI.TOTL.ZG', '2.000000', 2)
+('3463747', 'UK', 'SP.DYN.LE00.IN', '2.000000', 1)
+('3477006', 'Ukraine', 'FP.CPI.TOTL.ZG', '4.500000', 1)
+('3477006', 'Ukraine', 'FP.CPI.TOTL.ZG', '2011.000000', 1)
+('3477006', 'Ukraine', 'FP.CPI.TOTL.ZG', '10.000000', 1)
+('3537402', 'US', 'EP.PMP.DESL.CD', '4626642432.000000', 1)
+('3537402', 'US', 'SP.DYN.LE00.IN', '4626642432.000000', 1)
+('3537402', 'US', 'EP.PMP.DESL.CD', '4490564096.000000', 1)
+('3537402', 'US', 'SP.DYN.LE00.IN', '4490564096.000000', 1)
+('3537402', 'US', 'EP.PMP.DESL.CD', '11000000512.000000', 1)
+('3537402', 'US', 'SP.DYN.LE00.IN', '11000000512.000000', 1)
+('3537402', 'US', 'EP.PMP.DESL.CD', '16100000768.000000', 1)
+('3537402', 'US', 'SP.DYN.LE00.IN', '16100000768.000000', 1)
+('3560419', 'Greece', 'SP.DYN.LE00.IN', '5000000000.000000', 1)
+('3560419', 'Greece', 'SP.DYN.LE00.IN', '220903200.000000', 1)
+('3560419', 'Greece', 'SP.DYN.LE00.IN', '5.900000', 1)
+('3586045', 'Peru', 'NY.GDP.MKTP.CD', '70000.000000', 3)
+('3586045', 'Peru', 'NY.GDP.MKTP.CD', '9.300000', 3)
+('3654745', 'Albania', 'SP.POP.TOTL', '3200000.000000', 1)
+('3662632', 'Sudan', 'SP.DYN.LE00.IN', '2493050368.000000', 1)
+('3662632', 'Bulgaria', 'SP.DYN.LE00.IN', '2493050368.000000', 1)
+('3662632', 'Sudan', 'SP.DYN.LE00.IN', '2493050368.000000', 1)
+('3729866', 'Haiti', 'SP.DYN.LE00.IN', '60000.000000', 1)
+('3729866', 'Haiti', 'SP.DYN.LE00.IN', '7.000000', 1)
+('3729866', 'Haiti', 'SP.DYN.LE00.IN', '9000000.000000', 1)
+('3947117', 'Egypt', 'BX.GSR.MRCH.CD', '4000000000.000000', 1)
+('3947117', 'Egypt', 'BX.GSR.MRCH.CD', '473364000.000000', 1)
+('3947117', 'Israel', 'BX.GSR.MRCH.CD', '4000000000.000000', 1)
+('3947117', 'Israel', 'BX.GSR.MRCH.CD', '473364000.000000', 1)
+('4013973', 'Singapore', 'SP.DYN.LE00.IN', '0.470000', 1)
+('4013973', 'Singapore', 'SP.DYN.LE00.IN', '22.200001', 1)
+('4013973', 'Singapore', 'SP.DYN.LE00.IN', '4687.799805', 1)
+('4013973', 'Singapore', 'SP.DYN.LE00.IN', '8200000000.000000', 1)
+('4013973', 'US', 'SP.DYN.LE00.IN', '0.470000', 1)
+('4013973', 'US', 'SP.DYN.LE00.IN', '22.200001', 1)
+('4013973', 'US', 'SP.DYN.LE00.IN', '4687.799805', 1)
+('4013973', 'US', 'SP.DYN.LE00.IN', '8200000000.000000', 1)
+('4018247', 'Malawi', 'SP.DYN.LE00.IN', '1893456000.000000', 2)
+('4018247', 'Malawi', 'SP.DYN.LE00.IN', '1990.000000', 2)
+('4018247', 'Malawi', 'SP.DYN.LE00.IN', '1262304000.000000', 2)
+('4022094', 'China', 'SP.DYN.LE00.IN', '0.200000', 1)
+('4022094', 'China', 'SP.DYN.LE00.IN', '11.000000', 1)
+('4022094', 'China', 'SP.DYN.LE00.IN', '20.000000', 1)
+('4022094', 'China', 'SP.DYN.LE00.IN', '1021.000000', 1)
+('4022094', 'China', 'SP.DYN.LE00.IN', '10.000000', 1)
+('4022094', 'China', 'SP.DYN.LE00.IN', '29.000000', 1)
+('4037932', 'Greece', 'SP.DYN.LE00.IN', '32010.000000', 1)
+('4037932', 'Greece', 'SP.DYN.LE00.IN', '4800000000.000000', 1)
+('4037932', 'Greece', 'SP.DYN.LE00.IN', '6499999744.000000', 1)
+('4104660', 'US', 'SP.DYN.LE00.IN', '1105.000000', 1)
+('4104660', 'US', 'SP.DYN.LE00.IN', '1098.699951', 1)
+('4448115', 'Azerbaijan', 'FP.CPI.TOTL.ZG', '1.500000', 1)
+('4448115', 'Azerbaijan', 'FP.CPI.TOTL.ZG', '2009.000000', 1)
+('4448115', 'Azerbaijan', 'FP.CPI.TOTL.ZG', '20.799999', 1)
+('4474980', 'Russia', 'SP.POP.TOTL', '148000000.000000', 1)
+('4474980', 'Russia', 'SP.POP.TOTL', '1991.000000', 1)
+('4474980', 'Russia', 'SP.POP.TOTL', '142000000.000000', 1)
+('4488807', 'Zimbabwe', 'SP.DYN.LE00.IN', '1483207168.000000', 2)
+('4488807', 'Zimbabwe', 'SP.DYN.LE00.IN', '176.000000', 2)
+('4495781', 'Japan', 'BN.KLT.DINV.CD', '10800000000.000000', 1)
+('4495781', 'Japan', 'BN.KLT.DINV.CD', '2008.000000', 1)
+('4495781', 'Japan', 'BN.KLT.DINV.CD', '109999996928.000000', 1)
+('4517848', 'Brazil', 'EG.ELC.PROD.KH', '7.000000', 2)
+('4517848', 'Brazil', 'EG.ELC.PROD.KH', '146299994112.000000', 2)
+('4517848', 'Brazil', 'EG.ELC.PROD.KH', '2009.000000', 2)
+('4517848', 'Brazil', 'EG.ELC.PROD.KH', '2010.000000', 2)
+('4517848', 'Brazil', 'EG.ELC.PROD.KH', '8.300000', 2)
+('4517848', 'Brazil', 'EG.ELC.PROD.KH', '7.000000', 2)
+('4517848', 'Brazil', 'EG.ELC.PROD.KH', '146299994112.000000', 2)
+('4517848', 'Brazil', 'EG.ELC.PROD.KH', '2009.000000', 2)
+('4517848', 'Brazil', 'EG.ELC.PROD.KH', '2010.000000', 2)
+('4517848', 'Brazil', 'EG.ELC.PROD.KH', '8.300000', 2)
+('4571337', 'Israel', 'FP.CPI.TOTL.ZG', '4.600000', 1)
+('4571337', 'Israel', 'SP.DYN.LE00.IN', '4.600000', 1)
+('4571337', 'Israel', 'FP.CPI.TOTL.ZG', '6.300000', 1)
+('4571337', 'Israel', 'SP.DYN.LE00.IN', '6.300000', 1)
+('4585699', 'Mexico', 'SP.DYN.LE00.IN', '', 1)
+('4649425', 'India', 'SP.POP.TOTL', '1100000000.000000', 1)
+('4821044', 'China', 'SP.POP.TOTL', '1300000000.000000', 2)
+('4821044', 'China', 'SP.POP.TOTL', '6000.000000', 2)
+('4821044', 'China', 'SP.POP.TOTL', '7000000000.000000', 2)
+('4821372', 'China', 'SP.POP.TOTL', '1300000000.000000', 1)
+('4943583', 'Pakistan', 'SP.DYN.LE00.IN', '14.000000', 1)
+('4943583', 'Pakistan', 'SP.DYN.LE00.IN', '59.000000', 1)
+('4943583', 'Pakistan', 'SP.DYN.LE00.IN', '84.000000', 1)
+('4943583', 'Australia', 'SP.DYN.LE00.IN', '14.000000', 1)
+('4943583', 'Australia', 'SP.DYN.LE00.IN', '59.000000', 1)
+('4943583', 'Australia', 'SP.DYN.LE00.IN', '84.000000', 1)
+('5062264', 'Croatia', 'SP.DYN.LE00.IN', '10.000000', 1)
+('5062264', 'Croatia', 'SP.DYN.LE00.IN', '15000000.000000', 1)
+('5062264', 'Germany', 'SP.DYN.LE00.IN', '10.000000', 1)
+('5062264', 'Germany', 'SP.DYN.LE00.IN', '15000000.000000', 1)
+('5074747', 'Poland', 'SP.DYN.LE00.IN', '3.500000', 1)
+('5074747', 'Poland', 'SP.DYN.LE00.IN', '2009.000000', 1)
+('5074747', 'Poland', 'SP.DYN.LE00.IN', '4.200000', 1)
+('5074747', 'Poland', 'SP.DYN.LE00.IN', '2008.000000', 1)
+('5074748', 'Poland', 'FP.CPI.TOTL.ZG', '2010.000000', 1)
+('5074748', 'Poland', 'SP.DYN.LE00.IN', '2010.000000', 1)
+('5074748', 'Poland', 'FP.CPI.TOTL.ZG', '2.000000', 1)
+('5074748', 'Poland', 'SP.DYN.LE00.IN', '2.000000', 1)
+('5297868', 'Germany', 'SP.DYN.LE00.IN', '22009.000000', 1)
+('5297868', 'Germany', 'SP.DYN.LE00.IN', '0.000750', 1)
+('5317722', 'Pakistan', 'SP.POP.TOTL', '170000000.000000', 1)
+('5363166', 'China', 'IT.NET.USER.P2', '10.000000', 1)
+('5363166', 'China', 'IT.NET.USER.P2', '-18.000000', 1)
+('5363166', 'China', 'IT.NET.USER.P2', '10.000000', 1)
+('5363166', 'China', 'IT.NET.USER.P2', '-18.000000', 1)
+('5378999', 'US', 'FP.CPI.TOTL.ZG', '2010.000000', 1)
+('5378999', 'US', 'FP.CPI.TOTL.ZG', '33.000000', 1)
+('5378999', 'US', 'FP.CPI.TOTL.ZG', '9.000000', 1)
+('5378999', 'US', 'FP.CPI.TOTL.ZG', '2.700000', 1)
+('5378999', 'US', 'FP.CPI.TOTL.ZG', '2009.000000', 1)
+('5378999', 'US', 'FP.CPI.TOTL.ZG', '1.600000', 1)
+('5379111', 'Australia', 'EN.ATM.CO2E.KT', '10000000.000000', 1)
+('5379111', 'Australia', 'EN.ATM.CO2E.KT', '299999985664.000000', 1)
+('5379111', 'Australia', 'EN.ATM.CO2E.KT', '2.000000', 1)
+('5379111', 'Australia', 'EN.ATM.CO2E.KT', '30000.000000', 1)
+('5711021', 'China', 'EN.ATM.CO2E.KT', '2006.000000', 1)
+('5711021', 'China', 'EN.ATM.CO2E.KT', '2008.000000', 1)
+('5711021', 'China', 'EN.ATM.CO2E.KT', '10.100000', 1)
+('5711021', 'China', 'EN.ATM.CO2E.KT', '299999985664.000000', 1)
+('5711021', 'China', 'EN.ATM.CO2E.KT', '750000013312.000000', 1)
+('5771674', 'Mozambique', 'BN.KLT.DINV.CD', '200000000.000000', 1)
+('5771674', 'Mozambique', 'BN.KLT.DINV.CD', '230000000.000000', 1)
+('5771674', 'Rwanda', 'BN.KLT.DINV.CD', '200000000.000000', 1)
+('5771674', 'Rwanda', 'BN.KLT.DINV.CD', '230000000.000000', 1)
+('5780873', 'Qatar', 'BN.KLT.DINV.CD', '3500000000.000000', 1)
+('5780873', 'Qatar', 'SP.DYN.LE00.IN', '3500000000.000000', 1)
+('5847940', 'India', 'FP.CPI.TOTL.ZG', '10.000000', 1)
+('6153628', 'Switzerland', 'SP.POP.TOTL', '252010.000000', 3)
+('6153628', 'Switzerland', 'SP.POP.TOTL', '7780000.000000', 3)
+('7057792', 'Peru', 'AG.LND.TOTL.K2', '1290000007168.000000', 1)
+('7057792', 'Peru', 'SP.POP.TOTL', '1290000007168.000000', 1)
+('7057792', 'Peru', 'AG.LND.TOTL.K2', '28220000.000000', 1)
+('7057792', 'Peru', 'SP.POP.TOTL', '28220000.000000', 1)
+('7057792', 'India', 'AG.LND.TOTL.K2', '1290000007168.000000', 1)
+('7057792', 'India', 'SP.POP.TOTL', '1290000007168.000000', 1)
+('7057792', 'India', 'AG.LND.TOTL.K2', '28220000.000000', 1)
+('7057792', 'India', 'SP.POP.TOTL', '28220000.000000', 1)
+('7067063', 'China', 'BN.KLT.DINV.CD', '2009.000000', 1)
+('7067063', 'China', 'SP.DYN.LE00.IN', '2009.000000', 2)
+('7067063', 'China', 'BN.KLT.DINV.CD', '12.000000', 1)
+('7067063', 'China', 'SP.DYN.LE00.IN', '12.000000', 2)
+('7067063', 'China', 'BN.KLT.DINV.CD', '0.000000', 1)
+('7067063', 'China', 'SP.DYN.LE00.IN', '0.000000', 2)
+('7067063', 'China', 'BN.KLT.DINV.CD', '10000000000.000000', 1)
+('7067063', 'China', 'SP.DYN.LE00.IN', '10000000000.000000', 2)
+('7067063', 'China', 'BN.KLT.DINV.CD', '2009.000000', 1)
+('7067063', 'China', 'SP.DYN.LE00.IN', '2009.000000', 2)
+('7067063', 'China', 'BN.KLT.DINV.CD', '12.000000', 1)
+('7067063', 'China', 'SP.DYN.LE00.IN', '12.000000', 2)
+('7067063', 'China', 'BN.KLT.DINV.CD', '0.000000', 1)
+('7067063', 'China', 'SP.DYN.LE00.IN', '0.000000', 2)
+('7067063', 'China', 'BN.KLT.DINV.CD', '10000000000.000000', 1)
+('7067063', 'China', 'SP.DYN.LE00.IN', '10000000000.000000', 2)
+('7254786', 'Chile', 'SP.DYN.LE00.IN', '1970.000000', 2)
+('7254786', 'Chile', 'SP.DYN.LE00.IN', '60.000000', 2)
+('7254786', 'Chile', 'SP.DYN.LE00.IN', '2335262464.000000', 2)
+('7254786', 'Chile', 'SP.DYN.LE00.IN', '2493050368.000000', 2)
+('7254786', 'Cuba', 'SP.DYN.LE00.IN', '1970.000000', 2)
+('7254786', 'Cuba', 'SP.DYN.LE00.IN', '60.000000', 2)
+('7254786', 'Cuba', 'SP.DYN.LE00.IN', '2335262464.000000', 2)
+('7254786', 'Cuba', 'SP.DYN.LE00.IN', '2493050368.000000', 2)
+('7316439', 'Bangladesh', 'FP.CPI.TOTL.ZG', '8.120000', 2)
+('7316439', 'Bangladesh', 'FP.CPI.TOTL.ZG', '0.900000', 2)
+('7316439', 'Bangladesh', 'FP.CPI.TOTL.ZG', '8.120000', 2)
+('7316439', 'Bangladesh', 'FP.CPI.TOTL.ZG', '63462334464.000000', 2)
+('7316439', 'Bangladesh', 'FP.CPI.TOTL.ZG', '8.120000', 2)
+('7316439', 'Bangladesh', 'FP.CPI.TOTL.ZG', '0.900000', 2)
+('7316439', 'Bangladesh', 'FP.CPI.TOTL.ZG', '8.120000', 2)
+('7316439', 'Bangladesh', 'FP.CPI.TOTL.ZG', '63462334464.000000', 2)
+('7493629', 'Brazil', 'EN.ATM.CO2E.KT', '2.000000', 1)
+('7493629', 'Brazil', 'EN.ATM.CO2E.KT', '36.000000', 1)
+('7493629', 'Brazil', 'EN.ATM.CO2E.KT', '2020.000000', 1)
+('7541701', 'China', 'EG.ELC.PROD.KH', '17.000000', 1)
+('7541701', 'Russia', 'EG.ELC.PROD.KH', '17.000000', 1)
+('7541701', 'China', 'EG.ELC.PROD.KH', '17.000000', 1)
+('7541701', 'Russia', 'EG.ELC.PROD.KH', '17.000000', 1)
+('7541701', 'China', 'EG.ELC.PROD.KH', '17.000000', 1)
+('7628811', 'Bangladesh', 'SP.POP.TOTL', '144000000.000000', 1)
+('7628811', 'Bangladesh', 'SP.POP.TOTL', '65000000.000000', 1)
+('7628811', 'Bangladesh', 'SP.POP.TOTL', '45.000000', 1)
+('7677683', 'Turkey', 'BN.KLT.DINV.CD', '8000000000.000000', 1)
+('7688228', 'Russia', 'SP.DYN.LE00.IN', '1893456000.000000', 2)
+('7710134', 'China', 'EP.PMP.DESL.CD', '1.500000', 1)
+('7710134', 'China', 'EP.PMP.DESL.CD', '0.110000', 1)
+('7710134', 'China', 'EP.PMP.DESL.CD', '1.500000', 1)
+('7710134', 'China', 'EP.PMP.DESL.CD', '63430774784.000000', 1)
+('7710134', 'China', 'EP.PMP.DESL.CD', '1.500000', 1)
+('7710134', 'China', 'EP.PMP.DESL.CD', '0.110000', 1)
+('7710134', 'China', 'EP.PMP.DESL.CD', '1.500000', 1)
+('7710134', 'China', 'EP.PMP.DESL.CD', '63430774784.000000', 1)
+('7712949', 'Guinea-Bissau', 'SP.POP.TOTL', '1500000.000000', 1)
+('7712949', 'Guinea-Bissau', 'SP.POP.TOTL', '2008.000000', 1)
+('8015781', 'Australia', 'SP.POP.TOTL', '517000.000000', 1)
+('8015781', 'Australia', 'SP.POP.TOTL', '21000000.000000', 1)
+('8041360', 'Slovenia', 'SP.POP.TOTL', '2200000.000000', 1)
+('8109366', 'Bangladesh', 'EG.ELC.PROD.KH', '24999999488.000000', 1)
+('8109366', 'Bangladesh', 'EG.ELC.PROD.KH', '160000000.000000', 1)
+('8109366', 'Bangladesh', 'EG.ELC.PROD.KH', '30350000128.000000', 1)
+('8207503', 'Turkey', 'SP.DYN.LE00.IN', '2005.000000', 1)
+('8207503', 'Turkey', 'SP.DYN.LE00.IN', '10000000000.000000', 1)
+('8207503', 'Turkey', 'SP.DYN.LE00.IN', '7350000128.000000', 1)
+('8207503', 'Turkey', 'SP.DYN.LE00.IN', '2008.000000', 1)
+('8421835', 'Fiji', 'SP.DYN.LE00.IN', '660000000.000000', 1)
+('8421835', 'Fiji', 'SP.DYN.LE00.IN', '321000000.000000', 1)
+('8421835', 'Fiji', 'SP.DYN.LE00.IN', '440000000.000000', 1)
+('8421835', 'Fiji', 'SP.DYN.LE00.IN', '214000000.000000', 1)
+('8527292', 'China', 'FP.CPI.TOTL.ZG', '3.000000', 1)
+('8527292', 'China', 'FP.CPI.TOTL.ZG', '2010.000000', 1)
+('8625484', 'Philippines', 'SP.DYN.LE00.IN', '2.000000', 2)
+('8625484', 'Philippines', 'SP.DYN.LE00.IN', '4100000000.000000', 2)
+('8625484', 'Philippines', 'SP.DYN.LE00.IN', '3000000000.000000', 2)
+('8625484', 'Philippines', 'SP.DYN.LE00.IN', '1100000000.000000', 2)
+('8625484', 'Philippines', 'SP.DYN.LE00.IN', '2.000000', 2)
+('8625484', 'Philippines', 'SP.DYN.LE00.IN', '4100000000.000000', 2)
+('8625484', 'Philippines', 'SP.DYN.LE00.IN', '3000000000.000000', 2)
+('8625484', 'Philippines', 'SP.DYN.LE00.IN', '1100000000.000000', 2)
+('8644726', 'Japan', 'SP.POP.TOTL', '127000000.000000', 1)
+('8644726', 'Japan', 'SP.POP.TOTL', '90000000.000000', 1)
+('8644726', 'Japan', 'SP.POP.TOTL', '2055.000000', 1)
+('9706798', 'India', 'SP.POP.TOTL', '1200000000.000000', 1)
