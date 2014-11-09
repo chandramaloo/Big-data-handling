@@ -86,17 +86,17 @@ class Sentence:
 
 	def Score(self,Country,value,Attribute):
 		if(len(Country.attribute_array[p[Attribute.code]].values)!=0):
-			acc_expect = 0
-			if ( self.year == None or self.year==0):
-				if( float(value) > float(Country.attribute_array[p[Attribute.code]].values[0]) and float(value) < float(Country.attribute_array[p[Attribute.code]].values[len(Country.attribute_array[p[Attribute.code]].values)-1]) ) : return 90
-				elif ( float(value) < float(Country.attribute_array[p[Attribute.code]].values[0]) ): acc_expect = float(Country.attribute_array[p[Attribute.code]].values[0])
-				elif ( float(value) > float(Country.attribute_array[p[Attribute.code]].values[len(Country.attribute_array[p[Attribute.code]].values)-1]) ): acc_expect = float(Country.attribute_array[p[Attribute.code]].values[len(Country.attribute_array[p[Attribute.code]].values)-1])
-			else :
-				acc_expect = float(Country.attribute_array[p[Attribute.code]].w0) + float(Country.attribute_array[p[Attribute.code]].w1) * float(self.year)
 			wordings = self.words.split(' ')
 			for w in wordings:
 				for key in Attribute.keywords:
 					if(key==w):
+						acc_expect = 0
+						if ( self.year == None or self.year==0):
+							if( float(value) > float(Country.attribute_array[p[Attribute.code]].values[0]) and float(value) < float(Country.attribute_array[p[Attribute.code]].values[len(Country.attribute_array[p[Attribute.code]].values)-1]) ) : return 90
+							elif ( float(value) < float(Country.attribute_array[p[Attribute.code]].values[0]) ): acc_expect = float(Country.attribute_array[p[Attribute.code]].values[0])
+							elif ( float(value) > float(Country.attribute_array[p[Attribute.code]].values[len(Country.attribute_array[p[Attribute.code]].values)-1]) ): acc_expect = float(Country.attribute_array[p[Attribute.code]].values[len(Country.attribute_array[p[Attribute.code]].values)-1])
+						else :
+							acc_expect = float(Country.attribute_array[p[Attribute.code]].w0) + float(Country.attribute_array[p[Attribute.code]].w1) * float(self.year)
 						if(Country.attribute_array[p[Attribute.code]].var!=0):
 							ret = (pow(float(e),-1*pow(float(acc_expect)-float(value),2)/(2*float(Country.attribute_array[p[Attribute.code]].var)))*100/(pow(2*3.14*float(Country.attribute_array[p[Attribute.code]].var),0.5)) )
 						else:
