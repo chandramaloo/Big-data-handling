@@ -9,7 +9,7 @@ cn = dict()
 cc = dict()
 p = dict()
 
-threshold=50
+threshold = 50
 
 class Attribute:
 	def __init__(self):
@@ -20,6 +20,7 @@ class Attribute:
 		self.values = []
 		self,years = []
 		self.expect = 0
+		self.var = 0
 		self.w0 = 0
 		self.w1 = 0
 	
@@ -32,6 +33,7 @@ class Attribute:
 		self.values = []
 		self.years = []
 		self.expect = 0
+		self.var = 0
 		self.w0 = 0
 		self.w1 = 0
 	
@@ -57,12 +59,13 @@ class Country:
 			for i in range(len(j.values)):
 				num=num + (float(j.values[i])-float(j.expect))*( float(j.years[i])-1955)
 				den=den + ( float(j.years[i])-1955)*( float(j.years[i])-1955) 
-				print den
-				print num
+				j.var = j.var + (float(j.values[i])-float(j.expect))*(float(j.values[i])-float(j.expect))
+			if(len(j.values) != 0):
+				j.var = j.var / len(j.values)
 			if(den !=0):
 				j.w1 = float(num/den)
-				j.w0 = float(j.expect) - j.w1*1955
-
+				j.w0 = float(j.expect) - float(j.w1)*1955
+		
 class Sentence:
 	def __init__(self):
 		self.words = None
@@ -86,12 +89,17 @@ class Sentence:
 			acc_expect = float(Country.attribute_array[p[Attribute.code]].expect)
 		else :
 			acc_expect = float(Country.attribute_array[p[Attribute.code]].w0) + float(Country.attribute_array[p[Attribute.code]].w1) * float(self.year)
+			if(acc_expect < 0 and float(Country.attribute_array[p[Attribute.code]].expect) > 0): acc_expect = float(Country.attribute_array[p[Attribute.code]].expect)
 		if ( float(value) < 0.2 * acc_expect or float(value) > 5 * acc_expect ): return 0
 		wordings = self.words.split(' ')
 		for w in wordings:
 			for key in Attribute.keywords:
 				if(key==w):
-					return (pow(e,-pow(acc_expect-float(value),2))*100)
+					if(Country.attribute_array[p[Attribute.code]].var!=0):
+						return (pow(e,-1*pow(acc_expect-float(value),2))*100/(pow(2*3.14*Country.attribute_array[p[Attribute.code]].var,0.5)) )
+					else:
+						if (acc_expect==float(value)): return 100
+						else : return 0
 
 	def doAll(self):
 		out = open("output.csv","ab")
