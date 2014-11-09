@@ -9,7 +9,7 @@ cn = dict()
 cc = dict()
 p = dict()
 
-threshold = 50
+threshold = 0
 
 class Attribute:
 	def __init__(self):
@@ -96,10 +96,14 @@ class Sentence:
 			for key in Attribute.keywords:
 				if(key==w):
 					if(Country.attribute_array[p[Attribute.code]].var!=0):
-						return (pow(e,-1*pow(acc_expect-float(value),2)/(2*Country.attribute_array[p[Attribute.code]].var))*100/(pow(2*3.14*Country.attribute_array[p[Attribute.code]].var,0.5)) )
+						print "HI"
+						print (acc_expect,value,Country.attribute_array[p[Attribute.code]].var)
+						ret = (pow(float(e),-1*pow(float(acc_expect)-float(value),2)/(2*float(Country.attribute_array[p[Attribute.code]].var)))*100/(pow(2*3.14*float(Country.attribute_array[p[Attribute.code]].var),0.5)) )
+						print ret
 					else:
-						if (acc_expect==float(value)): return 100
-						else : return 0
+						if (acc_expect==float(value)): ret = 100
+						else : ret = 0
+					return ret
 
 	def doAll(self):
 		out = open("output.csv","ab")
@@ -113,8 +117,10 @@ class Sentence:
 						if( 1500 < float(v) and float(v) <  2200 ): self.year = v
 						for a in cntry.attribute_array:
 							score = self.Score(cntry,v,a)
-							if score > threshold:
-								out.write(str(self.code)+","+str(c)+","+str(a.code)+","+str(v)+","+str(score)+"\n")
+							try:
+								if(float(score)>threshold):
+									out.write(str(self.code)+","+str(c)+","+str(a.code)+","+str(v)+","+str(score)+"\n")
+							except : pass
 
 def main():
 	with open('countries_id_map.txt','r') as country_cin:
