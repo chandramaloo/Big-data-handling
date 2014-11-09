@@ -18,8 +18,11 @@ class Attribute:
 		self.desc = None
 		self.units = None
 		self.values = []
+		self,years = []
 		self.expect = 0
-
+		self.w0 = 0
+		self.w1 = 0
+	
 	def __init__(self,keywords,desc,code,units):
 		self.code = code
 		self.keywords = []
@@ -27,8 +30,11 @@ class Attribute:
 		self.desc = desc
 		self.units = units
 		self.values = []
+		self.years = []
 		self.expect = 0
-
+		self.w0 = 0
+		self.w1 = 0
+	
 class Country:
 	def __init__(self,code,name):
 		self.attribute_array = []
@@ -43,28 +49,49 @@ class Country:
 		for i in range(len(attribute_array_main)):
 			self.attribute_array.append(deepcopy(attribute_array_main[i]))
 
+	def regression(self):
+		for j in self.attribute_array:
+			for i in range(len(j.values)):
+				j.years.append(1900 + (2010-1900)*i/len(j.values) )
+			num=0; den=0;
+			for i in range(len(j.values)):
+				num=num + (float(j.values[i])-float(j.expect))*( float(j.years[i])-1955)
+				den=den + ( float(j.years[i])-1955)*( float(j.years[i])-1955) 
+				print den
+				print num
+			if(den !=0):
+				j.w1 = float(num/den)
+				j.w0 = float(j.expect) - j.w1*1955
+
 class Sentence:
 	def __init__(self):
 		self.words = None
 		self.code = None
 		self.values = []
 		self.country_name = []
+		self.year = None
 
 	def __init__(self,code,words,values,country_name):
 		self.words = words
 		self.code = code
+		self.year = 0
 		self.values = []
 		self.values = deepcopy(values)
 		self.country_name = []
 		self.country_name = country_name
 
 	def Score(self,Country,value,Attribute):
-		if ( float(value) <  0.2 * float(Country.attribute_array[p[Attribute.code]].expect) ) : return 0
-		if ( float(value) >  5 * float(Country.attribute_array[p[Attribute.code]].expect) ) : return 0
+		acc_expect = 0
+		if ( self.year == None ):
+			acc_expect = float(Country.attribute_array[p[Attribute.code]].expect)
+		else :
+			acc_expect = float(Country.attribute_array[p[Attribute.code]].w0) + float(Country.attribute_array[p[Attribute.code]].w1) * float(self.year)
+		if ( float(value) < 0.2 * acc_expect or float(value) > 5 * acc_expect ): return 0
 		wordings = self.words.split(' ')
 		for w in wordings:
 			for key in Attribute.keywords:
-				if(key==w): return (pow(e,-pow(float(Country.attribute_array[p[Attribute.code]].expect)-float(value),2))*100)
+				if(key==w):
+					return (pow(e,-pow(acc_expect-float(value),2))*100)
 
 	def doAll(self):
 		out = open("output.csv","ab")
@@ -75,6 +102,7 @@ class Sentence:
 				cntry=country_array[cn[c]]
 				for v in self.values:
 					if v!="":
+						if( 1500 < float(v) and float(v) <  2200 ): self.year = v
 						for a in cntry.attribute_array:
 							score = self.Score(cntry,v,a)
 							if score > threshold:
@@ -141,6 +169,9 @@ def main():
 			country_array[cc[row[0]]].attribute_array[p[row[2]]].values.append(row[1])
 		Expect=(exp/count)
 		country_array[cc[prevc]].attribute_array[p[prevp]].expect=Expect
+
+	for i in country_array:
+		i.regression()
 					
 	with open('sentences.tsv','r') as sent_cin:
 		sent_cin=csv.reader(sent_cin, delimiter='\t')
