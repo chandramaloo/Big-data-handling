@@ -1,5 +1,5 @@
 import csv
-import ast
+import os
 from copy import deepcopy
 
 country_array = []
@@ -9,7 +9,7 @@ cn = dict()
 cc = dict()
 p = dict()
 
-threshold = 1
+threshold = 0.01
 entries = set()
 
 class Attribute:
@@ -118,10 +118,10 @@ class Sentence:
 							score = self.Score(cntry,v,a)
 							try:
 								if(float(score)>threshold and float(score)<float(100) ):
-									key = (self.code,c,a.code,v)
-									if key not in entries:
+									key2 = (self.code,c,a.code,v)
+									if key2 not in entries:
 										out.write(str(self.code)+","+str(c)+","+str(a.code)+","+str(v)+","+str(score)+"\n")
-										entries.add(key)
+										entries.add(key2)
 							except : pass
 
 def main():
@@ -188,7 +188,9 @@ def main():
 
 	for i in country_array:
 		i.regression()
-					
+			
+	os.system("rm -f output.csv")
+				
 	with open('sentences.tsv','r') as sent_cin:
 		sent_cin=csv.reader(sent_cin, delimiter='\t')
 		count=0
