@@ -10,6 +10,7 @@ cc = dict()
 p = dict()
 
 threshold = 0
+entries = set()
 
 class Attribute:
 	def __init__(self):
@@ -96,10 +97,7 @@ class Sentence:
 			for key in Attribute.keywords:
 				if(key==w):
 					if(Country.attribute_array[p[Attribute.code]].var!=0):
-						print "HI"
-						print (acc_expect,value,Country.attribute_array[p[Attribute.code]].var)
 						ret = (pow(float(e),-1*pow(float(acc_expect)-float(value),2)/(2*float(Country.attribute_array[p[Attribute.code]].var)))*100/(pow(2*3.14*float(Country.attribute_array[p[Attribute.code]].var),0.5)) )
-						print ret
 					else:
 						if (acc_expect==float(value)): ret = 100
 						else : ret = 0
@@ -119,7 +117,10 @@ class Sentence:
 							score = self.Score(cntry,v,a)
 							try:
 								if(float(score)>threshold):
-									out.write(str(self.code)+","+str(c)+","+str(a.code)+","+str(v)+","+str(score)+"\n")
+									key = (self.code,c,a.code,v)
+									if key not in entries:
+										out.write(str(self.code)+","+str(c)+","+str(a.code)+","+str(v)+","+str(score)+"\n")
+										entries.add(key)
 							except : pass
 
 def main():
