@@ -9,7 +9,7 @@ cn = dict()
 cc = dict()
 p = dict()
 
-threshold = 0
+threshold = 1
 entries = set()
 
 class Attribute:
@@ -85,23 +85,24 @@ class Sentence:
 		self.country_name = country_name
 
 	def Score(self,Country,value,Attribute):
-		acc_expect = 0
-		if ( self.year == None ):
-			acc_expect = float(Country.attribute_array[p[Attribute.code]].expect)
-		else :
-			acc_expect = float(Country.attribute_array[p[Attribute.code]].w0) + float(Country.attribute_array[p[Attribute.code]].w1) * float(self.year)
-			if(acc_expect < 0 and float(Country.attribute_array[p[Attribute.code]].expect) > 0): acc_expect = float(Country.attribute_array[p[Attribute.code]].expect)
-		if ( float(value) < 0.2 * acc_expect or float(value) > 5 * acc_expect ): return 0
-		wordings = self.words.split(' ')
-		for w in wordings:
-			for key in Attribute.keywords:
-				if(key==w):
-					if(Country.attribute_array[p[Attribute.code]].var!=0):
-						ret = (pow(float(e),-1*pow(float(acc_expect)-float(value),2)/(2*float(Country.attribute_array[p[Attribute.code]].var)))*100/(pow(2*3.14*float(Country.attribute_array[p[Attribute.code]].var),0.5)) )
-					else:
-						if (acc_expect==float(value)): ret = 100
-						else : ret = 0
-					return ret
+		if(len(Country.attribute_array[p[Attribute.code]].values)!=0):
+			acc_expect = 0
+			if ( self.year == None or self.year==0):
+				if( float(value) > float(Country.attribute_array[p[Attribute.code]].values[0]) and float(value) < float(Country.attribute_array[p[Attribute.code]].values[len(Country.attribute_array[p[Attribute.code]].values)-1]) ) : return 90
+				elif ( float(value) < float(Country.attribute_array[p[Attribute.code]].values[0]) ): acc_expect = float(Country.attribute_array[p[Attribute.code]].values[0])
+				elif ( float(value) > float(Country.attribute_array[p[Attribute.code]].values[len(Country.attribute_array[p[Attribute.code]].values)-1]) ): acc_expect = float(Country.attribute_array[p[Attribute.code]].values[len(Country.attribute_array[p[Attribute.code]].values)-1])
+			else :
+				acc_expect = float(Country.attribute_array[p[Attribute.code]].w0) + float(Country.attribute_array[p[Attribute.code]].w1) * float(self.year)
+			wordings = self.words.split(' ')
+			for w in wordings:
+				for key in Attribute.keywords:
+					if(key==w):
+						if(Country.attribute_array[p[Attribute.code]].var!=0):
+							ret = (pow(float(e),-1*pow(float(acc_expect)-float(value),2)/(2*float(Country.attribute_array[p[Attribute.code]].var)))*100/(pow(2*3.14*float(Country.attribute_array[p[Attribute.code]].var),0.5)) )
+						else:
+							if (acc_expect==float(value)): ret = 100
+							else : ret = 0
+						return ret
 
 	def doAll(self):
 		out = open("output.csv","ab")
@@ -116,7 +117,7 @@ class Sentence:
 						for a in cntry.attribute_array:
 							score = self.Score(cntry,v,a)
 							try:
-								if(float(score)>threshold):
+								if(float(score)>threshold and float(score)<float(100) ):
 									key = (self.code,c,a.code,v)
 									if key not in entries:
 										out.write(str(self.code)+","+str(c)+","+str(a.code)+","+str(v)+","+str(score)+"\n")
