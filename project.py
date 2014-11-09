@@ -96,7 +96,7 @@ class Sentence:
 			for key in Attribute.keywords:
 				if(key==w):
 					if(Country.attribute_array[p[Attribute.code]].var!=0):
-						return (pow(e,-1*pow(acc_expect-float(value),2))*100/(pow(2*3.14*Country.attribute_array[p[Attribute.code]].var,0.5)) )
+						return (pow(e,-1*pow(acc_expect-float(value),2)/(2*Country.attribute_array[p[Attribute.code]].var))*100/(pow(2*3.14*Country.attribute_array[p[Attribute.code]].var,0.5)) )
 					else:
 						if (acc_expect==float(value)): return 100
 						else : return 0
