@@ -1,5 +1,6 @@
 import csv
 import os
+import re
 from copy import deepcopy
 
 country_array = []
@@ -9,22 +10,11 @@ cn = dict()
 cc = dict()
 p = dict()
 
+key_words = ["land_area","investment_FDI_investments_foreign_","export_exports_trade","electricity_energy_power","co2_carbon","petroleum_diesel_fuel","inflation_hike_cpi","internet_surfing_web_www","gdp_income_gross","expectancy_mortality_infant_newborn_deaths","population_people_inhabitants_citizens_citizen"]
 threshold = 0.01
 entries = set()
 
-class Attribute:
-	def __init__(self):
-		self.code = None
-		self.keywords = []
-		self.desc = None
-		self.units = None
-		self.values = []
-		self,years = []
-		self.expect = 0
-		self.var = 0
-		self.w0 = 0
-		self.w1 = 0
-	
+class Attribute:	
 	def __init__(self,keywords,desc,code,units):
 		self.code = code
 		self.keywords = []
@@ -68,13 +58,6 @@ class Country:
 				j.w0 = float(j.expect) - float(j.w1)*1955
 		
 class Sentence:
-	def __init__(self):
-		self.words = None
-		self.code = None
-		self.values = []
-		self.country_name = []
-		self.year = None
-
 	def __init__(self,code,words,values,country_name):
 		self.words = words
 		self.code = code
@@ -89,7 +72,8 @@ class Sentence:
 			wordings = self.words.split(' ')
 			for w in wordings:
 				for key in Attribute.keywords:
-					if(key==w):
+					w = re.sub(r'[^a-zA-Z]',r'',w)
+					if(key.lower()==w.lower()):
 						acc_expect = 0
 						if ( self.year == None or self.year==0):
 							if( float(value) > float(Country.attribute_array[p[Attribute.code]].values[0]) and float(value) < float(Country.attribute_array[p[Attribute.code]].values[len(Country.attribute_array[p[Attribute.code]].values)-1]) ) : return 90
@@ -150,7 +134,7 @@ def main():
 		attrib_cin=csv.reader(attrib_cin, delimiter='\t')
 		count=0
 		for row in attrib_cin:
-			key=row[0].split('_')
+			key=(key_words[count]).split('_')
 			if len(row)==3:	ext=""
 			else: ext=row[3]
 			ct=Attribute(key, row[1], row[2], ext)
